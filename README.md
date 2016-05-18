@@ -8,8 +8,8 @@
   * `corpus_id` is the corpus identifier (`DW`, `INA` or `UPC`)
   * `video_id` is the video identifier within the corpus
   * `shot_id` is the shot identifier within the video
-  * `shot_start is the shot start time in seconds
-  * `shot_end is the shot end time in seconds
+  * `shot_start` is the shot start time in seconds
+  * `shot_end` is the shot end time in seconds
 
   Each shot is therefore uniquely identified by its tuple `(corpus_id, video_id, shot_id)`.
 
@@ -31,7 +31,7 @@
 
   This directory contains one `{corpus_id}/{video_id}.txt` file per video.
   Each file contains one line per face track, using the following convention:
-  `track_id cluster_id`
+  `track_id cluster_id`  
   * `track_id` as defined in face tracking files
   * `cluster_id` is the identifier of the face track cluster
   
