@@ -8,10 +8,13 @@
   * `DW.txt` contains the list of videos in corpus `DW`.
   * `INA.txt` contains the full list of videos in corpus `INA`
   * `INA.test.txt` contains the subset of `INA` corpus that needs to be processed.
-
   Each file contains one line per video, using the following convention:  
   `{video_id}`  
   * `video_id` is the video identifier within the corpus
+
+  `test.txt` contains all videos that need to be processed (`3-24` + `DW` + `INA.test`), using the following convention:  
+  `{corpus_id} {video_id}`
+
 
 ##### `/shots` (segmentation into shots)
 
