@@ -5,7 +5,7 @@
   This directory contains one `{corpus_id}/{video_id}.shot` file per video.  
   Each file contains one line per shot, using the following convention:  
   `corpus_id video_id shot_id shot_start shot_end`  
-  * `corpus_id` is the corpus identifier (`DW`, `INA` or `UPC`)
+  * `corpus_id` is the corpus identifier (`DW`, `INA` or `3-24`)
   * `video_id` is the video identifier within the corpus
   * `shot_id` is the shot identifier within the video
   * `shot_start` is the shot start time in seconds
