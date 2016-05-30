@@ -78,7 +78,7 @@
   * `speaker` is the detected speaker identifier
   * `gender` is the detected speaker gender
 
-  Within a video, two speech turns with the same speaker identifier indicates that the same speaker uttered the corresponding speech. However, two speech turns with the same speaker identifier in two different videos does not mean anything as speaker diarization was applied video per video. 
+  Within a video, two speech turns with the same speaker identifier indicates that the same speaker uttered the corresponding speech. However, two speech turns with the same speaker identifier in two different videos does not mean anything as speaker diarization was applied video per video.
 
 ##### `/speech_transcription` (automatic speech recognition)
 
@@ -91,3 +91,9 @@
   * `end_time` is the elapsed time since the beginning of the video when word ends
   * `word` is the actual recognized word
   * `confidence` is a recognition confidence score between 0 and 1
+
+##### `/metadata` (for contrastive runs only)
+
+  This directory contains manual metadata provided by INA and DW for their respective datasets.
+
+  Participants are free to use those files in the contrastive runs. However, they should not use them for primary runs as they contain information about people appearing in videos and can be considered as some kind of supervision.
