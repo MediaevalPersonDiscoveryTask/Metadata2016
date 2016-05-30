@@ -1,0 +1,9 @@
+186.480 191.360 4662 4784 josephine_carlier_dard 1.000
+233.600 238.000 5840 5950 lu_par_antoine_de_cannes 0.900
+305.080 310.000 7627 7750 francoise_dard 1.000
+305.120 309.960 7628 7749 femme_de_frederic_dard 0.895
+575.720 580.120 14393 14503 josephine_carlier_dard 1.000
+1068.440 1072.760 26711 26819 femme_de_frederic_dard 0.895
+1341.440 1346.080 33536 33652 lu_par_antoine_de_cannes 0.900
+1402.440 1406.760 35061 35169 lu_par_antoine_de_cannes 0.900
+3232.560 3235.800 80814 80895 romain_graziani 1.000

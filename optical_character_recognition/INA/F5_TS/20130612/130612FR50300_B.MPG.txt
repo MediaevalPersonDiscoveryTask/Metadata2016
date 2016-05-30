@@ -1,0 +1,11 @@
+67.840 68.880 1696 1722 bertrand_schmit 1.000
+68.920 70.000 1723 1750 bertrand_schmit 1.000
+144.120 147.480 3603 3687 r_lieutenant_colonel_stephane_groen 0.968
+387.640 391.000 9691 9775 capitaine_mathieu_berna_be 1.000
+390.080 390.880 9752 9772 capitaine_mathieu_bernabe 1.000
+1064.320 1067.600 26608 26690 ionel_don_verhees 1.000
+1446.680 1450.040 36167 36251 lieutenant_colonel_emma_nuel_vialle 1.000
+1496.920 1499.240 37423 37481 salut_don 1.000
+2221.800 2225.080 55545 55627 commandant_jaroslav_spacek 1.000
+2236.400 2239.680 55910 55992 capitaine_stephane_maurice 1.000
+2578.480 2581.640 64462 64541 juanita_santas_de_la_vega 0.810

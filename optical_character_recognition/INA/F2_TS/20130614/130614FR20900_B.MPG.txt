@@ -1,0 +1,3 @@
+27.000 34.280 675 857 bonne_journee 1.000
+164.440 166.320 4111 4158 message_offert_par_france_2 0.957
+482.040 487.640 12051 12191 in_temps_bill 1.000
