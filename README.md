@@ -24,7 +24,7 @@
   * `right` is the position of the face bounding box right boundary, normalized by the video width
   * `top` is the position of the face bounding box top boundary, normalized by the video height
   * `bottom` is the position of the face bounding box bottom boundary, normalized by the video height
-  
+
   Each face track is therefore uniquely identified by the tuple `(corpus_id, video_id, track_id)`
 
 ##### `/face_clustering` (face clustering)
@@ -34,7 +34,20 @@
   `track_id cluster_id`  
   * `track_id` as defined in face tracking files
   * `cluster_id` is the identifier of the face track cluster
-  
+
   Note that face clustering is applied within each video, not accross all videos.
   Each face track cluster is therefore uniquely identified by the tuple `(corpus_id, video_id, cluster_id)`.
-  
+
+##### `/optical_character_recognition` (OCR + name detection)
+
+  This directory contains one `{corpus_id}/{video_id}.txt` file per video.
+  Each file contains one line per detected overlaid names, using the following convention:
+  `start_time end_time start_frame end_frame person_name confidence`  
+  * `start_time` is the elapsed time since the beginning of the video when overlaid name appears
+  * `end_time` is the elapsed time since the beginning of the video when overlaid name disappears
+  * `start_frame` is the video frame index when overlaid name appears
+  * `end_frame` is the video frame index when overlaid name disappears
+  * `person_name`
+  * `confidence` is a detection confidence score between 0 and 1.
+
+  Note that empty files indicate that no names were detected.
