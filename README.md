@@ -60,7 +60,7 @@
   * `end_time` is the elapsed time since the beginning of the video when overlaid name disappears
   * `start_frame` is the video frame index when overlaid name appears
   * `end_frame` is the video frame index when overlaid name disappears
-  * `person_name`
-  * `confidence` is a detection confidence score between 0 and 1.
+  * `person_name` is the normalized person name
+  * `confidence` is a detection confidence score between 0 and 1
 
   Note that empty files indicate that no names were detected.
