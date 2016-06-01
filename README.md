@@ -83,17 +83,18 @@
 
   Within a video, two speech turns with the same speaker identifier indicates that the same speaker uttered the corresponding speech. However, two speech turns with the same speaker identifier in two different videos does not mean anything as speaker diarization was applied video per video.
 
-##### `/speech_transcription` (automatic speech recognition)
+##### `/speech_transcription` (automatic speech recognition and named entity detection)
 
   This directory contains one `{corpus_id}/{video_id}.txt` file per video.  
   Each file contains one line per word, using the following convention:  
-  `corpus_id video_id start_time end_time word confidence`  
+  `corpus_id video_id start_time end_time word confidence entity`  
   * `corpus_id` is the corpus identifier (`DW`, `INA` or `3-24`)
   * `video_id` is the video identifier within the corpus
   * `start_time` is the elapsed time since the beginning of the video when word starts
   * `end_time` is the elapsed time since the beginning of the video when word ends
   * `word` is the actual recognized word
-  * `confidence` is a recognition confidence score between 0 and 1
+  * `confidence` is a recognition confidence score between 0 and 1 (when available)
+  * `entity` is the detected named entity (or `#` when no entity is detected)
 
 ##### `/metadata` (for contrastive runs only)
 
