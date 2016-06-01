@@ -1,390 +1,390 @@
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.00 4.42 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.43 4.89 spots 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.90 5.11 are 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.12 5.44 tough 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.45 5.53 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.54 6.03 find 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.04 6.17 in 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.18 6.75 european 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.76 7.05 city 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 7.06 8.19 centers 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.20 8.74 locating 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.75 8.95 one 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.96 9.29 takes 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.30 9.43 up 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.44 9.96 valuable 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.97 10.72 time 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 10.73 11.18 wastes 0.71
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 11.19 11.86 gas 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 11.87 12.27 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.28 12.38 it 0.90
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.39 12.44 's 0.90
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.45 12.76 bad 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.77 12.87 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.88 12.96 the 0.73
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 14.10 14.81 the 0.52
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 14.82 15.45 irritating 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 15.46 16.01 search 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.02 16.18 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.19 16.74 practically 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.75 16.85 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.86 17.27 ritual 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 17.28 17.42 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 17.43 18.19 many 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.20 18.34 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.35 18.39 i 0.82
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.40 18.58 can 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.59 18.83 take 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.84 18.91 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.92 19.37 fun 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.38 19.51 out 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.52 19.72 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.73 19.97 any 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.98 20.25 trip 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 20.26 22.07 downtown 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.08 22.54 marcus 0.69
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.55 22.81 take 0.51
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.82 22.98 as 0.49
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.99 23.12 an 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.13 23.64 engineer 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.65 23.74 at 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.75 23.84 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.85 24.27 siemens 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.28 24.73 company 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.74 24.78 in 0.58
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.79 25.62 munich 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 25.63 25.75 he 0.84
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 25.76 26.03 wants 0.48
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.04 26.14 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.15 26.41 do 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.42 26.81 something 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.82 27.06 about 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.07 27.14 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.15 27.41 city 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.42 27.49 's 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.50 27.95 chronic 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.96 28.4 shortage 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.41 28.53 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.54 28.95 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.96 29.45 space 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 30.72 31.19 intuition 0.97
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.20 31.27 at 0.53
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.28 31.52 times 0.59
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.53 31.67 when 0.63
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.68 31.75 the 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.76 32.26 pet 0.73
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.27 32.59 about 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.60 32.93 thirty 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.94 33.45 percent 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.46 33.55 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.56 33.65 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.66 34.01 people 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.02 34.45 driving 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.46 34.87 cars 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.88 34.97 in 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.98 35.04 a 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.05 35.43 city 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.44 35.57 are 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.58 36.04 cruising 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.05 36.4 around 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.41 36.57 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.58 36.64 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.65 37.1 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 37.11 38.09 spot 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.10 38.31 it 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.32 38.4 's 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.41 38.54 one 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.55 38.64 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.65 38.73 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.74 39.24 problems 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.25 39.38 we 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.39 39.72 have 0.90
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.73 39.81 with 0.82
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.82 39.96 them 0.62
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.97 40.06 in 0.51
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 40.07 40.33 city 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 40.34 41.17 traffic 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.18 41.4 if 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.41 41.54 we 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.55 41.75 could 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.76 42.0 cut 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.01 42.32 down 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.33 42.43 on 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.44 42.51 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.52 43.04 cruising 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.05 43.14 it 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.15 43.24 will 0.73
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.25 43.38 be 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.39 43.59 good 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.60 43.76 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.77 44.64 everyone 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.27 45.39 it 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.40 45.5 will 0.91
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.51 45.61 be 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.62 46.14 easier 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 46.15 46.29 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 46.30 47.19 drivers 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.20 47.48 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.49 47.79 better 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.80 47.99 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.00 48.09 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.10 48.55 city 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.91 49.05 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.06 49.13 i 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.14 49.24 know 0.71
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.25 49.38 to 0.71
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.39 49.49 be 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.50 49.55 a 0.94
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.56 50.09 bother 0.94
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.10 50.29 and 0.88
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.30 50.56 allows 0.46
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.57 50.78 them 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.79 50.99 just 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.00 51.27 wasn't 0.54
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.28 51.4 but 0.82
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.41 51.61 here 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.62 52.22 's 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 52.23 52.63 a 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 52.64 52.99 snake 0.51
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.00 53.19 has 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.20 53.64 developed 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.65 53.71 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.72 54.17 system 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.18 54.3 that 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.31 54.82 alerts 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.83 55.33 drivers 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 55.34 55.56 to 0.83
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 55.57 56.28 unoccupied 0.67
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 56.29 56.71 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 56.72 57.13 spots 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.14 57.23 in 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.24 57.3 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.31 58.3 vicinity 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 58.31 58.55 that 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 58.56 59.04 is 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.05 59.25 if 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.26 59.44 there 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.45 59.64 are 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.65 60.69 any 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 60.70 60.85 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 60.86 61.43 information 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 61.44 61.57 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 61.58 62.06 collected 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.07 62.25 by 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.26 62.76 special 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.77 63.5 sensors 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 63.51 63.86 built 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 63.87 64.08 into 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 64.09 64.82 streetlight 0.94
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 65.72 65.88 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 65.89 66.3 radar 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 66.31 66.88 registers 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 66.89 67.03 when 0.81
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.04 67.47 spots 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.48 67.54 are 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.55 68.46 free 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 68.47 68.71 a 0.70
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 68.72 69.09 test 0.73
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.10 69.58 system 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.59 69.85 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.86 70.22 already 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 70.23 70.87 installed 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 70.88 71.07 at 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.08 71.25 this 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.26 71.64 parking 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.65 71.87 lot 0.72
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 74.55 75.4 municipalities 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.41 75.52 in 0.84
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.53 75.97 germany 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.98 76.03 are 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.04 76.51 interested 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.52 76.6 in 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.61 76.69 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.70 77.63 system 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 77.64 77.82 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 77.83 78.12 stick 0.85
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.13 78.49 thinks 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.50 78.64 there 0.97
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.65 78.71 's 0.52
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.72 78.77 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.78 79.23 market 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.24 79.82 outside 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.83 79.89 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.90 80.3 country 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 80.31 80.69 to 0.69
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.25 85.5 now 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.51 85.77 yes 0.49
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.78 86.47 displays 0.58
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 86.48 86.79 we 0.49
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 86.80 87.16 've 0.48
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.17 87.56 had 0.54
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.57 87.92 talks 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.93 88.09 with 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.10 88.56 dubai 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.57 88.75 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.76 89.94 example 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 89.95 90.28 dubai 0.92
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.29 90.36 a 0.55
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.37 90.68 skewed 0.58
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.69 90.82 's 0.72
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.83 91.27 traffic 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 91.28 91.93 problems 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 91.94 92.25 because 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 92.26 92.75 everyone 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 92.76 93.13 seems 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.14 93.24 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.25 93.54 drive 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.55 93.6 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.61 94.03 car 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.04 95.22 their 0.56
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.23 95.59 public 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.60 96.11 transport 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.12 96.58 system 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.59 96.71 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.72 96.94 not 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.95 97.14 as 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.15 97.7 developed 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.71 97.88 as 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.89 98.22 europe 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 98.23 98.44 's 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.46 99.63 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.64 99.87 our 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.88 100.38 system 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.39 100.52 is 0.79
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.53 100.75 part 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.76 100.85 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.86 100.93 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.94 101.35 puzzle 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.36 101.54 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.55 101.94 address 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.95 102.09 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 102.10 102.37 issue 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.11 105.23 the 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.24 105.71 sensors 0.49
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.72 105.79 are 0.90
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.80 106.18 tested 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.19 106.47 here 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.48 106.61 and 0.97
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.62 106.73 a 0.85
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.74 107.22 specially 0.90
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 107.23 107.64 equipped 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 107.65 108.78 laboratory 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 108.79 109.21 siemens 0.77
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.22 109.36 has 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.37 109.83 invested 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.84 110.34 millions 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.35 110.46 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.47 110.97 develop 0.95
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.98 111.07 the 0.59
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 111.08 111.42 unique 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 111.43 112.07 technology 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 112.92 113.03 at 0.69
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.04 113.15 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.16 113.6 radar 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.61 113.86 can 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.87 114.15 only 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.16 114.55 detect 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.56 114.64 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.65 115.09 position 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.10 115.22 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.23 115.66 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.67 116.08 slots 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.09 116.21 in 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.22 116.29 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.30 116.77 fifty 0.95
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.78 117.11 meter 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.12 117.58 radius 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.59 117.76 from 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.77 117.86 where 0.65
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.87 117.92 it 0.61
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.93 118.06 's 0.60
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 118.07 118.62 positioned 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.61 119.78 and 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.79 119.91 it 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.92 120.25 doesn't 0.55
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 120.26 120.67 create 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 120.68 121.28 traditional 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.29 121.74 images 0.97
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.75 121.84 the 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.85 122.03 way 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.04 122.08 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.09 122.53 camera 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.54 122.82 work 0.38
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 125.95 126.15 often 0.52
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.16 126.52 lions 0.40
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.53 126.97 and 0.62
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.98 127.16 if 0.62
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.17 127.53 we 0.62
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.54 127.73 each 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.74 128.3 sensor 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.31 128.51 can 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.52 128.94 monitor 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.95 129.04 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.05 129.55 status 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.56 129.65 of 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.66 130.07 five 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.08 130.19 to 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.20 130.6 seven 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.61 131.0 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.01 131.33 lots 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.34 131.45 at 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.46 131.53 a 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.54 132.12 time 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 132.78 132.96 we 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 132.97 133.14 can 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.15 133.37 tell 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.38 133.47 if 0.97
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.48 133.67 their 0.77
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.68 134.41 occupied 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.42 134.53 and 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.54 134.66 how 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.67 134.87 much 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.88 135.28 space 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 135.29 135.5 there 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 135.51 136.56 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 136.57 136.87 has 0.94
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 136.88 137.05 that 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.06 137.75 information 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.76 137.93 on 0.94
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.94 138.04 to 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 138.05 138.13 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 138.14 138.84 drivers 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.60 140.74 you 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.75 140.9 know 0.98
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.91 141.0 to 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 141.01 141.53 follow 0.87
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 141.54 142.76 and 0.91
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 142.77 142.88 the 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 142.89 143.54 technology 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.55 143.65 is 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.66 143.9 still 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.91 144.14 being 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 144.15 144.95 tested 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 144.96 145.22 so 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.23 145.37 for 0.91
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.38 145.79 now 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.80 146.32 drivers 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.33 146.49 will 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.50 146.98 probably 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.99 147.2 have 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.21 147.33 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.34 147.61 hunt 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.62 147.84 down 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.85 147.98 their 0.89
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.99 148.41 parking 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 148.42 148.93 spaces 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 148.94 149.06 on 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.07 149.26 their 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.27 149.52 own 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.53 149.66 for 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.67 149.9 some 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.91 150.15 time 0.99
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 150.16 150.23 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 150.24 151.57 come 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 151.58 152.13 unless 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.14 152.27 they 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.28 152.63 switch 0.96
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.64 152.77 to 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.78 153.25 public 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 153.26 153.97 transport 1.00
-DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 153.98 154.55 first 1.00
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.00 4.42 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.43 4.89 spots 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 4.90 5.11 are 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.12 5.44 tough 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.45 5.53 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 5.54 6.03 find 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.04 6.17 in 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.18 6.75 european 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 6.76 7.05 city 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 7.06 8.19 centers 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.20 8.74 locating 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.75 8.95 one 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 8.96 9.29 takes 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.30 9.43 up 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.44 9.96 valuable 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 9.97 10.72 time 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 10.73 11.18 wastes 0.71 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 11.19 11.86 gas 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 11.87 12.27 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.28 12.38 it 0.90 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.39 12.44 's 0.90 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.45 12.76 bad 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.77 12.87 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 12.88 12.96 the 0.73 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 14.10 14.81 the 0.52 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 14.82 15.45 irritating 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 15.46 16.01 search 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.02 16.18 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.19 16.74 practically 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.75 16.85 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 16.86 17.27 ritual 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 17.28 17.42 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 17.43 18.19 many 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.20 18.34 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.35 18.39 i 0.82 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.40 18.58 can 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.59 18.83 take 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.84 18.91 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 18.92 19.37 fun 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.38 19.51 out 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.52 19.72 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.73 19.97 any 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 19.98 20.25 trip 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 20.26 22.07 downtown 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.08 22.54 marcus 0.69 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.55 22.81 take 0.51 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.82 22.98 as 0.49 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 22.99 23.12 an 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.13 23.64 engineer 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.65 23.74 at 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.75 23.84 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 23.85 24.27 siemens 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.28 24.73 company 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.74 24.78 in 0.58 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 24.79 25.62 munich 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 25.63 25.75 he 0.84 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 25.76 26.03 wants 0.48 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.04 26.14 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.15 26.41 do 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.42 26.81 something 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 26.82 27.06 about 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.07 27.14 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.15 27.41 city 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.42 27.49 's 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.50 27.95 chronic 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 27.96 28.4 shortage 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.41 28.53 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.54 28.95 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 28.96 29.45 space 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 30.72 31.19 intuition 0.97 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.20 31.27 at 0.53 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.28 31.52 times 0.59 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.53 31.67 when 0.63 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.68 31.75 the 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 31.76 32.26 pet 0.73 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.27 32.59 about 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.60 32.93 thirty 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 32.94 33.45 percent 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.46 33.55 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.56 33.65 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 33.66 34.01 people 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.02 34.45 driving 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.46 34.87 cars 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.88 34.97 in 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 34.98 35.04 a 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.05 35.43 city 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.44 35.57 are 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 35.58 36.04 cruising 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.05 36.4 around 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.41 36.57 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.58 36.64 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 36.65 37.1 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 37.11 38.09 spot 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.10 38.31 it 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.32 38.4 's 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.41 38.54 one 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.55 38.64 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.65 38.73 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 38.74 39.24 problems 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.25 39.38 we 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.39 39.72 have 0.90 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.73 39.81 with 0.82 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.82 39.96 them 0.62 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 39.97 40.06 in 0.51 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 40.07 40.33 city 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 40.34 41.17 traffic 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.18 41.4 if 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.41 41.54 we 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.55 41.75 could 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 41.76 42.0 cut 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.01 42.32 down 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.33 42.43 on 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.44 42.51 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 42.52 43.04 cruising 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.05 43.14 it 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.15 43.24 will 0.73 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.25 43.38 be 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.39 43.59 good 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.60 43.76 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 43.77 44.64 everyone 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.27 45.39 it 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.40 45.5 will 0.91 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.51 45.61 be 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 45.62 46.14 easier 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 46.15 46.29 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 46.30 47.19 drivers 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.20 47.48 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.49 47.79 better 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 47.80 47.99 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.00 48.09 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.10 48.55 city 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 48.91 49.05 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.06 49.13 i 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.14 49.24 know 0.71 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.25 49.38 to 0.71 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.39 49.49 be 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.50 49.55 a 0.94 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 49.56 50.09 bother 0.94 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.10 50.29 and 0.88 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.30 50.56 allows 0.46 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.57 50.78 them 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 50.79 50.99 just 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.00 51.27 wasn't 0.54 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.28 51.4 but 0.82 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.41 51.61 here 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 51.62 52.22 's 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 52.23 52.63 a 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 52.64 52.99 snake 0.51 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.00 53.19 has 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.20 53.64 developed 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.65 53.71 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 53.72 54.17 system 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.18 54.3 that 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.31 54.82 alerts 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 54.83 55.33 drivers 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 55.34 55.56 to 0.83 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 55.57 56.28 unoccupied 0.67 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 56.29 56.71 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 56.72 57.13 spots 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.14 57.23 in 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.24 57.3 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 57.31 58.3 vicinity 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 58.31 58.55 that 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 58.56 59.04 is 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.05 59.25 if 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.26 59.44 there 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.45 59.64 are 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 59.65 60.69 any 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 60.70 60.85 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 60.86 61.43 information 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 61.44 61.57 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 61.58 62.06 collected 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.07 62.25 by 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.26 62.76 special 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 62.77 63.5 sensors 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 63.51 63.86 built 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 63.87 64.08 into 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 64.09 64.82 streetlight 0.94 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 65.72 65.88 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 65.89 66.3 radar 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 66.31 66.88 registers 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 66.89 67.03 when 0.81 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.04 67.47 spots 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.48 67.54 are 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 67.55 68.46 free 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 68.47 68.71 a 0.70 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 68.72 69.09 test 0.73 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.10 69.58 system 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.59 69.85 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 69.86 70.22 already 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 70.23 70.87 installed 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 70.88 71.07 at 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.08 71.25 this 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.26 71.64 parking 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 71.65 71.87 lot 0.72 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 74.55 75.4 municipalities 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.41 75.52 in 0.84 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.53 75.97 germany 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 75.98 76.03 are 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.04 76.51 interested 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.52 76.6 in 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.61 76.69 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 76.70 77.63 system 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 77.64 77.82 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 77.83 78.12 stick 0.85 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.13 78.49 thinks 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.50 78.64 there 0.97 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.65 78.71 's 0.52 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.72 78.77 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 78.78 79.23 market 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.24 79.82 outside 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.83 79.89 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 79.90 80.3 country 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 80.31 80.69 to 0.69 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.25 85.5 now 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.51 85.77 yes 0.49 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 85.78 86.47 displays 0.58 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 86.48 86.79 we 0.49 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 86.80 87.16 've 0.48 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.17 87.56 had 0.54 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.57 87.92 talks 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 87.93 88.09 with 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.10 88.56 dubai 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.57 88.75 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 88.76 89.94 example 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 89.95 90.28 dubai 0.92 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.29 90.36 a 0.55 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.37 90.68 skewed 0.58 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.69 90.82 's 0.72 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 90.83 91.27 traffic 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 91.28 91.93 problems 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 91.94 92.25 because 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 92.26 92.75 everyone 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 92.76 93.13 seems 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.14 93.24 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.25 93.54 drive 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.55 93.6 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 93.61 94.03 car 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.04 95.22 their 0.56 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.23 95.59 public 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 95.60 96.11 transport 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.12 96.58 system 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.59 96.71 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.72 96.94 not 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 96.95 97.14 as 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.15 97.7 developed 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.71 97.88 as 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 97.89 98.22 europe 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 98.23 98.44 's 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.46 99.63 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.64 99.87 our 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 99.88 100.38 system 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.39 100.52 is 0.79 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.53 100.75 part 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.76 100.85 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.86 100.93 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 100.94 101.35 puzzle 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.36 101.54 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.55 101.94 address 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 101.95 102.09 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 102.10 102.37 issue 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.11 105.23 the 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.24 105.71 sensors 0.49 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.72 105.79 are 0.90 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 105.80 106.18 tested 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.19 106.47 here 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.48 106.61 and 0.97 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.62 106.73 a 0.85 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 106.74 107.22 specially 0.90 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 107.23 107.64 equipped 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 107.65 108.78 laboratory 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 108.79 109.21 siemens 0.77 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.22 109.36 has 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.37 109.83 invested 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 109.84 110.34 millions 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.35 110.46 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.47 110.97 develop 0.95 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 110.98 111.07 the 0.59 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 111.08 111.42 unique 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 111.43 112.07 technology 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 112.92 113.03 at 0.69 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.04 113.15 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.16 113.6 radar 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.61 113.86 can 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 113.87 114.15 only 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.16 114.55 detect 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.56 114.64 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 114.65 115.09 position 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.10 115.22 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.23 115.66 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 115.67 116.08 slots 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.09 116.21 in 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.22 116.29 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.30 116.77 fifty 0.95 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 116.78 117.11 meter 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.12 117.58 radius 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.59 117.76 from 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.77 117.86 where 0.65 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.87 117.92 it 0.61 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 117.93 118.06 's 0.60 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 118.07 118.62 positioned 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.61 119.78 and 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.79 119.91 it 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 119.92 120.25 doesn't 0.55 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 120.26 120.67 create 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 120.68 121.28 traditional 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.29 121.74 images 0.97 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.75 121.84 the 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 121.85 122.03 way 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.04 122.08 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.09 122.53 camera 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 122.54 122.82 work 0.38 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 125.95 126.15 often 0.52 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.16 126.52 lions 0.40 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.53 126.97 and 0.62 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 126.98 127.16 if 0.62 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.17 127.53 we 0.62 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.54 127.73 each 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 127.74 128.3 sensor 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.31 128.51 can 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.52 128.94 monitor 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 128.95 129.04 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.05 129.55 status 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.56 129.65 of 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 129.66 130.07 five 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.08 130.19 to 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.20 130.6 seven 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 130.61 131.0 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.01 131.33 lots 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.34 131.45 at 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.46 131.53 a 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 131.54 132.12 time 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 132.78 132.96 we 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 132.97 133.14 can 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.15 133.37 tell 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.38 133.47 if 0.97 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.48 133.67 their 0.77 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 133.68 134.41 occupied 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.42 134.53 and 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.54 134.66 how 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.67 134.87 much 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 134.88 135.28 space 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 135.29 135.5 there 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 135.51 136.56 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 136.57 136.87 has 0.94 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 136.88 137.05 that 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.06 137.75 information 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.76 137.93 on 0.94 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 137.94 138.04 to 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 138.05 138.13 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 138.14 138.84 drivers 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.60 140.74 you 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.75 140.9 know 0.98 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 140.91 141.0 to 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 141.01 141.53 follow 0.87 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 141.54 142.76 and 0.91 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 142.77 142.88 the 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 142.89 143.54 technology 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.55 143.65 is 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.66 143.9 still 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 143.91 144.14 being 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 144.15 144.95 tested 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 144.96 145.22 so 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.23 145.37 for 0.91 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.38 145.79 now 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 145.80 146.32 drivers 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.33 146.49 will 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.50 146.98 probably 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 146.99 147.2 have 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.21 147.33 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.34 147.61 hunt 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.62 147.84 down 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.85 147.98 their 0.89 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 147.99 148.41 parking 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 148.42 148.93 spaces 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 148.94 149.06 on 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.07 149.26 their 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.27 149.52 own 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.53 149.66 for 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.67 149.9 some 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 149.91 150.15 time 0.99 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 150.16 150.23 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 150.24 151.57 come 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 151.58 152.13 unless 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.14 152.27 they 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.28 152.63 switch 0.96 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.64 152.77 to 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 152.78 153.25 public 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 153.26 153.97 transport 1.00 #
+DW DW-news-EN/a3420171-035d-3c62-d72d-f9ab90cdce90 153.98 154.55 first 1.00 #

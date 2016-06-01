@@ -1,665 +1,665 @@
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 4.17 5.02 oslo 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.03 5.48 norway 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.49 5.58 's 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.59 6.04 capital 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.05 6.16 on 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.17 6.25 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.26 6.9 coast 0.82
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.91 7.28 or 0.76
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.29 7.46 on 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.47 7.53 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.54 8.09 fjord 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.10 8.21 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.22 8.33 be 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.34 8.5 more 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.51 9.77 precise 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 9.78 10.05 set 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.06 10.38 between 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.39 10.48 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.49 10.74 sea 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.75 10.84 in 0.78
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.85 10.92 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.93 11.43 mountains 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.44 11.56 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.57 11.6 's 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.61 11.85 home 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.86 12.01 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.02 12.29 six 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.30 12.64 hundred 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.65 12.94 forty 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.95 13.35 thousand 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 13.36 13.75 people 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 15.58 15.91 winter 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 15.92 16.45 sports 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 16.46 16.65 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 16.66 17.0 always 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.01 17.17 been 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.18 17.24 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.25 17.47 big 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.48 17.74 deal 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.75 18.8 here 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 18.81 18.96 the 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 18.97 19.18 on 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.19 19.44 call 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.45 19.57 and 0.76
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.58 19.99 skiing 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.00 20.29 area 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.30 20.45 with 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.46 20.59 its 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.60 20.92 viewing 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.93 21.53 platform 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 21.54 21.68 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 21.69 22.07 famous 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.08 22.37 ski 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.38 22.98 jump 0.87
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.99 23.14 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.15 23.24 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.25 23.56 country 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.57 23.64 's 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.65 23.99 most 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.00 24.49 popular 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.50 24.87 tourist 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.88 25.4 attraction 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 26.99 27.14 but 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.15 27.21 it 0.61
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.22 27.33 's 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.34 27.42 the 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.43 27.77 ski 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.78 28.66 simulator 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 28.67 28.83 that 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 28.84 29.29 actually 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.30 29.5 gets 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.51 29.61 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.62 30.05 longest 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 30.06 31.58 cues 0.69
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 31.59 31.62 are 0.81
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 34.32 34.69 dear 0.80
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 34.70 35.34 amateurs 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.35 35.44 are 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.45 35.7 given 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.71 35.8 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.81 36.17 taste 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.18 36.26 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.27 36.34 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.35 36.66 most 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.67 37.2 difficult 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.21 37.5 ski 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.51 37.94 jumps 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.95 38.09 and 0.79
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 38.10 40.65 slums 0.73
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 40.66 42.87 thank 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.41 46.49 i 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.50 46.71 have 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.72 47.03 never 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 47.04 47.17 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 47.18 48.02 i 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 48.03 50.29 try 0.47
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 50.30 51.74 going 0.57
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 51.75 52.18 to 0.91
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 52.19 55.57 crash 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 55.58 56.17 i 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.18 56.45 think 0.89
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.46 56.58 when 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.59 56.67 i 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.68 56.88 go 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.89 57.63 back 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 57.64 58.04 some 0.62
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 58.05 58.32 ski 0.83
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 58.33 58.98 lessons 0.81
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.19 64.46 things 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.47 64.52 are 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.53 64.55 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.56 64.77 little 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.78 65.29 calmer 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.30 65.41 at 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.42 65.48 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.49 65.94 museum 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.95 66.21 next 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 66.22 67.09 door 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.10 67.42 first 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.43 67.76 opened 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.77 67.86 in 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.87 68.23 nineteen 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 68.24 68.5 twenty 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 68.51 69.14 three 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.15 69.31 is 0.85
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.32 69.4 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.41 69.72 world 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.73 69.8 's 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.81 70.34 oldest 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 70.35 70.78 skiing 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 70.79 73.97 museum 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 73.98 74.61 exhibits 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 74.62 75.24 showcase 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 75.25 75.83 everything 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 75.84 76.07 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 76.08 76.67 skis 0.85
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 76.68 77.0 dating 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.01 77.31 back 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.32 77.49 to 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.50 77.91 eighty 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.92 78.16 six 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 78.17 79.0 hundred 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.01 79.24 do 0.54
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.25 79.75 modern 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.76 80.0 high 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 80.01 80.26 tech 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 80.27 80.86 equipment 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 81.87 82.17 we 0.65
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.18 82.37 the 0.65
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.38 82.85 witches 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.86 83.01 are 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.02 83.43 born 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.44 83.66 with 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.67 84.19 skis 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 84.46 85.88 skis 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 85.89 86.29 are 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 86.30 87.19 synonyms 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 87.20 87.82 with 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 87.83 89.02 roots 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 89.03 89.67 and 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 89.68 91.46 identity 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.47 91.64 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.65 91.9 whole 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.91 93.04 mcallen 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 93.05 93.84 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 93.85 94.1 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.11 94.37 one 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.38 94.66 way 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.67 94.8 the 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.81 95.38 jumping 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 95.39 96.45 he'll 0.37
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 96.46 97.0 answer 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.01 97.28 hold 0.31
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.29 97.48 a 0.89
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.49 97.72 full 0.76
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.73 98.55 tower 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 98.56 98.76 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 98.77 99.41 pies 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 100.72 101.02 common 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.03 101.36 cauldron 0.42
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.37 101.52 is 0.77
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.53 101.75 about 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.76 101.8 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.81 102.05 half 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.06 102.27 hour 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.28 102.63 drive 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.64 102.81 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.82 102.89 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.90 103.18 city 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 103.19 105.4 center 0.86
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.41 105.57 is 0.88
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.58 105.69 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.70 105.98 city 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.99 106.05 's 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.06 106.31 main 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.32 106.74 shopping 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.75 107.47 street 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.48 107.61 that 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.62 107.97 leads 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.98 108.08 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.09 108.21 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.22 108.53 royal 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.54 109.07 palace 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.08 109.29 which 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.30 109.4 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.41 109.7 still 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.71 110.0 home 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.01 110.13 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.14 110.58 norway 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.59 110.68 's 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.69 110.98 royal 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.99 113.33 family 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 113.34 113.58 other 0.80
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 113.59 114.02 popular 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.03 114.38 sites 0.88
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.39 114.46 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.47 114.57 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.58 114.93 area 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.94 115.35 of 0.82
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.36 115.44 the 0.91
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.45 115.74 city 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.75 116.16 all 0.52
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 117.19 117.37 whose 0.74
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 117.38 118.62 fortress 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.63 118.74 i 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.75 118.96 think 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.97 119.07 you 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.08 119.24 have 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.25 119.33 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.34 119.51 come 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.52 119.63 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.64 119.73 do 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.74 119.94 away 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.95 120.08 with 0.63
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.09 120.2 its 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.21 120.71 code 0.88
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.72 120.87 you 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.88 121.04 have 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.05 121.12 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.13 121.3 come 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.31 121.42 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.43 121.59 know 0.72
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.60 121.75 i 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.76 121.88 was 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.89 121.92 a 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.93 122.67 big 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 122.68 122.92 big 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 122.93 123.2 love 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.21 123.37 so 0.48
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.38 123.45 you 0.57
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.46 123.58 need 0.72
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.59 123.7 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.71 123.97 see 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.98 126.29 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.30 126.66 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.67 126.8 all 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.81 126.95 its 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.96 127.29 beauty 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.30 127.39 and 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.40 127.48 i 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.49 127.78 think 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.79 127.88 it 0.87
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.89 127.99 's 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.00 128.23 it 0.93
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.24 128.33 's 0.93
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.34 128.84 wonderful 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.85 128.99 when 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 129.00 129.11 his 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 129.12 129.36 coat 0.63
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 130.63 130.8 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 130.81 131.12 recent 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.13 131.49 years 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.50 131.78 oslo 0.36
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.79 131.99 slow 0.47
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.00 132.73 cityscape 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.74 132.89 is 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.90 133.83 change 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 133.84 133.94 you 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 133.95 134.06 know 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.07 134.16 on 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.17 134.25 a 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.26 134.54 much 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.55 134.72 more 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.73 135.13 modern 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.14 135.79 look 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.80 135.94 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.95 136.28 opera 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.29 136.58 house 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.59 136.71 is 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.72 136.78 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.79 137.06 most 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 137.07 137.43 obvious 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 137.44 138.53 example 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.54 138.81 built 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.82 138.93 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.94 139.07 two 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.08 139.53 thousand 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.54 139.8 a 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.81 139.89 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.90 140.23 building 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.24 140.66 itself 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.67 140.79 has 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.80 141.1 become 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.11 141.17 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.18 141.61 popular 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.62 141.92 place 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.93 142.11 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.12 142.35 go 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.36 142.59 out 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.60 142.71 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.72 143.51 relax 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.52 143.82 right 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.83 143.94 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.95 144.04 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 144.05 144.48 center 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 144.49 144.58 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 147.89 148.3 and 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.31 148.46 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.47 148.64 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.65 148.7 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.71 149.14 building 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.15 149.34 that 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.35 149.94 connects 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.95 150.49 to 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.50 150.81 today 0.44
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.82 150.92 in 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.93 151.01 a 0.81
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 151.02 151.32 region 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 151.33 152.22 nature 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.23 152.36 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.37 152.65 looks 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.66 152.89 like 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.90 152.95 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.96 153.59 glacier 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 153.60 153.96 coming 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 153.97 154.18 up 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.19 154.5 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.51 154.79 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.80 155.01 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 155.02 156.24 oceanfront 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.25 156.46 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.47 156.58 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.59 156.82 also 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.83 157.14 has 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 157.15 157.75 material 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 157.76 158.34 steps 0.91
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 158.35 158.91 relates 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 158.92 159.75 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 159.76 159.97 two 0.75
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 159.98 160.14 no 0.83
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 160.15 160.53 region 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 160.54 161.01 nature 0.82
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 161.02 161.58 alike 0.57
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 161.59 162.02 and 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 162.03 162.18 the 0.30
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 164.52 164.63 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 164.64 165.31 performances 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.32 165.43 at 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.44 165.56 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.57 165.9 opera 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.91 166.18 house 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.19 166.55 draw 0.85
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.56 166.88 around 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.89 166.92 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.93 167.32 million 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 167.33 167.79 visitors 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 167.80 168.0 every 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.01 168.6 year 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.61 168.76 and 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.77 168.86 it 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.87 168.93 's 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.94 169.11 not 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.12 169.33 just 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.34 169.41 the 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.42 169.8 public 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.81 169.93 who 0.55
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.94 170.37 approve 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.38 170.49 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.50 170.56 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.57 171.36 building 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.37 171.65 sort 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.66 171.71 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.72 171.78 the 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.79 172.28 performing 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 172.29 172.84 artists 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 172.85 173.08 like 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 173.09 173.59 base 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 173.60 173.99 magna 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 174.00 174.92 family 0.52
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 174.93 175.68 the 0.46
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 175.69 176.19 acoustic 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.20 176.36 is 0.78
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.37 176.63 really 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.64 177.42 good 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.43 177.6 it 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.61 177.69 's 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.70 178.35 fantastic 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 178.36 178.63 so 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 178.64 178.96 that 0.51
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 180.47 180.71 the 0.79
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 180.72 181.39 difference 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 181.40 181.77 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 181.78 181.97 work 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 183.37 184.03 before 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 184.04 184.16 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 184.17 184.58 old 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 185.29 185.61 alone 0.69
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 185.62 186.15 soon 0.69
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 186.16 186.88 so 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 186.89 187.12 this 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.13 187.36 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.37 187.48 a 0.79
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.49 188.19 really 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.20 188.61 perfect 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.62 188.85 for 0.77
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.86 189.15 us 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 189.16 190.55 as 0.38
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 190.56 190.78 good 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 190.79 191.2 bullets 0.45
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 191.21 191.98 between 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 191.99 192.53 orchestra 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 192.54 192.66 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 192.67 193.09 singers 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 194.93 195.2 at 0.91
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.21 195.3 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.31 195.42 you 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.43 195.6 know 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.61 195.74 it's 0.29
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.75 196.69 workshops 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 196.70 196.92 for 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 196.93 197.22 busy 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 197.23 197.74 preparing 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 197.75 198.15 props 0.93
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.16 198.29 and 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.30 198.77 scenery 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.78 198.93 for 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.94 199.08 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 199.09 199.6 upcoming 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 199.61 199.98 opera 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 203.67 204.36 thank 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.11 206.42 just 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.43 206.52 a 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.53 206.75 stone 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.76 206.99 's 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.00 207.23 throw 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.24 207.41 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.42 207.52 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.53 207.96 opera 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.97 208.09 a 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.10 208.32 new 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.33 208.63 arts 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.64 209.31 district 0.72
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.32 209.7 sprung 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.71 209.86 up 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.87 210.04 right 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.05 210.26 next 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.27 210.37 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.38 210.46 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.47 211.51 water 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 211.52 211.91 to 0.71
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 211.92 212.08 form 0.36
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.09 212.44 foreman 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.45 212.91 boasts 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.92 213.3 numerous 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 213.31 213.49 art 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 213.50 213.99 galleries 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 214.00 214.11 and 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 214.12 215.22 sculptures 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.23 215.41 more 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.42 215.57 than 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.58 215.92 twenty 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.93 216.46 architects 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 216.47 216.58 were 0.94
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 216.59 217.08 involved 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.09 217.19 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.20 217.67 creating 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.68 217.79 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.80 218.4 area 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 218.41 218.78 including 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 218.79 219.27 italian 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 219.28 219.54 renzo 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 219.55 221.05 piano 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.06 221.62 designed 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.63 221.76 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.77 222.21 astrup 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 222.22 222.66 fearnley 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 222.67 223.21 museum 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.22 223.31 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.32 223.43 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.44 223.73 heart 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.74 223.94 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.95 224.14 truth 0.62
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 224.71 227.47 thank 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 227.67 227.78 it 0.98
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 227.79 228.16 houses 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.17 228.3 one 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.31 228.38 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.39 228.47 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.48 228.75 leading 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.76 229.36 collections 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.37 229.51 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.52 229.91 modern 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.92 230.13 art 0.74
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.14 230.35 in 0.54
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.36 230.73 northern 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.74 231.31 europe 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 231.32 231.8 including 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 231.81 232.15 works 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 232.16 232.39 by 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 232.40 232.86 damien 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 233.42 236.82 thank 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 238.61 238.78 joe 0.61
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 238.79 239.18 farman 0.61
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 239.19 239.72 attracts 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 239.73 240.3 artists 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.31 240.58 from 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.59 240.78 all 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.79 240.96 over 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.97 242.27 norway 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 242.28 242.77 pianist 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 242.84 244.89 composer 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 244.90 245.03 is 0.62
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 245.04 245.2 one 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 245.21 246.33 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.34 246.51 the 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.52 246.76 open 0.85
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.77 246.88 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.89 247.39 cafe 0.89
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 247.40 247.51 do 0.44
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 247.52 248.02 concern 0.89
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 250.77 251.07 this 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.08 251.24 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.25 251.71 a 0.80
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.72 251.91 a 0.95
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.92 252.32 concert 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.33 252.69 gallery 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.70 252.86 where 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.87 253.3 i 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 253.31 254.36 invite 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 254.37 254.63 my 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 254.64 255.19 audience 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.20 255.48 to 0.78
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.49 255.69 where 0.36
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.70 255.85 i 0.54
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.86 256.4 perform 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.41 256.52 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.53 256.64 an 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.65 257.33 untraditional 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 257.34 258.03 venue 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.04 258.18 where 0.60
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.19 258.27 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.28 258.9 frames 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.91 259.12 are 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.13 259.65 different 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.66 259.75 and 0.50
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.76 260.51 when 0.91
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.52 260.69 we 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.70 260.87 have 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.88 261.48 colors 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 261.49 261.83 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 261.84 262.05 we 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.06 262.3 don't 0.51
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.31 262.47 look 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.48 262.97 like 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.98 263.21 and 0.67
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.22 263.76 when 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.77 263.91 we 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.92 264.06 have 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.07 264.11 a 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.12 264.16 guy 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.35 265.22 time 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.23 265.48 we 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.49 265.8 have 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.81 265.86 the 0.64
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.87 266.11 same 0.68
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.12 266.31 pain 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.32 266.43 and 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.44 266.63 hot 0.83
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.64 266.9 dogs 0.86
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.91 267.13 after 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.14 267.23 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.24 267.75 concert 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.76 268.02 and 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.03 268.09 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.10 268.29 thing 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.30 268.34 i 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.35 268.4 'm 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.41 268.63 trying 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.64 268.74 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.75 268.99 do 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.00 269.15 is 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.16 269.73 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.74 270.08 make 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 270.09 270.59 classical 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 270.60 271.87 music 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 271.88 272.17 sort 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 272.18 272.76 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 272.77 273.8 revitalized 0.41
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 273.81 274.22 classical 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 274.23 274.83 music 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 274.84 275.44 with 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 275.45 275.81 out 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 276.86 277.32 messing 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 277.33 278.01 up 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.02 278.13 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.14 278.9 music 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.91 279.07 it 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.08 279.42 has 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.43 279.52 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.53 279.67 be 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.68 279.77 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.78 279.94 way 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.95 280.03 it 0.96
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.04 280.22 has 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.23 280.39 been 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.40 280.71 played 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.72 280.84 for 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.85 281.08 hundreds 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.09 281.18 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.19 281.48 years 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.76 282.82 thank 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 282.83 283.08 one 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.09 283.58 popular 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.59 283.74 way 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.75 283.88 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.89 284.18 round 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.19 284.45 off 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.46 284.53 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.54 284.84 day 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.85 285.0 in 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.01 285.51 oslo 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.52 285.62 is 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.63 285.74 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.75 285.97 go 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.98 286.15 ice 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.16 286.59 skating 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.60 286.68 at 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.69 286.81 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.82 287.12 open 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.13 287.32 air 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.33 287.61 rink 0.92
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.62 287.83 here 0.27
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.84 288.05 the 0.97
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 288.06 290.28 palate 0.32
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.29 290.56 or 0.32
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.57 290.88 just 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.89 291.11 to 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.12 291.42 sit 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.43 291.83 around 0.93
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.84 291.99 in 0.89
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.00 292.15 one 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.16 292.25 of 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.26 292.33 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.34 292.62 many 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.63 292.95 street 0.90
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.96 294.2 cafes 0.99
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.21 294.47 until 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.48 294.58 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.59 294.86 sun 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.87 295.14 goes 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.15 295.61 down 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.62 295.83 over 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.84 295.92 the 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.93 296.47 norwegian 1.00
-DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 296.48 296.89 capital 1.00
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 4.17 5.02 oslo 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.03 5.48 norway 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.49 5.58 's 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 5.59 6.04 capital 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.05 6.16 on 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.17 6.25 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.26 6.9 coast 0.82 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 6.91 7.28 or 0.76 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.29 7.46 on 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.47 7.53 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 7.54 8.09 fjord 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.10 8.21 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.22 8.33 be 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.34 8.5 more 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 8.51 9.77 precise 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 9.78 10.05 set 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.06 10.38 between 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.39 10.48 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.49 10.74 sea 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.75 10.84 in 0.78 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.85 10.92 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 10.93 11.43 mountains 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.44 11.56 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.57 11.6 's 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.61 11.85 home 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 11.86 12.01 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.02 12.29 six 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.30 12.64 hundred 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.65 12.94 forty 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 12.95 13.35 thousand 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 13.36 13.75 people 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 15.58 15.91 winter 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 15.92 16.45 sports 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 16.46 16.65 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 16.66 17.0 always 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.01 17.17 been 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.18 17.24 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.25 17.47 big 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.48 17.74 deal 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 17.75 18.8 here 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 18.81 18.96 the 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 18.97 19.18 on 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.19 19.44 call 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.45 19.57 and 0.76 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 19.58 19.99 skiing 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.00 20.29 area 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.30 20.45 with 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.46 20.59 its 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.60 20.92 viewing 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 20.93 21.53 platform 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 21.54 21.68 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 21.69 22.07 famous 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.08 22.37 ski 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.38 22.98 jump 0.87 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 22.99 23.14 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.15 23.24 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.25 23.56 country 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.57 23.64 's 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 23.65 23.99 most 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.00 24.49 popular 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.50 24.87 tourist 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 24.88 25.4 attraction 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 26.99 27.14 but 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.15 27.21 it 0.61 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.22 27.33 's 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.34 27.42 the 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.43 27.77 ski 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 27.78 28.66 simulator 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 28.67 28.83 that 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 28.84 29.29 actually 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.30 29.5 gets 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.51 29.61 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 29.62 30.05 longest 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 30.06 31.58 cues 0.69 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 31.59 31.62 are 0.81 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 34.32 34.69 dear 0.80 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 34.70 35.34 amateurs 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.35 35.44 are 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.45 35.7 given 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.71 35.8 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 35.81 36.17 taste 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.18 36.26 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.27 36.34 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.35 36.66 most 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 36.67 37.2 difficult 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.21 37.5 ski 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.51 37.94 jumps 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 37.95 38.09 and 0.79 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 38.10 40.65 slums 0.73 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 40.66 42.87 thank 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.41 46.49 i 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.50 46.71 have 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 46.72 47.03 never 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 47.04 47.17 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 47.18 48.02 i 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 48.03 50.29 try 0.47 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 50.30 51.74 going 0.57 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 51.75 52.18 to 0.91 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 52.19 55.57 crash 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 55.58 56.17 i 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.18 56.45 think 0.89 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.46 56.58 when 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.59 56.67 i 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.68 56.88 go 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 56.89 57.63 back 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 57.64 58.04 some 0.62 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 58.05 58.32 ski 0.83 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 58.33 58.98 lessons 0.81 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.19 64.46 things 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.47 64.52 are 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.53 64.55 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.56 64.77 little 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 64.78 65.29 calmer 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.30 65.41 at 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.42 65.48 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.49 65.94 museum 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 65.95 66.21 next 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 66.22 67.09 door 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.10 67.42 first 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.43 67.76 opened 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.77 67.86 in 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 67.87 68.23 nineteen 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 68.24 68.5 twenty 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 68.51 69.14 three 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.15 69.31 is 0.85 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.32 69.4 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.41 69.72 world 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.73 69.8 's 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 69.81 70.34 oldest 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 70.35 70.78 skiing 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 70.79 73.97 museum 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 73.98 74.61 exhibits 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 74.62 75.24 showcase 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 75.25 75.83 everything 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 75.84 76.07 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 76.08 76.67 skis 0.85 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 76.68 77.0 dating 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.01 77.31 back 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.32 77.49 to 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.50 77.91 eighty 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 77.92 78.16 six 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 78.17 79.0 hundred 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.01 79.24 do 0.54 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.25 79.75 modern 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 79.76 80.0 high 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 80.01 80.26 tech 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 80.27 80.86 equipment 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 81.87 82.17 we 0.65 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.18 82.37 the 0.65 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.38 82.85 witches 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 82.86 83.01 are 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.02 83.43 born 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.44 83.66 with 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 83.67 84.19 skis 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 84.46 85.88 skis 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 85.89 86.29 are 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 86.30 87.19 synonyms 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 87.20 87.82 with 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 87.83 89.02 roots 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 89.03 89.67 and 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 89.68 91.46 identity 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.47 91.64 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.65 91.9 whole 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 91.91 93.04 mcallen 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 93.05 93.84 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 93.85 94.1 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.11 94.37 one 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.38 94.66 way 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.67 94.8 the 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 94.81 95.38 jumping 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 95.39 96.45 he'll 0.37 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 96.46 97.0 answer 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.01 97.28 hold 0.31 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.29 97.48 a 0.89 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.49 97.72 full 0.76 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 97.73 98.55 tower 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 98.56 98.76 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 98.77 99.41 pies 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 100.72 101.02 common 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.03 101.36 cauldron 0.42 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.37 101.52 is 0.77 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.53 101.75 about 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.76 101.8 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 101.81 102.05 half 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.06 102.27 hour 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.28 102.63 drive 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.64 102.81 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.82 102.89 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 102.90 103.18 city 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 103.19 105.4 center 0.86 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.41 105.57 is 0.88 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.58 105.69 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.70 105.98 city 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 105.99 106.05 's 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.06 106.31 main 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.32 106.74 shopping 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 106.75 107.47 street 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.48 107.61 that 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.62 107.97 leads 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 107.98 108.08 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.09 108.21 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.22 108.53 royal 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 108.54 109.07 palace 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.08 109.29 which 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.30 109.4 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.41 109.7 still 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 109.71 110.0 home 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.01 110.13 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.14 110.58 norway 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.59 110.68 's 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.69 110.98 royal 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 110.99 113.33 family 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 113.34 113.58 other 0.80 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 113.59 114.02 popular 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.03 114.38 sites 0.88 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.39 114.46 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.47 114.57 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.58 114.93 area 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 114.94 115.35 of 0.82 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.36 115.44 the 0.91 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.45 115.74 city 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 115.75 116.16 all 0.52 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 117.19 117.37 whose 0.74 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 117.38 118.62 fortress 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.63 118.74 i 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.75 118.96 think 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 118.97 119.07 you 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.08 119.24 have 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.25 119.33 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.34 119.51 come 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.52 119.63 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.64 119.73 do 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.74 119.94 away 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 119.95 120.08 with 0.63 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.09 120.2 its 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.21 120.71 code 0.88 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.72 120.87 you 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 120.88 121.04 have 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.05 121.12 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.13 121.3 come 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.31 121.42 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.43 121.59 know 0.72 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.60 121.75 i 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.76 121.88 was 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.89 121.92 a 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 121.93 122.67 big 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 122.68 122.92 big 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 122.93 123.2 love 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.21 123.37 so 0.48 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.38 123.45 you 0.57 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.46 123.58 need 0.72 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.59 123.7 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.71 123.97 see 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 123.98 126.29 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.30 126.66 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.67 126.8 all 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.81 126.95 its 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 126.96 127.29 beauty 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.30 127.39 and 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.40 127.48 i 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.49 127.78 think 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.79 127.88 it 0.87 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 127.89 127.99 's 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.00 128.23 it 0.93 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.24 128.33 's 0.93 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.34 128.84 wonderful 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 128.85 128.99 when 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 129.00 129.11 his 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 129.12 129.36 coat 0.63 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 130.63 130.8 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 130.81 131.12 recent 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.13 131.49 years 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.50 131.78 oslo 0.36 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 131.79 131.99 slow 0.47 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.00 132.73 cityscape 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.74 132.89 is 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 132.90 133.83 change 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 133.84 133.94 you 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 133.95 134.06 know 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.07 134.16 on 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.17 134.25 a 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.26 134.54 much 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.55 134.72 more 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 134.73 135.13 modern 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.14 135.79 look 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.80 135.94 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 135.95 136.28 opera 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.29 136.58 house 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.59 136.71 is 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.72 136.78 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 136.79 137.06 most 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 137.07 137.43 obvious 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 137.44 138.53 example 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.54 138.81 built 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.82 138.93 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 138.94 139.07 two 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.08 139.53 thousand 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.54 139.8 a 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.81 139.89 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 139.90 140.23 building 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.24 140.66 itself 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.67 140.79 has 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 140.80 141.1 become 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.11 141.17 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.18 141.61 popular 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.62 141.92 place 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 141.93 142.11 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.12 142.35 go 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.36 142.59 out 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.60 142.71 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 142.72 143.51 relax 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.52 143.82 right 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.83 143.94 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 143.95 144.04 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 144.05 144.48 center 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 144.49 144.58 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 147.89 148.3 and 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.31 148.46 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.47 148.64 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.65 148.7 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 148.71 149.14 building 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.15 149.34 that 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.35 149.94 connects 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 149.95 150.49 to 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.50 150.81 today 0.44 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.82 150.92 in 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 150.93 151.01 a 0.81 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 151.02 151.32 region 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 151.33 152.22 nature 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.23 152.36 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.37 152.65 looks 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.66 152.89 like 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.90 152.95 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 152.96 153.59 glacier 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 153.60 153.96 coming 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 153.97 154.18 up 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.19 154.5 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.51 154.79 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 154.80 155.01 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 155.02 156.24 oceanfront 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.25 156.46 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.47 156.58 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.59 156.82 also 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 156.83 157.14 has 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 157.15 157.75 material 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 157.76 158.34 steps 0.91 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 158.35 158.91 relates 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 158.92 159.75 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 159.76 159.97 two 0.75 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 159.98 160.14 no 0.83 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 160.15 160.53 region 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 160.54 161.01 nature 0.82 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 161.02 161.58 alike 0.57 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 161.59 162.02 and 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 162.03 162.18 the 0.30 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 164.52 164.63 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 164.64 165.31 performances 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.32 165.43 at 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.44 165.56 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.57 165.9 opera 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 165.91 166.18 house 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.19 166.55 draw 0.85 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.56 166.88 around 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.89 166.92 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 166.93 167.32 million 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 167.33 167.79 visitors 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 167.80 168.0 every 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.01 168.6 year 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.61 168.76 and 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.77 168.86 it 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.87 168.93 's 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 168.94 169.11 not 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.12 169.33 just 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.34 169.41 the 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.42 169.8 public 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.81 169.93 who 0.55 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 169.94 170.37 approve 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.38 170.49 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.50 170.56 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 170.57 171.36 building 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.37 171.65 sort 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.66 171.71 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.72 171.78 the 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 171.79 172.28 performing 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 172.29 172.84 artists 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 172.85 173.08 like 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 173.09 173.59 base 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 173.60 173.99 magna 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 174.00 174.92 family 0.52 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 174.93 175.68 the 0.46 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 175.69 176.19 acoustic 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.20 176.36 is 0.78 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.37 176.63 really 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 176.64 177.42 good 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.43 177.6 it 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.61 177.69 's 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 177.70 178.35 fantastic 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 178.36 178.63 so 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 178.64 178.96 that 0.51 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 180.47 180.71 the 0.79 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 180.72 181.39 difference 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 181.40 181.77 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 181.78 181.97 work 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 183.37 184.03 before 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 184.04 184.16 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 184.17 184.58 old 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 185.29 185.61 alone 0.69 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 185.62 186.15 soon 0.69 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 186.16 186.88 so 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 186.89 187.12 this 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.13 187.36 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.37 187.48 a 0.79 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 187.49 188.19 really 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.20 188.61 perfect 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.62 188.85 for 0.77 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 188.86 189.15 us 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 189.16 190.55 as 0.38 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 190.56 190.78 good 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 190.79 191.2 bullets 0.45 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 191.21 191.98 between 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 191.99 192.53 orchestra 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 192.54 192.66 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 192.67 193.09 singers 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 194.93 195.2 at 0.91 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.21 195.3 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.31 195.42 you 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.43 195.6 know 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.61 195.74 it's 0.29 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 195.75 196.69 workshops 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 196.70 196.92 for 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 196.93 197.22 busy 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 197.23 197.74 preparing 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 197.75 198.15 props 0.93 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.16 198.29 and 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.30 198.77 scenery 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.78 198.93 for 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 198.94 199.08 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 199.09 199.6 upcoming 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 199.61 199.98 opera 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 203.67 204.36 thank 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.11 206.42 just 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.43 206.52 a 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.53 206.75 stone 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 206.76 206.99 's 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.00 207.23 throw 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.24 207.41 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.42 207.52 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.53 207.96 opera 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 207.97 208.09 a 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.10 208.32 new 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.33 208.63 arts 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 208.64 209.31 district 0.72 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.32 209.7 sprung 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.71 209.86 up 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 209.87 210.04 right 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.05 210.26 next 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.27 210.37 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.38 210.46 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 210.47 211.51 water 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 211.52 211.91 to 0.71 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 211.92 212.08 form 0.36 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.09 212.44 foreman 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.45 212.91 boasts 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 212.92 213.3 numerous 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 213.31 213.49 art 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 213.50 213.99 galleries 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 214.00 214.11 and 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 214.12 215.22 sculptures 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.23 215.41 more 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.42 215.57 than 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.58 215.92 twenty 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 215.93 216.46 architects 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 216.47 216.58 were 0.94 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 216.59 217.08 involved 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.09 217.19 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.20 217.67 creating 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.68 217.79 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 217.80 218.4 area 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 218.41 218.78 including 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 218.79 219.27 italian 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 219.28 219.54 renzo 1.00 renzo_piano
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 219.55 221.05 piano 1.00 renzo_piano
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.06 221.62 designed 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.63 221.76 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 221.77 222.21 astrup 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 222.22 222.66 fearnley 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 222.67 223.21 museum 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.22 223.31 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.32 223.43 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.44 223.73 heart 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.74 223.94 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 223.95 224.14 truth 0.62 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 224.71 227.47 thank 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 227.67 227.78 it 0.98 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 227.79 228.16 houses 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.17 228.3 one 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.31 228.38 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.39 228.47 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.48 228.75 leading 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 228.76 229.36 collections 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.37 229.51 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.52 229.91 modern 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 229.92 230.13 art 0.74 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.14 230.35 in 0.54 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.36 230.73 northern 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 230.74 231.31 europe 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 231.32 231.8 including 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 231.81 232.15 works 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 232.16 232.39 by 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 232.40 232.86 damien 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 233.42 236.82 thank 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 238.61 238.78 joe 0.61 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 238.79 239.18 farman 0.61 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 239.19 239.72 attracts 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 239.73 240.3 artists 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.31 240.58 from 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.59 240.78 all 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.79 240.96 over 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 240.97 242.27 norway 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 242.28 242.77 pianist 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 242.84 244.89 composer 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 244.90 245.03 is 0.62 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 245.04 245.2 one 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 245.21 246.33 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.34 246.51 the 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.52 246.76 open 0.85 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.77 246.88 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 246.89 247.39 cafe 0.89 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 247.40 247.51 do 0.44 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 247.52 248.02 concern 0.89 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 250.77 251.07 this 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.08 251.24 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.25 251.71 a 0.80 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.72 251.91 a 0.95 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 251.92 252.32 concert 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.33 252.69 gallery 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.70 252.86 where 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 252.87 253.3 i 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 253.31 254.36 invite 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 254.37 254.63 my 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 254.64 255.19 audience 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.20 255.48 to 0.78 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.49 255.69 where 0.36 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.70 255.85 i 0.54 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 255.86 256.4 perform 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.41 256.52 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.53 256.64 an 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 256.65 257.33 untraditional 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 257.34 258.03 venue 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.04 258.18 where 0.60 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.19 258.27 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.28 258.9 frames 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 258.91 259.12 are 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.13 259.65 different 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.66 259.75 and 0.50 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 259.76 260.51 when 0.91 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.52 260.69 we 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.70 260.87 have 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 260.88 261.48 colors 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 261.49 261.83 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 261.84 262.05 we 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.06 262.3 don't 0.51 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.31 262.47 look 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.48 262.97 like 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 262.98 263.21 and 0.67 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.22 263.76 when 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.77 263.91 we 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 263.92 264.06 have 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.07 264.11 a 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.12 264.16 guy 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 264.35 265.22 time 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.23 265.48 we 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.49 265.8 have 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.81 265.86 the 0.64 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 265.87 266.11 same 0.68 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.12 266.31 pain 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.32 266.43 and 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.44 266.63 hot 0.83 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.64 266.9 dogs 0.86 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 266.91 267.13 after 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.14 267.23 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.24 267.75 concert 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 267.76 268.02 and 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.03 268.09 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.10 268.29 thing 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.30 268.34 i 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.35 268.4 'm 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.41 268.63 trying 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.64 268.74 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 268.75 268.99 do 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.00 269.15 is 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.16 269.73 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 269.74 270.08 make 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 270.09 270.59 classical 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 270.60 271.87 music 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 271.88 272.17 sort 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 272.18 272.76 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 272.77 273.8 revitalized 0.41 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 273.81 274.22 classical 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 274.23 274.83 music 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 274.84 275.44 with 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 275.45 275.81 out 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 276.86 277.32 messing 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 277.33 278.01 up 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.02 278.13 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.14 278.9 music 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 278.91 279.07 it 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.08 279.42 has 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.43 279.52 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.53 279.67 be 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.68 279.77 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.78 279.94 way 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 279.95 280.03 it 0.96 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.04 280.22 has 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.23 280.39 been 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.40 280.71 played 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.72 280.84 for 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 280.85 281.08 hundreds 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.09 281.18 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.19 281.48 years 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 281.76 282.82 thank 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 282.83 283.08 one 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.09 283.58 popular 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.59 283.74 way 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.75 283.88 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 283.89 284.18 round 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.19 284.45 off 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.46 284.53 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.54 284.84 day 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 284.85 285.0 in 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.01 285.51 oslo 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.52 285.62 is 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.63 285.74 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.75 285.97 go 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 285.98 286.15 ice 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.16 286.59 skating 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.60 286.68 at 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.69 286.81 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 286.82 287.12 open 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.13 287.32 air 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.33 287.61 rink 0.92 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.62 287.83 here 0.27 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 287.84 288.05 the 0.97 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 288.06 290.28 palate 0.32 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.29 290.56 or 0.32 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.57 290.88 just 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 290.89 291.11 to 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.12 291.42 sit 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.43 291.83 around 0.93 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 291.84 291.99 in 0.89 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.00 292.15 one 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.16 292.25 of 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.26 292.33 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.34 292.62 many 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.63 292.95 street 0.90 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 292.96 294.2 cafes 0.99 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.21 294.47 until 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.48 294.58 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.59 294.86 sun 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 294.87 295.14 goes 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.15 295.61 down 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.62 295.83 over 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.84 295.92 the 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 295.93 296.47 norwegian 1.00 #
+DW Euromaxx-EN/8d4651ae-24b8-ae57-f26d-a40b9ab532b4 296.48 296.89 capital 1.00 #

@@ -1,542 +1,542 @@
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 3.70 4.29 husum 0.50
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 4.30 5.07 schokolade 0.91
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.08 5.41 ein 0.76
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.42 5.81 bisher 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.82 6.6 klassiker 0.93
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 6.61 7.12 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 7.13 7.41 so 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 7.42 8.26 sylvia 0.51
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.27 8.55 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.56 8.98 roter 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.99 9.38 bete 0.84
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 9.39 9.81 essig 0.85
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 9.82 10.02 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 10.03 11.97 olivenöl 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 11.98 12.17 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.18 12.31 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.32 12.75 versuchs 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.76 13.03 küche 0.80
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.04 13.17 der 0.47
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.18 13.62 agentur 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.63 13.88 sind 0.17
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.89 14.14 ins 0.30
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.15 14.52 heißt 0.55
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.53 14.73 geht 0.76
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.74 14.92 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.93 15.12 noch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.13 15.33 viel 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.34 15.79 mehr 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.80 16.35 schokolade 0.76
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.36 16.77 muß 0.84
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.78 16.95 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.96 17.45 gemahlenen 0.58
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 17.46 17.94 kaffee 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 17.95 18.27 rösten 0.66
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 18.28 18.68 zwiebeln 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 18.69 19.02 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 19.03 19.56 frühstücks 0.89
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 19.57 19.86 speck 0.34
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 23.66 23.89 es 0.91
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 23.90 24.13 komme 0.41
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.14 24.57 nächsten 0.89
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.58 24.86 diese 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.87 25.56 kombination 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 25.57 26.33 funktioniert 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 26.34 26.61 weil 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 26.62 27.32 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 27.33 27.87 zwiebeln 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 27.88 28.38 kaffee 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.39 28.55 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.56 28.94 speck 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.95 29.43 geschmacks 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 29.44 29.97 moleküle 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 29.98 30.49 gemeinsam 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 30.50 32.54 haben 0.70
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 32.55 32.94 kommen 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 35.81 36.26 welche 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 36.27 36.88 lebensmittel 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 36.89 37.45 geschmacklich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 37.46 38.1 harmonieren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 38.11 38.46 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 38.47 39.15 warum 0.88
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.16 39.38 das 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.39 39.91 erforschen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.92 40.2 diese 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.21 40.55 beiden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.56 40.7 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.71 40.79 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.80 41.28 belgischen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 41.29 41.69 stadt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 41.70 43.19 brügge 0.85
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 43.20 43.48 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 43.49 44.07 ehemalige 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 44.08 44.79 sternekoch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 44.80 45.2 peter 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 45.21 45.98 kokett 0.68
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 45.99 46.35 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 46.36 46.75 aroma 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 46.76 47.14 forscher 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.15 47.21 um 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.22 47.7 bernard 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.71 47.84 la 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.85 48.3 rues 0.79
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 48.83 49.26 jedes 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 49.27 49.85 lebensmittel 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 49.86 50.21 enthält 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 50.22 50.71 hunderte 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 50.72 51.57 geschmacksstoffe 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 51.58 52.04 tausende 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.05 52.57 zutaten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.58 52.79 haben 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.80 52.94 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.95 53.13 hier 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 53.14 53.32 schon 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 53.33 55.1 entschlüsselt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 55.11 55.39 wir 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 55.40 56.12 analysieren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.13 56.38 immer 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.39 56.72 neue 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.73 57.74 lebensmittel 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 57.75 57.92 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 57.93 58.7 anregungen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 58.71 59.11 bekommen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.12 59.27 wir 0.54
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.28 59.5 von 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.51 59.88 profis 0.72
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.89 60.31 köchen 0.91
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.32 60.55 oder 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.56 60.75 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.76 61.66 privatleuten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.67 61.78 die 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.79 61.98 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.99 62.26 neuen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 62.27 62.83 zutaten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 62.84 63.08 oder 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.09 63.5 typischen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.51 63.95 produkten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.96 64.11 aus 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.12 64.4 ihrer 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.41 64.86 region 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.87 65.59 korrekten 0.86
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 67.21 67.81 analysen 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 67.82 68.28 zeigen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 68.29 68.67 welche 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 68.68 69.05 aroma 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.06 69.72 komponenten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.73 69.85 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.86 70.54 lebensmitteln 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 70.55 71.48 vorkommen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 71.49 71.9 daraus 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 71.91 72.31 erstellen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 72.32 72.41 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 72.42 73.28 geschmacksforscher 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 73.29 73.63 baum 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 73.64 74.23 diagramm 0.50
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 74.24 74.51 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 74.52 75.29 zutaten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.30 75.43 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.44 75.83 chemisch 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.84 76.24 ähnlich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.25 76.52 sind 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.53 76.77 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.78 77.03 sich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.04 77.29 gut 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.30 77.93 kombinieren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.94 78.28 lassen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 80.47 80.98 mandl 0.75
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 80.99 81.54 plätzchen 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 81.55 81.82 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 81.83 82.42 brokkoli 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 82.43 82.8 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 82.81 86.24 muskelfleisch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 86.25 86.81 banane 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 86.82 87.18 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 87.19 87.63 genieße 0.82
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 87.64 88.34 stopfleber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 88.35 88.65 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 88.66 89.46 maracuja 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 89.47 90.09 aufging 0.59
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 90.10 92.75 hinhaut 0.93
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 92.76 93.62 rinderfilet 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 93.63 93.79 an 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 93.80 94.72 pilzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 94.73 94.91 auf 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 94.92 95.65 einem 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 95.66 96.1 sind 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 96.11 96.63 kekse 0.72
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.33 98.71 oder 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.72 98.94 einen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.95 99.48 cocktail 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 99.49 99.79 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 99.80 100.71 rinderbrühe 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 100.72 101.64 senf 0.83
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 101.65 102.33 schienen 0.44
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 102.34 102.55 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 102.56 103.17 weißbier 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.49 104.71 unter 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.72 104.87 den 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.88 105.27 kunden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.28 105.38 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.39 105.85 agentur 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.86 106.1 sind 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 106.11 106.67 küche 0.59
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 106.68 107.56 barkeeper 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.57 107.76 und 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.77 107.98 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.99 108.62 er 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 108.63 108.85 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 108.86 109.45 rockstar 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.46 109.69 unter 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.70 109.84 den 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.85 110.35 belgischen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 110.36 110.75 schokolade 0.65
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 110.76 111.29 thies 0.43
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 111.30 111.92 dominik 0.49
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 111.93 113.4 person 0.69
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 113.41 113.64 er 0.84
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 113.65 114.6 experimentiert 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 114.61 114.83 seit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 114.84 115.29 dreizehn 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.30 115.64 jahren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.65 115.86 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.87 116.65 ungewöhnlichen 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 116.66 117.24 zutaten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 118.41 118.81 irgendwie 0.36
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 118.82 119.07 haben 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.08 119.19 wir 0.71
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.20 119.39 eine 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.40 119.99 praline 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.00 120.16 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.17 120.36 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.37 120.92 wasabi 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.93 121.33 gefüllt 0.88
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.34 121.69 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.70 121.9 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.91 122.17 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.18 122.43 sehr 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.44 122.96 scharf 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.97 123.18 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.19 123.29 es 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.30 123.46 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.47 124.08 aufregend 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.09 124.24 den 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.25 124.61 geschmack 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.62 124.91 darin 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.92 125.68 wiederzufinden 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.61 127.76 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.77 127.93 das 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.94 128.11 hier 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.12 128.28 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.29 128.85 gebratene 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.86 129.41 zwiebeln 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 129.42 129.63 wir 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 129.64 129.99 schneiden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.00 130.32 dafür 0.62
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.33 130.5 eine 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.51 130.93 große 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.94 131.49 spanische 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 131.50 131.92 zwiebel 0.76
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 131.93 132.05 in 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.06 132.65 scheiben 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.66 132.82 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.83 133.15 braten 0.39
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 133.16 133.29 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 133.30 134.01 an 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.02 134.18 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.19 134.5 finde 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.51 135.01 spannend 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.02 135.72 foodpairing 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.73 135.86 zu 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.87 136.35 nutzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 136.36 136.49 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 136.50 137.35 herauszufinden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 137.36 137.66 welche 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 137.67 138.45 kombinationen 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 138.46 138.56 wie 0.64
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 138.57 139.18 ausprobieren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 139.19 139.5 können 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.12 141.44 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.45 141.75 diesen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.76 142.22 pralinen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.23 142.42 hat 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.43 142.61 ist 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.62 142.72 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.73 143.47 ausgebildete 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 143.48 143.84 koch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 143.85 144.08 als 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.09 144.37 einer 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.38 144.55 von 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.56 144.73 nur 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.74 145.03 drei 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 145.04 145.29 schoko 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 145.30 146.01 lattice 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.02 146.15 in 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.16 146.37 den 0.58
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.38 146.67 gilt 0.42
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.68 146.97 mischen 0.77
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.98 147.2 auch 0.75
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 147.21 147.67 geschafft 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 148.92 149.18 für 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 149.19 149.45 neue 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 149.46 150.02 schokoladen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 150.03 150.66 kreationen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 150.67 151.05 verlässt 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.06 151.26 sich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.27 151.72 dominik 0.44
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.73 152.49 personen 0.64
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.50 152.82 nicht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.83 152.95 nur 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.96 153.09 auf 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 153.10 153.35 seine 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 153.36 154.16 intuition 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.17 154.48 sondern 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.49 154.72 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.73 154.92 auf 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.93 155.08 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.09 155.35 food 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.36 155.76 pairing 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.77 156.42 erkenntnisse 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.22 161.45 das 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.46 161.89 aroma 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.90 162.18 dieser 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.19 162.73 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.74 162.92 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.93 163.13 laut 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 163.14 163.76 foodpairing 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 163.77 164.27 verwandt 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 164.28 164.46 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 164.47 165.06 pilzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.07 165.38 also 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.39 165.54 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.55 166.89 steinpilzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 166.90 167.09 es 0.67
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.10 167.3 macht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.31 167.45 mir 0.84
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.46 167.82 spaß 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.83 168.01 eine 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.02 168.29 gute 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.30 168.78 balance 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.79 169.16 zwischen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 169.17 169.35 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 169.36 170.17 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.18 170.45 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.46 170.61 den 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.62 170.98 pilzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.99 171.11 zu 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 171.12 172.7 finden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 172.71 172.94 hier 0.60
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 172.95 173.21 habe 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 173.22 173.38 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 173.39 174.16 nur 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 174.17 174.47 einen 0.92
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 174.48 175.05 haselnuss 0.53
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.06 175.65 nougat 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.66 175.79 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.80 176.2 dazu 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.21 176.51 gebe 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.52 176.69 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.70 177.35 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 179.60 179.88 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 179.89 180.09 das 0.84
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.10 180.27 hier 0.88
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.28 180.49 sind 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.50 181.19 getrocknete 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 181.20 181.76 gemeine 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 181.77 182.81 steinpilz 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 182.82 183.02 die 0.93
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.03 183.23 gebe 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.24 183.36 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.37 183.56 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.57 183.99 dazu 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 186.78 187.25 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.26 187.44 für 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.45 187.57 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.58 188.25 frische 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.26 188.48 das 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.49 188.76 findet 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.77 188.94 sich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.95 189.14 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.15 189.31 im 0.88
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.32 189.49 food 0.83
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.50 189.89 pairing 0.83
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.90 190.69 diagramm 0.91
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 190.70 191.03 nehme 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.04 191.19 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.20 191.32 noch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.33 191.8 etwas 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.81 192.39 setzungen 0.92
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 192.40 192.78 pfeffer 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 196.33 196.85 fertig 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 196.86 197.09 sind 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.10 197.44 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.45 197.91 praline 0.71
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.92 198.27 hieß 0.42
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 198.28 198.46 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 198.47 199.26 steinpilzen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 199.27 200.69 rat 0.61
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 200.70 201.08 seine 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 201.09 201.66 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 201.67 202.1 verkauft 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 202.11 202.5 dominik 0.49
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 202.51 203.1 personen 0.62
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.11 203.28 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.29 203.38 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.39 203.75 ganze 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.76 204.33 welt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.34 204.5 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.51 204.75 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.76 205.12 hier 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.13 205.29 im 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.30 205.71 eigenen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.72 206.13 laden 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.14 206.25 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.26 206.46 seiner 0.83
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.47 207.09 heimatstadt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 207.10 207.45 brücken 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 210.83 211.29 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.30 211.51 wie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.52 211.85 kommen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.86 211.98 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.99 212.57 exotischen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 212.58 213.09 pralinen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.10 213.31 in 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.32 213.73 straßen 0.87
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.74 214.09 test 0.89
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 214.10 214.32 an 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 218.84 218.92 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 218.93 221.18 sommerferien 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 221.19 222.72 und 0.76
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 222.73 223.26 im 0.33
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 223.27 223.57 speck 0.48
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 225.71 226.02 kaiser 0.41
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.03 226.35 perry 0.25
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.36 226.52 das 0.82
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.53 226.78 schlägt 0.41
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.79 226.97 nach 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.98 227.29 bayern 0.85
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.30 227.43 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.44 227.6 ist 0.52
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.61 228.35 knusprig 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.36 228.54 was 0.73
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.55 228.78 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.79 230.91 das 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 230.92 231.2 wurde 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 233.85 233.99 die 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 234.00 234.52 briten 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 234.53 234.74 noch 0.75
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.52 235.68 ja 0.43
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.69 235.9 und 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.91 236.04 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.05 236.27 weiß 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.28 236.41 es 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.42 236.73 nicht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.14 240.62 beispiel 0.83
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.63 240.91 und 0.93
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.92 241.64 pilze 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 241.65 242.37 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.26 243.49 das 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.50 243.56 ist 0.54
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.57 244.2 interessant 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 244.21 244.56 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 244.57 245.78 neu 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 245.79 246.16 kein 0.59
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.17 246.58 truthahn 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.59 246.69 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.70 247.31 preiselbeeren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.32 247.57 passen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.58 247.78 gut 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.79 248.3 zusammen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.31 248.43 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.44 248.54 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.55 249.13 schokolade 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 249.14 250.18 großartig 0.91
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.19 250.34 ja 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.35 250.47 ich 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.48 250.61 bin 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.62 251.03 überrascht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.04 251.18 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.19 251.26 es 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.27 251.41 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.42 251.71 wirklich 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.72 252.02 gut 0.99
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 253.36 253.96 zurück 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 253.97 254.13 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.14 254.27 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.28 254.75 versuchs 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.76 255.54 küche 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 255.55 255.81 wäre 0.73
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 255.82 256.01 nach 0.87
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 256.02 256.63 nachwuchs 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 256.64 256.99 und 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 257.00 257.42 peter 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 257.43 257.91 kokett 0.54
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.13 258.51 möchten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.52 258.67 mit 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.68 258.89 ihren 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.90 259.52 ergebnissen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.53 259.72 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.73 259.91 das 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.92 260.56 essverhalten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 260.57 260.68 der 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 260.69 261.07 menschen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 261.08 261.73 positiv 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 261.74 263.58 beeinflussen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 263.59 263.75 wir 0.96
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 263.76 264.05 lassen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.06 264.45 menschen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.46 264.98 eingenommen 0.68
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.99 265.22 so 0.50
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.23 265.38 dass 0.66
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.39 265.46 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.47 265.69 nicht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.70 266.24 mögen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 266.25 266.58 neu 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 266.59 267.35 entdecken 0.92
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.36 267.51 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.52 267.76 einem 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.77 268.4 gericht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.41 268.6 das 0.97
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.61 268.71 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.72 269.55 mögen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 269.56 269.86 so 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 269.87 270.26 lernen 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.27 270.45 sie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.46 270.71 schritt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.72 270.88 für 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.89 271.26 schritt 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.27 271.56 auch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.57 271.84 diese 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.85 272.54 kombination 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 272.55 272.68 zu 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 272.69 273.04 mögen 0.62
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 274.80 275.08 denn 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 275.09 275.35 beim 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 275.36 276.02 foodpairing 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.03 276.23 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.24 276.37 es 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.38 276.53 wie 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.54 276.64 in 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.65 276.98 jeder 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.99 277.31 guten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 277.32 278.25 partnerschaft 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.26 278.72 vielleicht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.73 278.9 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.91 279.02 es 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.03 279.21 nicht 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.22 279.44 immer 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.45 279.67 liebe 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.68 279.84 auf 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.85 279.97 den 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.98 280.29 ersten 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 280.30 280.76 blick 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 280.77 281.09 aber 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.10 281.64 entscheidend 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.65 281.85 ist 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.86 282.22 doch 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.23 282.43 dass 0.94
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.44 282.53 am 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.54 283.22 ende 0.98
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.23 283.36 die 1.00
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.37 283.66 chemie 0.95
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.67 283.8 nicht 0.58
-DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.81 284.09 stimmt 0.79
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 3.70 4.29 husum 0.50 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 4.30 5.07 schokolade 0.91 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.08 5.41 ein 0.76 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.42 5.81 bisher 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 5.82 6.6 klassiker 0.93 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 6.61 7.12 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 7.13 7.41 so 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 7.42 8.26 sylvia 0.51 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.27 8.55 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.56 8.98 roter 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 8.99 9.38 bete 0.84 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 9.39 9.81 essig 0.85 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 9.82 10.02 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 10.03 11.97 olivenöl 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 11.98 12.17 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.18 12.31 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.32 12.75 versuchs 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 12.76 13.03 küche 0.80 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.04 13.17 der 0.47 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.18 13.62 agentur 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.63 13.88 sind 0.17 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 13.89 14.14 ins 0.30 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.15 14.52 heißt 0.55 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.53 14.73 geht 0.76 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.74 14.92 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 14.93 15.12 noch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.13 15.33 viel 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.34 15.79 mehr 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 15.80 16.35 schokolade 0.76 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.36 16.77 muß 0.84 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.78 16.95 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 16.96 17.45 gemahlenen 0.58 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 17.46 17.94 kaffee 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 17.95 18.27 rösten 0.66 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 18.28 18.68 zwiebeln 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 18.69 19.02 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 19.03 19.56 frühstücks 0.89 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 19.57 19.86 speck 0.34 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 23.66 23.89 es 0.91 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 23.90 24.13 komme 0.41 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.14 24.57 nächsten 0.89 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.58 24.86 diese 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 24.87 25.56 kombination 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 25.57 26.33 funktioniert 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 26.34 26.61 weil 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 26.62 27.32 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 27.33 27.87 zwiebeln 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 27.88 28.38 kaffee 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.39 28.55 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.56 28.94 speck 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 28.95 29.43 geschmacks 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 29.44 29.97 moleküle 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 29.98 30.49 gemeinsam 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 30.50 32.54 haben 0.70 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 32.55 32.94 kommen 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 35.81 36.26 welche 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 36.27 36.88 lebensmittel 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 36.89 37.45 geschmacklich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 37.46 38.1 harmonieren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 38.11 38.46 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 38.47 39.15 warum 0.88 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.16 39.38 das 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.39 39.91 erforschen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 39.92 40.2 diese 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.21 40.55 beiden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.56 40.7 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.71 40.79 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 40.80 41.28 belgischen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 41.29 41.69 stadt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 41.70 43.19 brügge 0.85 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 43.20 43.48 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 43.49 44.07 ehemalige 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 44.08 44.79 sternekoch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 44.80 45.2 peter 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 45.21 45.98 kokett 0.68 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 45.99 46.35 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 46.36 46.75 aroma 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 46.76 47.14 forscher 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.15 47.21 um 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.22 47.7 bernard 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.71 47.84 la 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 47.85 48.3 rues 0.79 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 48.83 49.26 jedes 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 49.27 49.85 lebensmittel 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 49.86 50.21 enthält 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 50.22 50.71 hunderte 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 50.72 51.57 geschmacksstoffe 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 51.58 52.04 tausende 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.05 52.57 zutaten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.58 52.79 haben 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.80 52.94 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 52.95 53.13 hier 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 53.14 53.32 schon 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 53.33 55.1 entschlüsselt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 55.11 55.39 wir 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 55.40 56.12 analysieren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.13 56.38 immer 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.39 56.72 neue 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 56.73 57.74 lebensmittel 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 57.75 57.92 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 57.93 58.7 anregungen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 58.71 59.11 bekommen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.12 59.27 wir 0.54 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.28 59.5 von 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.51 59.88 profis 0.72 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 59.89 60.31 köchen 0.91 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.32 60.55 oder 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.56 60.75 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 60.76 61.66 privatleuten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.67 61.78 die 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.79 61.98 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 61.99 62.26 neuen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 62.27 62.83 zutaten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 62.84 63.08 oder 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.09 63.5 typischen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.51 63.95 produkten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 63.96 64.11 aus 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.12 64.4 ihrer 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.41 64.86 region 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 64.87 65.59 korrekten 0.86 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 67.21 67.81 analysen 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 67.82 68.28 zeigen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 68.29 68.67 welche 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 68.68 69.05 aroma 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.06 69.72 komponenten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.73 69.85 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 69.86 70.54 lebensmitteln 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 70.55 71.48 vorkommen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 71.49 71.9 daraus 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 71.91 72.31 erstellen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 72.32 72.41 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 72.42 73.28 geschmacksforscher 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 73.29 73.63 baum 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 73.64 74.23 diagramm 0.50 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 74.24 74.51 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 74.52 75.29 zutaten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.30 75.43 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.44 75.83 chemisch 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 75.84 76.24 ähnlich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.25 76.52 sind 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.53 76.77 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 76.78 77.03 sich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.04 77.29 gut 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.30 77.93 kombinieren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 77.94 78.28 lassen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 80.47 80.98 mandl 0.75 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 80.99 81.54 plätzchen 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 81.55 81.82 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 81.83 82.42 brokkoli 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 82.43 82.8 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 82.81 86.24 muskelfleisch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 86.25 86.81 banane 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 86.82 87.18 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 87.19 87.63 genieße 0.82 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 87.64 88.34 stopfleber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 88.35 88.65 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 88.66 89.46 maracuja 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 89.47 90.09 aufging 0.59 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 90.10 92.75 hinhaut 0.93 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 92.76 93.62 rinderfilet 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 93.63 93.79 an 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 93.80 94.72 pilzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 94.73 94.91 auf 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 94.92 95.65 einem 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 95.66 96.1 sind 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 96.11 96.63 kekse 0.72 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.33 98.71 oder 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.72 98.94 einen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 98.95 99.48 cocktail 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 99.49 99.79 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 99.80 100.71 rinderbrühe 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 100.72 101.64 senf 0.83 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 101.65 102.33 schienen 0.44 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 102.34 102.55 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 102.56 103.17 weißbier 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.49 104.71 unter 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.72 104.87 den 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 104.88 105.27 kunden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.28 105.38 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.39 105.85 agentur 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 105.86 106.1 sind 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 106.11 106.67 küche 0.59 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 106.68 107.56 barkeeper 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.57 107.76 und 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.77 107.98 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 107.99 108.62 er 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 108.63 108.85 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 108.86 109.45 rockstar 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.46 109.69 unter 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.70 109.84 den 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 109.85 110.35 belgischen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 110.36 110.75 schokolade 0.65 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 110.76 111.29 thies 0.43 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 111.30 111.92 dominik 0.49 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 111.93 113.4 person 0.69 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 113.41 113.64 er 0.84 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 113.65 114.6 experimentiert 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 114.61 114.83 seit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 114.84 115.29 dreizehn 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.30 115.64 jahren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.65 115.86 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 115.87 116.65 ungewöhnlichen 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 116.66 117.24 zutaten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 118.41 118.81 irgendwie 0.36 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 118.82 119.07 haben 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.08 119.19 wir 0.71 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.20 119.39 eine 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 119.40 119.99 praline 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.00 120.16 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.17 120.36 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.37 120.92 wasabi 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 120.93 121.33 gefüllt 0.88 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.34 121.69 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.70 121.9 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 121.91 122.17 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.18 122.43 sehr 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.44 122.96 scharf 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 122.97 123.18 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.19 123.29 es 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.30 123.46 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 123.47 124.08 aufregend 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.09 124.24 den 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.25 124.61 geschmack 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.62 124.91 darin 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 124.92 125.68 wiederzufinden 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.61 127.76 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.77 127.93 das 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 127.94 128.11 hier 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.12 128.28 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.29 128.85 gebratene 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 128.86 129.41 zwiebeln 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 129.42 129.63 wir 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 129.64 129.99 schneiden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.00 130.32 dafür 0.62 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.33 130.5 eine 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.51 130.93 große 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 130.94 131.49 spanische 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 131.50 131.92 zwiebel 0.76 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 131.93 132.05 in 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.06 132.65 scheiben 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.66 132.82 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 132.83 133.15 braten 0.39 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 133.16 133.29 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 133.30 134.01 an 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.02 134.18 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.19 134.5 finde 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 134.51 135.01 spannend 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.02 135.72 foodpairing 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.73 135.86 zu 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 135.87 136.35 nutzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 136.36 136.49 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 136.50 137.35 herauszufinden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 137.36 137.66 welche 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 137.67 138.45 kombinationen 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 138.46 138.56 wie 0.64 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 138.57 139.18 ausprobieren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 139.19 139.5 können 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.12 141.44 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.45 141.75 diesen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 141.76 142.22 pralinen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.23 142.42 hat 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.43 142.61 ist 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.62 142.72 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 142.73 143.47 ausgebildete 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 143.48 143.84 koch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 143.85 144.08 als 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.09 144.37 einer 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.38 144.55 von 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.56 144.73 nur 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 144.74 145.03 drei 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 145.04 145.29 schoko 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 145.30 146.01 lattice 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.02 146.15 in 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.16 146.37 den 0.58 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.38 146.67 gilt 0.42 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.68 146.97 mischen 0.77 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 146.98 147.2 auch 0.75 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 147.21 147.67 geschafft 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 148.92 149.18 für 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 149.19 149.45 neue 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 149.46 150.02 schokoladen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 150.03 150.66 kreationen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 150.67 151.05 verlässt 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.06 151.26 sich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.27 151.72 dominik 0.44 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 151.73 152.49 personen 0.64 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.50 152.82 nicht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.83 152.95 nur 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 152.96 153.09 auf 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 153.10 153.35 seine 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 153.36 154.16 intuition 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.17 154.48 sondern 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.49 154.72 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.73 154.92 auf 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 154.93 155.08 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.09 155.35 food 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.36 155.76 pairing 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 155.77 156.42 erkenntnisse 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.22 161.45 das 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.46 161.89 aroma 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 161.90 162.18 dieser 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.19 162.73 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.74 162.92 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 162.93 163.13 laut 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 163.14 163.76 foodpairing 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 163.77 164.27 verwandt 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 164.28 164.46 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 164.47 165.06 pilzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.07 165.38 also 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.39 165.54 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 165.55 166.89 steinpilzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 166.90 167.09 es 0.67 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.10 167.3 macht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.31 167.45 mir 0.84 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.46 167.82 spaß 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 167.83 168.01 eine 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.02 168.29 gute 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.30 168.78 balance 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 168.79 169.16 zwischen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 169.17 169.35 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 169.36 170.17 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.18 170.45 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.46 170.61 den 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.62 170.98 pilzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 170.99 171.11 zu 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 171.12 172.7 finden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 172.71 172.94 hier 0.60 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 172.95 173.21 habe 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 173.22 173.38 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 173.39 174.16 nur 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 174.17 174.47 einen 0.92 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 174.48 175.05 haselnuss 0.53 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.06 175.65 nougat 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.66 175.79 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 175.80 176.2 dazu 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.21 176.51 gebe 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.52 176.69 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 176.70 177.35 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 179.60 179.88 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 179.89 180.09 das 0.84 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.10 180.27 hier 0.88 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.28 180.49 sind 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 180.50 181.19 getrocknete 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 181.20 181.76 gemeine 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 181.77 182.81 steinpilz 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 182.82 183.02 die 0.93 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.03 183.23 gebe 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.24 183.36 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.37 183.56 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 183.57 183.99 dazu 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 186.78 187.25 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.26 187.44 für 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.45 187.57 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 187.58 188.25 frische 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.26 188.48 das 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.49 188.76 findet 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.77 188.94 sich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 188.95 189.14 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.15 189.31 im 0.88 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.32 189.49 food 0.83 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.50 189.89 pairing 0.83 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 189.90 190.69 diagramm 0.91 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 190.70 191.03 nehme 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.04 191.19 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.20 191.32 noch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.33 191.8 etwas 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 191.81 192.39 setzungen 0.92 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 192.40 192.78 pfeffer 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 196.33 196.85 fertig 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 196.86 197.09 sind 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.10 197.44 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.45 197.91 praline 0.71 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 197.92 198.27 hieß 0.42 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 198.28 198.46 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 198.47 199.26 steinpilzen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 199.27 200.69 rat 0.61 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 200.70 201.08 seine 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 201.09 201.66 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 201.67 202.1 verkauft 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 202.11 202.5 dominik 0.49 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 202.51 203.1 personen 0.62 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.11 203.28 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.29 203.38 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.39 203.75 ganze 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 203.76 204.33 welt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.34 204.5 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.51 204.75 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 204.76 205.12 hier 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.13 205.29 im 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.30 205.71 eigenen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 205.72 206.13 laden 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.14 206.25 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.26 206.46 seiner 0.83 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 206.47 207.09 heimatstadt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 207.10 207.45 brücken 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 210.83 211.29 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.30 211.51 wie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.52 211.85 kommen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.86 211.98 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 211.99 212.57 exotischen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 212.58 213.09 pralinen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.10 213.31 in 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.32 213.73 straßen 0.87 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 213.74 214.09 test 0.89 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 214.10 214.32 an 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 218.84 218.92 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 218.93 221.18 sommerferien 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 221.19 222.72 und 0.76 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 222.73 223.26 im 0.33 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 223.27 223.57 speck 0.48 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 225.71 226.02 kaiser 0.41 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.03 226.35 perry 0.25 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.36 226.52 das 0.82 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.53 226.78 schlägt 0.41 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.79 226.97 nach 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 226.98 227.29 bayern 0.85 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.30 227.43 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.44 227.6 ist 0.52 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 227.61 228.35 knusprig 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.36 228.54 was 0.73 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.55 228.78 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 228.79 230.91 das 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 230.92 231.2 wurde 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 233.85 233.99 die 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 234.00 234.52 briten 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 234.53 234.74 noch 0.75 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.52 235.68 ja 0.43 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.69 235.9 und 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 235.91 236.04 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.05 236.27 weiß 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.28 236.41 es 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 236.42 236.73 nicht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.14 240.62 beispiel 0.83 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.63 240.91 und 0.93 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 240.92 241.64 pilze 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 241.65 242.37 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.26 243.49 das 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.50 243.56 ist 0.54 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 243.57 244.2 interessant 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 244.21 244.56 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 244.57 245.78 neu 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 245.79 246.16 kein 0.59 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.17 246.58 truthahn 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.59 246.69 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 246.70 247.31 preiselbeeren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.32 247.57 passen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.58 247.78 gut 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 247.79 248.3 zusammen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.31 248.43 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.44 248.54 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 248.55 249.13 schokolade 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 249.14 250.18 großartig 0.91 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.19 250.34 ja 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.35 250.47 ich 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.48 250.61 bin 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 250.62 251.03 überrascht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.04 251.18 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.19 251.26 es 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.27 251.41 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.42 251.71 wirklich 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 251.72 252.02 gut 0.99 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 253.36 253.96 zurück 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 253.97 254.13 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.14 254.27 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.28 254.75 versuchs 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 254.76 255.54 küche 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 255.55 255.81 wäre 0.73 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 255.82 256.01 nach 0.87 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 256.02 256.63 nachwuchs 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 256.64 256.99 und 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 257.00 257.42 peter 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 257.43 257.91 kokett 0.54 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.13 258.51 möchten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.52 258.67 mit 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.68 258.89 ihren 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 258.90 259.52 ergebnissen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.53 259.72 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.73 259.91 das 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 259.92 260.56 essverhalten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 260.57 260.68 der 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 260.69 261.07 menschen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 261.08 261.73 positiv 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 261.74 263.58 beeinflussen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 263.59 263.75 wir 0.96 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 263.76 264.05 lassen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.06 264.45 menschen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.46 264.98 eingenommen 0.68 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 264.99 265.22 so 0.50 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.23 265.38 dass 0.66 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.39 265.46 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.47 265.69 nicht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 265.70 266.24 mögen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 266.25 266.58 neu 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 266.59 267.35 entdecken 0.92 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.36 267.51 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.52 267.76 einem 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 267.77 268.4 gericht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.41 268.6 das 0.97 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.61 268.71 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 268.72 269.55 mögen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 269.56 269.86 so 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 269.87 270.26 lernen 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.27 270.45 sie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.46 270.71 schritt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.72 270.88 für 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 270.89 271.26 schritt 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.27 271.56 auch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.57 271.84 diese 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 271.85 272.54 kombination 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 272.55 272.68 zu 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 272.69 273.04 mögen 0.62 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 274.80 275.08 denn 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 275.09 275.35 beim 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 275.36 276.02 foodpairing 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.03 276.23 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.24 276.37 es 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.38 276.53 wie 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.54 276.64 in 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.65 276.98 jeder 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 276.99 277.31 guten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 277.32 278.25 partnerschaft 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.26 278.72 vielleicht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.73 278.9 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 278.91 279.02 es 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.03 279.21 nicht 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.22 279.44 immer 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.45 279.67 liebe 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.68 279.84 auf 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.85 279.97 den 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 279.98 280.29 ersten 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 280.30 280.76 blick 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 280.77 281.09 aber 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.10 281.64 entscheidend 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.65 281.85 ist 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 281.86 282.22 doch 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.23 282.43 dass 0.94 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.44 282.53 am 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 282.54 283.22 ende 0.98 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.23 283.36 die 1.00 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.37 283.66 chemie 0.95 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.67 283.8 nicht 0.58 #
+DW DW-news-DE/ec477870-b29a-8eff-8162-39cdec8ab783 283.81 284.09 stimmt 0.79 #

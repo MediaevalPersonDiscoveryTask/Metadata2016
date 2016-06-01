@@ -1,365 +1,365 @@
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 4.67 4.87 nach 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 4.88 5.02 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.03 5.58 zugfahrt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.59 5.86 kommt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.87 6.11 wieder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 6.12 6.25 ein 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 6.26 8.03 fußmarsch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.04 8.27 diese 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.28 8.77 flüchtlinge 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.78 9.06 kommen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 9.07 9.25 aus 0.98
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 9.26 10.13 syrien 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.14 10.29 sie 0.88
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.30 10.5 sind 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.51 10.8 hier 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.81 10.94 in 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.95 11.98 griechenland 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 11.99 12.26 heute 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.27 12.47 wollen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.48 12.56 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.57 12.73 noch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.74 13.07 weiter 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.08 13.54 marschieren 0.92
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.55 13.69 nach 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.70 14.85 mazedonien 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 14.86 15.11 über 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.12 15.23 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.24 15.53 grüne 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.54 15.96 grenze 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 17.85 18.0 es 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.01 18.18 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.19 18.39 eine 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.40 18.73 reise 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.74 18.94 ins 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.95 20.96 ungewisse 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 20.97 21.27 der 0.91
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 21.28 23.28 sehr 0.91
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.29 23.71 dahinten 0.62
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.72 23.85 ist 0.50
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.86 25.15 polizei 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.16 25.29 und 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.30 25.38 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.39 25.67 leute 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.68 26.01 dort 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.02 26.2 haben 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.21 26.28 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.29 26.46 nicht 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.47 26.6 über 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.61 26.69 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.70 27.04 grenze 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 27.05 27.55 gelassen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.14 31.25 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.26 31.57 gruppe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.58 31.74 wird 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.75 31.94 immer 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.95 32.94 größer 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 32.95 33.21 wer 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.22 33.36 von 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.37 33.47 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.48 33.97 polizei 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.98 34.55 abgewiesen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 34.56 34.83 wurde 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 34.84 35.24 versucht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.25 35.36 es 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.37 35.64 gleich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.65 36.4 wieder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.41 36.53 es 0.69
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.54 36.81 treibt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.82 36.9 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.91 37.01 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 37.02 37.48 hoffnung 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 39.58 40.48 das 0.43
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 40.49 41.97 neusser 0.43
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 41.98 42.44 einfach 0.97
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 42.45 42.58 ein 0.69
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 42.59 43.42 neuanfang 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 43.43 43.73 weiter 0.98
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 43.74 44.74 nichts 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 44.75 44.86 ich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 44.87 45.05 habe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.06 45.53 keine 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.54 45.79 ahnung 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.80 45.95 was 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.96 46.09 mich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.10 46.18 in 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.19 46.61 europa 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.62 47.51 erwartet 0.58
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.52 47.84 einfach 0.92
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.85 47.94 ein 0.54
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.95 48.21 neuer 0.65
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.22 48.54 staat 0.54
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.55 48.83 hoffe 0.75
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.84 50.12 ich 0.76
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 50.13 50.42 nach 0.57
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 50.43 51.44 ihrem 0.30
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 51.45 51.81 bahnhof 0.24
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 51.82 52.04 so 0.25
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.13 54.36 nach 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.37 54.57 einer 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.58 54.95 stunde 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.96 55.49 marsch 0.96
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.50 55.69 dann 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.70 55.86 eine 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.87 56.17 gute 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 56.18 57.47 nachricht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.48 57.77 es 0.59
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.78 57.95 ist 0.90
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.96 58.19 aber 0.90
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 58.20 59.36 locations 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.37 59.49 wir 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.50 59.68 sind 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.69 59.9 jetzt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.91 60.19 hier 0.81
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 64.38 65.31 naja 0.78
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.32 65.45 wir 0.92
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.46 65.68 sind 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.69 65.99 jetzt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 66.00 66.27 in 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 66.28 67.09 mazedonien 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.11 70.32 das 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.33 70.46 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.47 70.57 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.58 70.87 erste 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.88 71.11 schritt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 71.12 71.4 ist 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 71.41 73.63 denn 0.52
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 73.64 73.97 jetzt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 73.98 74.12 geht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.13 74.23 es 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.24 74.55 weiter 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.56 74.87 richtung 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.88 74.91 u 0.60
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.92 75.09 bahn 0.64
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 75.10 75.79 stationen 0.59
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 75.80 76.09 jervis 0.49
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 76.10 77.0 alicia 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.01 77.32 trotz 0.93
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.33 77.83 gps 0.97
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.84 77.98 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.99 78.15 nicht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.16 78.37 ganz 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.38 78.62 klar 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.63 78.99 welcher 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.00 79.15 weg 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.16 79.29 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.30 79.68 beste 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.69 81.29 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 81.30 82.15 die 0.68
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 82.16 83.13 entweder 0.91
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.14 83.39 neu 0.63
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.40 83.73 heute 0.50
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.74 84.07 wollen 0.57
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 84.16 84.41 das 0.90
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 84.42 85.25 bin 0.52
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.26 85.6 ich 0.54
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.61 85.96 noch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.97 87.61 würden 0.85
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 87.62 87.81 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 87.82 88.25 entscheiden 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.26 88.41 sich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.42 88.87 schließlich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.88 88.99 für 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.00 89.14 den 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.15 89.56 längeren 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.57 90.08 weg 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.09 90.31 weil 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.32 90.42 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.43 90.55 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.56 91.13 polizei 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.14 91.31 aus 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.32 91.46 dem 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.47 91.59 weg 0.81
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.60 91.83 gehen 0.81
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.84 92.13 wollen 0.78
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 96.51 96.7 am 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 96.71 97.33 abend 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.34 97.7 stößt 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.71 97.78 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.79 98.05 gruppe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.06 98.17 auf 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.18 98.39 einen 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.40 98.63 armee 0.80
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.64 99.3 posten 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 99.31 100.0 nervosität 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.01 100.22 macht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.23 100.37 sich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.38 100.74 breit 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.75 101.09 aber 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.10 101.26 ein 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.27 101.66 neues 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.67 102.41 mazedonische 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.42 102.49 das 0.42
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.50 102.85 gesetz 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.86 103.33 erlaubt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.34 103.53 ihnen 0.98
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.54 103.64 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.65 104.81 durchreise 0.95
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 104.82 105.25 und 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.26 105.41 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.42 105.82 bekommen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.83 106.05 sogar 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 106.06 106.61 offizielle 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 106.62 107.08 papiere 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 107.09 107.48 dafür 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 111.10 115.51 wirtschaft 0.76
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 115.52 115.81 damit 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 115.82 116.02 können 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.03 116.14 wir 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.15 116.41 zug 0.96
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.42 117.18 fahren 0.95
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.19 117.52 morgen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.53 117.64 um 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.65 117.93 fünf 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.94 118.1 uhr 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.11 118.46 steigen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.47 118.6 in 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.61 118.72 den 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.73 119.0 zug 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 119.01 119.17 nach 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 119.18 120.08 skopje 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.09 120.35 oder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.36 120.86 kommune 0.54
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.87 122.7 wo 0.81
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 122.71 123.28 google 0.73
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 123.29 123.69 kommune 0.68
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 124.92 125.26 nachts 0.97
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.27 125.64 stoßen 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.65 125.91 noch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.92 126.08 mehr 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.09 126.59 flüchtlinge 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.60 126.78 zur 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.79 127.22 gruppe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.23 127.38 sie 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.39 127.75 kommen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.76 127.97 aus 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.98 128.14 den 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 128.15 129.07 krisenregionen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.08 129.32 rund 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.33 129.45 um 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.46 130.73 europa 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 130.74 130.88 am 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 130.89 131.56 morgen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.57 131.71 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.72 131.96 zug 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.97 132.35 wartet 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 132.36 132.93 schon 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 132.94 133.06 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 133.07 133.41 nächste 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 133.42 134.27 etappe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 134.28 134.88 richtung 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 134.89 135.31 serbische 0.96
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 135.32 136.32 grenze 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.33 136.49 für 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.50 136.8 viele 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.81 136.94 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.95 137.09 das 0.79
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.10 137.25 nicht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.26 137.41 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.42 137.73 erste 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.74 138.39 flugversuch 0.72
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 142.69 142.83 wir 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 142.84 143.12 haben 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.13 143.55 letztes 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.56 143.71 jahr 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.72 144.19 versucht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.20 144.45 übers 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.46 144.69 meer 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.70 144.84 zu 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.85 146.17 fliehen 0.54
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.18 146.42 sagen 0.58
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.43 146.74 jeder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.75 148.21 einzeln 0.68
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.22 148.42 er 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.43 148.7 wurde 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.71 149.23 vierzig 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.24 149.61 tage 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.62 149.7 in 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.71 150.1 ägypten 0.83
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 150.11 151.52 eingesperrt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 151.53 151.85 ich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 151.86 152.11 zehn 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 152.12 153.56 tage 0.88
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 153.57 153.85 ist 0.50
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 158.76 159.03 am 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 159.04 159.81 grenzbahnhof 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 159.82 160.17 chavez 0.71
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 160.18 160.75 ledger 0.55
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 160.76 161.07 sammeln 0.53
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.08 161.22 sich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.23 161.49 jeden 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.50 161.79 tag 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.80 162.25 hunderte 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 162.26 162.43 von 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 162.44 163.41 flüchtlingen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.42 163.65 auch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.66 163.78 aus 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.79 163.92 dem 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.93 164.43 sudan 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 164.44 164.61 und 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 164.62 166.14 somalia 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.15 166.35 drei 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.36 166.77 stunden 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.78 166.96 lang 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.97 167.14 soll 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.15 167.23 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.24 167.37 fahrt 0.62
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.38 167.8 dauert 0.53
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 169.32 169.47 der 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 169.48 170.22 regionalzug 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.23 170.34 in 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.35 170.72 richtung 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.73 171.16 serbische 0.94
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 171.17 171.87 grenze 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 171.88 172.09 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.10 172.44 jetzt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.45 172.61 schon 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.62 174.58 überfüllt 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.59 174.82 aber 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.83 174.96 an 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.97 175.28 jeder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 175.29 175.81 station 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 175.82 176.09 kommen 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.10 176.36 noch 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.37 176.52 mehr 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.53 176.84 menschen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.85 177.23 dazu 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 185.86 186.0 im 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.01 186.31 zug 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.32 186.56 nehmen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.57 186.72 dann 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.73 186.91 alle 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.92 187.33 rücksicht 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 187.34 188.12 aufeinander 0.98
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.13 188.5 jeder 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.51 188.73 darf 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.74 188.91 mal 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.92 189.45 sitzen 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 193.68 194.17 dann 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.18 194.59 endlich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.60 194.7 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.71 195.99 grenzstation 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 196.00 196.42 kommune 0.78
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 196.43 197.16 wo 0.40
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 197.17 197.43 diese 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 197.44 198.1 etappe 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 198.11 198.26 ist 0.99
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 198.27 200.59 geschafft 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.60 200.78 ich 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.79 200.94 bin 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.95 201.26 froh 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 201.27 201.96 mazedonien 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 201.97 202.12 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 202.13 204.7 vorbei 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 204.71 204.92 aber 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 204.93 205.08 auch 0.97
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.09 205.33 dies 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.34 205.53 ist 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.54 205.75 nur 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.76 205.89 ein 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.90 206.86 zwischenstopp 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 206.87 207.0 die 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.01 207.4 nächste 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.41 207.88 grenze 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.89 208.29 wartet 1.00
-DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 208.30 208.57 schon 1.00
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 4.67 4.87 nach 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 4.88 5.02 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.03 5.58 zugfahrt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.59 5.86 kommt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 5.87 6.11 wieder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 6.12 6.25 ein 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 6.26 8.03 fußmarsch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.04 8.27 diese 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.28 8.77 flüchtlinge 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 8.78 9.06 kommen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 9.07 9.25 aus 0.98 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 9.26 10.13 syrien 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.14 10.29 sie 0.88 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.30 10.5 sind 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.51 10.8 hier 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.81 10.94 in 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 10.95 11.98 griechenland 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 11.99 12.26 heute 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.27 12.47 wollen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.48 12.56 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.57 12.73 noch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 12.74 13.07 weiter 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.08 13.54 marschieren 0.92 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.55 13.69 nach 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 13.70 14.85 mazedonien 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 14.86 15.11 über 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.12 15.23 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.24 15.53 grüne 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 15.54 15.96 grenze 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 17.85 18.0 es 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.01 18.18 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.19 18.39 eine 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.40 18.73 reise 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.74 18.94 ins 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 18.95 20.96 ungewisse 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 20.97 21.27 der 0.91 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 21.28 23.28 sehr 0.91 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.29 23.71 dahinten 0.62 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.72 23.85 ist 0.50 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 23.86 25.15 polizei 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.16 25.29 und 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.30 25.38 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.39 25.67 leute 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 25.68 26.01 dort 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.02 26.2 haben 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.21 26.28 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.29 26.46 nicht 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.47 26.6 über 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.61 26.69 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 26.70 27.04 grenze 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 27.05 27.55 gelassen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.14 31.25 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.26 31.57 gruppe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.58 31.74 wird 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.75 31.94 immer 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 31.95 32.94 größer 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 32.95 33.21 wer 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.22 33.36 von 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.37 33.47 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.48 33.97 polizei 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 33.98 34.55 abgewiesen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 34.56 34.83 wurde 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 34.84 35.24 versucht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.25 35.36 es 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.37 35.64 gleich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 35.65 36.4 wieder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.41 36.53 es 0.69 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.54 36.81 treibt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.82 36.9 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 36.91 37.01 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 37.02 37.48 hoffnung 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 39.58 40.48 das 0.43 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 40.49 41.97 neusser 0.43 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 41.98 42.44 einfach 0.97 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 42.45 42.58 ein 0.69 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 42.59 43.42 neuanfang 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 43.43 43.73 weiter 0.98 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 43.74 44.74 nichts 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 44.75 44.86 ich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 44.87 45.05 habe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.06 45.53 keine 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.54 45.79 ahnung 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.80 45.95 was 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 45.96 46.09 mich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.10 46.18 in 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.19 46.61 europa 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 46.62 47.51 erwartet 0.58 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.52 47.84 einfach 0.92 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.85 47.94 ein 0.54 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 47.95 48.21 neuer 0.65 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.22 48.54 staat 0.54 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.55 48.83 hoffe 0.75 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 48.84 50.12 ich 0.76 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 50.13 50.42 nach 0.57 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 50.43 51.44 ihrem 0.30 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 51.45 51.81 bahnhof 0.24 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 51.82 52.04 so 0.25 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.13 54.36 nach 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.37 54.57 einer 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.58 54.95 stunde 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 54.96 55.49 marsch 0.96 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.50 55.69 dann 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.70 55.86 eine 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 55.87 56.17 gute 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 56.18 57.47 nachricht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.48 57.77 es 0.59 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.78 57.95 ist 0.90 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 57.96 58.19 aber 0.90 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 58.20 59.36 locations 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.37 59.49 wir 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.50 59.68 sind 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.69 59.9 jetzt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 59.91 60.19 hier 0.81 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 64.38 65.31 naja 0.78 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.32 65.45 wir 0.92 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.46 65.68 sind 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 65.69 65.99 jetzt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 66.00 66.27 in 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 66.28 67.09 mazedonien 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.11 70.32 das 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.33 70.46 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.47 70.57 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.58 70.87 erste 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 70.88 71.11 schritt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 71.12 71.4 ist 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 71.41 73.63 denn 0.52 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 73.64 73.97 jetzt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 73.98 74.12 geht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.13 74.23 es 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.24 74.55 weiter 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.56 74.87 richtung 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.88 74.91 u 0.60 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 74.92 75.09 bahn 0.64 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 75.10 75.79 stationen 0.59 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 75.80 76.09 jervis 0.49 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 76.10 77.0 alicia 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.01 77.32 trotz 0.93 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.33 77.83 gps 0.97 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.84 77.98 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 77.99 78.15 nicht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.16 78.37 ganz 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.38 78.62 klar 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 78.63 78.99 welcher 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.00 79.15 weg 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.16 79.29 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.30 79.68 beste 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 79.69 81.29 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 81.30 82.15 die 0.68 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 82.16 83.13 entweder 0.91 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.14 83.39 neu 0.63 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.40 83.73 heute 0.50 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 83.74 84.07 wollen 0.57 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 84.16 84.41 das 0.90 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 84.42 85.25 bin 0.52 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.26 85.6 ich 0.54 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.61 85.96 noch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 85.97 87.61 würden 0.85 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 87.62 87.81 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 87.82 88.25 entscheiden 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.26 88.41 sich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.42 88.87 schließlich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 88.88 88.99 für 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.00 89.14 den 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.15 89.56 längeren 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 89.57 90.08 weg 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.09 90.31 weil 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.32 90.42 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.43 90.55 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 90.56 91.13 polizei 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.14 91.31 aus 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.32 91.46 dem 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.47 91.59 weg 0.81 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.60 91.83 gehen 0.81 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 91.84 92.13 wollen 0.78 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 96.51 96.7 am 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 96.71 97.33 abend 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.34 97.7 stößt 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.71 97.78 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 97.79 98.05 gruppe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.06 98.17 auf 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.18 98.39 einen 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.40 98.63 armee 0.80 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 98.64 99.3 posten 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 99.31 100.0 nervosität 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.01 100.22 macht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.23 100.37 sich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.38 100.74 breit 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 100.75 101.09 aber 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.10 101.26 ein 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.27 101.66 neues 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 101.67 102.41 mazedonische 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.42 102.49 das 0.42 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.50 102.85 gesetz 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 102.86 103.33 erlaubt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.34 103.53 ihnen 0.98 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.54 103.64 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 103.65 104.81 durchreise 0.95 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 104.82 105.25 und 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.26 105.41 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.42 105.82 bekommen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 105.83 106.05 sogar 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 106.06 106.61 offizielle 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 106.62 107.08 papiere 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 107.09 107.48 dafür 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 111.10 115.51 wirtschaft 0.76 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 115.52 115.81 damit 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 115.82 116.02 können 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.03 116.14 wir 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.15 116.41 zug 0.96 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 116.42 117.18 fahren 0.95 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.19 117.52 morgen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.53 117.64 um 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.65 117.93 fünf 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 117.94 118.1 uhr 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.11 118.46 steigen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.47 118.6 in 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.61 118.72 den 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 118.73 119.0 zug 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 119.01 119.17 nach 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 119.18 120.08 skopje 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.09 120.35 oder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.36 120.86 kommune 0.54 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 120.87 122.7 wo 0.81 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 122.71 123.28 google 0.73 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 123.29 123.69 kommune 0.68 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 124.92 125.26 nachts 0.97 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.27 125.64 stoßen 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.65 125.91 noch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 125.92 126.08 mehr 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.09 126.59 flüchtlinge 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.60 126.78 zur 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 126.79 127.22 gruppe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.23 127.38 sie 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.39 127.75 kommen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.76 127.97 aus 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 127.98 128.14 den 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 128.15 129.07 krisenregionen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.08 129.32 rund 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.33 129.45 um 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 129.46 130.73 europa 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 130.74 130.88 am 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 130.89 131.56 morgen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.57 131.71 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.72 131.96 zug 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 131.97 132.35 wartet 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 132.36 132.93 schon 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 132.94 133.06 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 133.07 133.41 nächste 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 133.42 134.27 etappe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 134.28 134.88 richtung 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 134.89 135.31 serbische 0.96 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 135.32 136.32 grenze 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.33 136.49 für 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.50 136.8 viele 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.81 136.94 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 136.95 137.09 das 0.79 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.10 137.25 nicht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.26 137.41 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.42 137.73 erste 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 137.74 138.39 flugversuch 0.72 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 142.69 142.83 wir 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 142.84 143.12 haben 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.13 143.55 letztes 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.56 143.71 jahr 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 143.72 144.19 versucht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.20 144.45 übers 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.46 144.69 meer 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.70 144.84 zu 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 144.85 146.17 fliehen 0.54 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.18 146.42 sagen 0.58 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.43 146.74 jeder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 146.75 148.21 einzeln 0.68 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.22 148.42 er 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.43 148.7 wurde 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 148.71 149.23 vierzig 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.24 149.61 tage 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.62 149.7 in 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 149.71 150.1 ägypten 0.83 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 150.11 151.52 eingesperrt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 151.53 151.85 ich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 151.86 152.11 zehn 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 152.12 153.56 tage 0.88 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 153.57 153.85 ist 0.50 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 158.76 159.03 am 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 159.04 159.81 grenzbahnhof 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 159.82 160.17 chavez 0.71 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 160.18 160.75 ledger 0.55 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 160.76 161.07 sammeln 0.53 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.08 161.22 sich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.23 161.49 jeden 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.50 161.79 tag 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 161.80 162.25 hunderte 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 162.26 162.43 von 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 162.44 163.41 flüchtlingen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.42 163.65 auch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.66 163.78 aus 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.79 163.92 dem 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 163.93 164.43 sudan 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 164.44 164.61 und 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 164.62 166.14 somalia 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.15 166.35 drei 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.36 166.77 stunden 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.78 166.96 lang 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 166.97 167.14 soll 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.15 167.23 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.24 167.37 fahrt 0.62 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 167.38 167.8 dauert 0.53 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 169.32 169.47 der 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 169.48 170.22 regionalzug 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.23 170.34 in 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.35 170.72 richtung 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 170.73 171.16 serbische 0.94 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 171.17 171.87 grenze 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 171.88 172.09 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.10 172.44 jetzt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.45 172.61 schon 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 172.62 174.58 überfüllt 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.59 174.82 aber 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.83 174.96 an 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 174.97 175.28 jeder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 175.29 175.81 station 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 175.82 176.09 kommen 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.10 176.36 noch 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.37 176.52 mehr 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.53 176.84 menschen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 176.85 177.23 dazu 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 185.86 186.0 im 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.01 186.31 zug 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.32 186.56 nehmen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.57 186.72 dann 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.73 186.91 alle 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 186.92 187.33 rücksicht 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 187.34 188.12 aufeinander 0.98 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.13 188.5 jeder 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.51 188.73 darf 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.74 188.91 mal 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 188.92 189.45 sitzen 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 193.68 194.17 dann 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.18 194.59 endlich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.60 194.7 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 194.71 195.99 grenzstation 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 196.00 196.42 kommune 0.78 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 196.43 197.16 wo 0.40 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 197.17 197.43 diese 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 197.44 198.1 etappe 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 198.11 198.26 ist 0.99 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 198.27 200.59 geschafft 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.60 200.78 ich 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.79 200.94 bin 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 200.95 201.26 froh 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 201.27 201.96 mazedonien 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 201.97 202.12 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 202.13 204.7 vorbei 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 204.71 204.92 aber 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 204.93 205.08 auch 0.97 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.09 205.33 dies 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.34 205.53 ist 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.54 205.75 nur 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.76 205.89 ein 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 205.90 206.86 zwischenstopp 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 206.87 207.0 die 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.01 207.4 nächste 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.41 207.88 grenze 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 207.89 208.29 wartet 1.00 #
+DW DW-news-DE/57424db1-f0fe-a08d-b982-97fefa3b4e99 208.30 208.57 schon 1.00 #

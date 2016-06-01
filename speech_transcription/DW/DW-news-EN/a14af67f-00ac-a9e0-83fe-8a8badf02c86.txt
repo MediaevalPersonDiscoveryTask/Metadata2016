@@ -1,468 +1,468 @@
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 3.81 4.12 now 0.77
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.13 4.27 her 0.63
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.28 4.73 perspective 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.74 4.92 from 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.93 5.29 berlin 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.30 5.44 we 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.45 5.73 have 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.74 6.14 actually 0.57
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 6.15 6.55 political 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 6.56 7.13 correspondent 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.14 7.5 linda 0.84
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.51 7.85 crane 0.70
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.86 8.03 at 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.04 8.11 a 0.71
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.12 8.7 parliamentary 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.71 9.59 studios 0.83
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.60 9.83 when 0.56
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.84 9.95 the 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.96 10.31 truth 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.32 10.47 and 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.48 10.67 the 0.51
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.68 10.98 americas 0.50
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.99 11.51 been 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 11.52 11.84 low 0.92
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 11.85 12.12 key 0.96
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.13 12.3 on 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.31 12.43 the 0.89
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.44 12.91 issue 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.92 13.16 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 13.17 13.63 recent 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 13.64 14.16 days 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.17 14.39 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.40 14.66 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.67 14.85 going 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.86 14.98 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.99 15.81 change 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 15.82 16.11 with 0.78
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.12 16.29 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.30 16.63 events 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.64 16.77 over 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.78 16.86 the 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.87 17.43 weekend 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 19.88 20.28 indeed 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 20.29 20.42 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 20.43 21.09 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.10 21.87 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.88 21.97 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.98 22.32 fact 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.33 22.46 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.47 22.63 she 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.64 22.99 has 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.00 23.33 just 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.34 23.51 been 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.52 24.12 speaking 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.13 24.48 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.49 24.71 the 0.75
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.72 25.26 seventy 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 25.27 25.69 s 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 25.70 26.14 birthday 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.15 26.56 party 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.57 26.68 of 0.91
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.69 26.8 her 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.81 27.16 christian 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 27.17 28.18 democratic 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 28.19 28.71 party 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 28.92 29.16 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 29.17 29.48 had 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 29.49 29.99 very 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.00 30.36 very 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.37 30.82 clear 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.83 31.39 words 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 31.40 32.01 on 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.02 32.12 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.13 32.71 crisis 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.72 32.84 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.85 32.92 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.93 33.26 first 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.27 33.62 time 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.63 33.71 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.72 33.99 quite 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.00 34.8 awhile 0.79
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.81 34.97 we 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.98 35.22 heard 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.23 35.3 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.31 35.7 sense 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.71 35.91 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.92 36.03 she 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.04 36.33 used 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.34 36.43 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.44 36.82 repeat 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.83 37.08 like 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.09 37.14 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.15 37.97 mantra 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.98 38.73 saying 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 38.74 38.99 if 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.00 39.14 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.15 39.57 euro 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.58 40.23 fails 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 40.24 40.99 europe 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.00 41.59 fails 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.60 41.75 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.76 42.49 emphasizing 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 42.50 42.67 that 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 42.68 43.0 europe 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 43.01 43.7 lives 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 43.71 44.4 from 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 44.41 45.26 compromise 0.80
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.27 45.4 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.41 45.48 it 0.88
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.49 45.67 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.68 46.48 absolutely 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 46.49 47.2 crucial 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 47.57 48.0 that 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.01 48.28 all 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.29 48.39 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.40 48.47 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.48 49.03 parties 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.04 49.28 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.29 49.9 this 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.91 50.16 did 0.23
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.17 50.29 to 0.96
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.30 50.48 these 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.49 51.45 negotiations 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 51.46 52.19 continue 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.20 52.33 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.34 52.55 look 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.56 52.71 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.72 52.77 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.78 53.72 compromise 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 53.73 54.09 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.10 54.18 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.19 54.49 way 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.50 54.74 out 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.75 54.84 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.85 54.97 she 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.98 55.22 said 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.23 55.33 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.34 55.42 it 0.77
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.43 55.5 's 0.74
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.51 55.58 an 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.59 56.53 essential 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 56.54 57.54 principle 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 57.55 57.8 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 57.81 58.28 europe 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 58.43 58.62 that 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 58.63 59.68 solidarity 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 59.69 59.81 be 0.87
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 59.82 60.53 combined 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 60.54 61.41 with 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 61.42 62.5 responsibility 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 62.51 62.99 with 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.00 63.3 all 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.31 63.72 parties 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.73 64.24 willingness 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.25 64.35 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.36 64.7 take 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.71 65.89 responsibility 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 65.90 66.16 there 0.52
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.17 66.25 an 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.26 66.74 indirect 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.75 67.44 message 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 67.45 67.71 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 67.72 68.08 greece 0.95
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.09 68.21 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.22 68.62 course 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.63 69.02 a 0.54
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.03 69.22 that 0.72
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.23 69.35 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.36 69.68 does 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.69 69.86 need 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.87 69.96 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.97 70.2 take 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 70.21 71.55 responsibility 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 71.56 71.89 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 71.90 72.11 its 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.12 72.43 own 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.44 72.52 a 0.51
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.53 73.35 situation 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.36 73.48 we 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.49 73.83 expect 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.84 73.91 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.92 74.11 hear 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.12 74.4 more 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.41 74.6 from 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.61 74.74 her 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.75 75.06 later 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.07 75.64 today 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.65 75.76 i 0.78
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.77 75.83 'm 0.67
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.84 76.22 standing 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.23 76.39 here 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.40 76.47 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.48 76.71 front 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.72 76.81 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.82 76.88 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.89 77.57 chancellery 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 77.58 77.98 behind 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 77.99 78.19 me 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.38 78.55 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.56 78.72 she 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.73 78.97 will 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.98 79.15 be 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.16 79.55 meeting 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.56 79.82 there 0.68
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.83 80.01 with 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.02 80.08 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.09 80.34 heads 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.35 80.43 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.44 80.67 all 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.68 80.78 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.79 80.85 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.86 81.19 german 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 81.20 81.51 major 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 81.52 82.21 parties 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.22 82.39 as 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.40 82.57 well 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.58 82.69 as 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.70 82.81 with 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.82 82.88 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.89 83.12 heads 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.13 83.18 of 0.96
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.19 83.78 parliamentary 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.79 84.35 party 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 84.36 85.1 factions 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.11 85.25 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.26 85.88 discuss 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.89 87.09 what 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.10 87.27 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.28 87.66 happening 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.67 87.78 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.79 87.93 what 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.94 88.02 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.03 88.17 do 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.18 88.4 going 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.41 88.95 forward 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.36 89.49 now 0.87
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.50 89.7 these 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.71 90.4 negotiations 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.41 90.51 are 0.91
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.52 90.82 often 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.83 91.49 described 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.50 91.82 as 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.83 91.91 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.92 92.37 psyllid 0.59
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 92.38 92.67 down 0.83
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 92.68 93.24 between 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 93.25 93.76 athens 0.85
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 93.77 94.0 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 94.01 94.58 berlin 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 94.59 95.06 what 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.07 95.37 can 0.44
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.38 95.87 germany 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.88 96.28 due 0.59
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.29 96.44 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.45 96.59 tell 0.66
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.60 96.71 him 0.29
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.72 96.98 things 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.99 97.25 around 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.26 97.37 at 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.38 97.56 this 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.57 97.77 late 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.78 98.26 stage 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 100.96 101.08 well 0.81
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.09 101.17 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.18 101.5 fact 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.51 101.64 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.65 101.83 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.84 101.97 was 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.98 102.16 one 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.17 102.27 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.28 102.37 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.38 102.73 reasons 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.74 102.88 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.89 102.95 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.96 103.34 chancellor 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.35 103.6 has 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.61 103.71 been 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.72 104.1 keeping 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.11 104.17 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.18 104.38 low 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.39 105.0 profile 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.01 105.17 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.18 105.52 order 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.53 105.74 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.75 106.38 avoid 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 106.39 106.68 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 106.69 107.52 impression 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 107.53 107.92 because 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 107.93 108.04 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.05 108.37 simply 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.38 108.67 doesn 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.68 108.71 't 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.72 109.23 reflect 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.24 109.34 a 0.86
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.35 109.89 reality 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.90 109.97 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.98 110.31 fact 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.32 110.45 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.46 110.59 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.60 110.68 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.69 111.06 german 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 111.07 111.78 position 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 111.79 111.99 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 112.00 112.73 absolutely 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 112.74 113.31 consonant 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.32 113.49 with 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.50 113.77 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.78 114.24 of 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.25 114.36 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.37 114.79 creditor 0.94
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.80 115.18 group 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.19 115.44 as 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.45 115.51 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.52 116.16 whole 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.17 116.39 all 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.40 116.51 of 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.52 116.64 them 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.65 117.12 saying 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.13 117.4 look 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.41 117.51 at 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.52 117.58 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.59 117.83 greek 0.88
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.84 118.17 numbers 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.18 118.53 have 0.64
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.54 118.69 to 0.94
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.77 118.9 add 0.63
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.91 119.32 up 0.68
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.33 119.62 greece 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.63 119.89 has 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.90 119.98 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.99 120.2 take 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 120.21 121.28 responsibility 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.29 121.43 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.44 121.67 order 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.68 121.81 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.82 122.01 us 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.02 122.09 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.10 122.62 keep 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.63 122.77 a 0.60
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.78 122.98 for 0.94
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.99 123.49 providing 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 123.50 124.37 taxpayer 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 124.38 124.83 funded 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 124.84 125.47 support 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 125.84 126.15 ah 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.16 126.36 now 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.37 126.45 the 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.46 126.84 sense 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.85 127.1 here 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.11 127.2 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.21 127.73 berlin 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.74 127.91 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.92 128.59 apparently 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 128.60 128.82 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 128.83 129.15 other 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.16 129.76 capitals 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.77 129.97 as 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.98 130.62 well 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 130.63 130.85 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 130.86 131.11 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.12 131.22 it 0.88
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.23 131.27 's 0.86
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.28 131.43 up 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.44 131.78 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.79 131.96 a 0.64
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.97 132.38 greece 0.93
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.39 132.54 at 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.55 132.63 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.64 133.06 moment 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.07 133.22 that 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.23 133.3 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.31 133.66 ball 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.67 133.79 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.80 134.09 very 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.10 134.41 much 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.42 134.6 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.61 134.84 their 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.85 135.43 court 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.44 135.56 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.57 135.71 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.72 135.94 they 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.95 136.08 who 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.09 136.38 walked 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.39 136.61 away 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.62 136.76 from 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.77 136.83 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.84 137.51 negotiating 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 137.52 138.16 table 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.17 138.32 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.33 138.45 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.46 138.71 they 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.72 138.88 who 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.89 139.56 essentially 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 139.57 140.11 shrunk 0.81
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.12 140.18 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.19 140.64 space 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.65 140.85 for 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.86 141.78 negotiation 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 141.97 142.18 by 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.19 142.64 saying 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.65 142.77 they 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.78 142.92 would 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.93 143.19 hold 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.20 143.25 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.26 143.89 referendum 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.90 144.0 and 0.96
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.01 144.12 they 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.13 144.28 would 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.29 144.46 let 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.47 144.55 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.56 144.95 support 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.96 145.57 package 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 145.58 145.88 run 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 145.89 146.19 out 0.99
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 146.20 146.38 on 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 146.39 147.12 tuesday 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.13 147.52 so 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.53 147.6 a 0.83
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.61 147.92 sense 0.98
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.93 148.12 here 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.13 148.23 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.24 148.93 berlin 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.94 149.07 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.08 149.28 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.29 149.43 up 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.44 149.5 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.51 150.0 greece 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.01 150.16 but 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.17 150.42 also 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.43 150.46 a 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.47 150.72 very 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.73 151.01 clear 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.02 151.47 message 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.48 151.79 from 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.80 152.24 all 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.25 152.59 levels 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.60 152.67 of 0.78
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.68 153.0 german 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.01 153.59 government 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.60 153.9 we 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.91 154.21 do 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.22 154.42 want 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.43 154.48 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.49 154.94 keep 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.95 155.46 talking 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 155.63 156.01 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.02 156.24 and 0.97
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.25 156.59 greece 0.87
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.60 156.81 is 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.82 157.32 still 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.33 157.69 in 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.70 157.88 the 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.89 158.28 euro 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.29 158.41 and 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.42 158.51 we 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.52 158.7 want 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.71 158.76 to 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.77 158.97 keep 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.98 159.05 it 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 159.06 159.24 that 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 159.25 159.52 way 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.08 160.47 writer 0.68
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.48 160.75 melinda 0.92
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.76 161.03 korean 0.80
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.04 161.29 thank 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.30 161.35 you 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.36 161.56 very 1.00
-DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.57 162.02 much 1.00
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 3.81 4.12 now 0.77 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.13 4.27 her 0.63 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.28 4.73 perspective 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.74 4.92 from 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 4.93 5.29 berlin 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.30 5.44 we 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.45 5.73 have 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 5.74 6.14 actually 0.57 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 6.15 6.55 political 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 6.56 7.13 correspondent 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.14 7.5 linda 0.84 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.51 7.85 crane 0.70 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 7.86 8.03 at 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.04 8.11 a 0.71 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.12 8.7 parliamentary 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 8.71 9.59 studios 0.83 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.60 9.83 when 0.56 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.84 9.95 the 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 9.96 10.31 truth 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.32 10.47 and 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.48 10.67 the 0.51 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.68 10.98 americas 0.50 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 10.99 11.51 been 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 11.52 11.84 low 0.92 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 11.85 12.12 key 0.96 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.13 12.3 on 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.31 12.43 the 0.89 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.44 12.91 issue 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 12.92 13.16 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 13.17 13.63 recent 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 13.64 14.16 days 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.17 14.39 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.40 14.66 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.67 14.85 going 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.86 14.98 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 14.99 15.81 change 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 15.82 16.11 with 0.78 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.12 16.29 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.30 16.63 events 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.64 16.77 over 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.78 16.86 the 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 16.87 17.43 weekend 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 19.88 20.28 indeed 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 20.29 20.42 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 20.43 21.09 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.10 21.87 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.88 21.97 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 21.98 22.32 fact 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.33 22.46 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.47 22.63 she 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 22.64 22.99 has 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.00 23.33 just 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.34 23.51 been 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 23.52 24.12 speaking 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.13 24.48 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.49 24.71 the 0.75 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 24.72 25.26 seventy 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 25.27 25.69 s 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 25.70 26.14 birthday 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.15 26.56 party 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.57 26.68 of 0.91 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.69 26.8 her 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 26.81 27.16 christian 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 27.17 28.18 democratic 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 28.19 28.71 party 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 28.92 29.16 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 29.17 29.48 had 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 29.49 29.99 very 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.00 30.36 very 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.37 30.82 clear 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 30.83 31.39 words 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 31.40 32.01 on 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.02 32.12 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.13 32.71 crisis 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.72 32.84 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.85 32.92 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 32.93 33.26 first 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.27 33.62 time 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.63 33.71 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 33.72 33.99 quite 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.00 34.8 awhile 0.79 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.81 34.97 we 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 34.98 35.22 heard 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.23 35.3 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.31 35.7 sense 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.71 35.91 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 35.92 36.03 she 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.04 36.33 used 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.34 36.43 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.44 36.82 repeat 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 36.83 37.08 like 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.09 37.14 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.15 37.97 mantra 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 37.98 38.73 saying 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 38.74 38.99 if 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.00 39.14 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.15 39.57 euro 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 39.58 40.23 fails 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 40.24 40.99 europe 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.00 41.59 fails 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.60 41.75 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 41.76 42.49 emphasizing 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 42.50 42.67 that 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 42.68 43.0 europe 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 43.01 43.7 lives 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 43.71 44.4 from 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 44.41 45.26 compromise 0.80 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.27 45.4 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.41 45.48 it 0.88 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.49 45.67 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 45.68 46.48 absolutely 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 46.49 47.2 crucial 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 47.57 48.0 that 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.01 48.28 all 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.29 48.39 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.40 48.47 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 48.48 49.03 parties 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.04 49.28 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.29 49.9 this 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 49.91 50.16 did 0.23 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.17 50.29 to 0.96 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.30 50.48 these 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 50.49 51.45 negotiations 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 51.46 52.19 continue 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.20 52.33 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.34 52.55 look 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.56 52.71 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.72 52.77 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 52.78 53.72 compromise 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 53.73 54.09 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.10 54.18 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.19 54.49 way 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.50 54.74 out 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.75 54.84 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.85 54.97 she 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 54.98 55.22 said 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.23 55.33 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.34 55.42 it 0.77 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.43 55.5 's 0.74 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.51 55.58 an 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 55.59 56.53 essential 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 56.54 57.54 principle 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 57.55 57.8 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 57.81 58.28 europe 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 58.43 58.62 that 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 58.63 59.68 solidarity 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 59.69 59.81 be 0.87 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 59.82 60.53 combined 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 60.54 61.41 with 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 61.42 62.5 responsibility 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 62.51 62.99 with 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.00 63.3 all 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.31 63.72 parties 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 63.73 64.24 willingness 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.25 64.35 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.36 64.7 take 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 64.71 65.89 responsibility 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 65.90 66.16 there 0.52 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.17 66.25 an 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.26 66.74 indirect 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 66.75 67.44 message 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 67.45 67.71 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 67.72 68.08 greece 0.95 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.09 68.21 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.22 68.62 course 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 68.63 69.02 a 0.54 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.03 69.22 that 0.72 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.23 69.35 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.36 69.68 does 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.69 69.86 need 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.87 69.96 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 69.97 70.2 take 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 70.21 71.55 responsibility 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 71.56 71.89 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 71.90 72.11 its 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.12 72.43 own 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.44 72.52 a 0.51 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 72.53 73.35 situation 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.36 73.48 we 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.49 73.83 expect 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.84 73.91 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 73.92 74.11 hear 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.12 74.4 more 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.41 74.6 from 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.61 74.74 her 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 74.75 75.06 later 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.07 75.64 today 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.65 75.76 i 0.78 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.77 75.83 'm 0.67 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 75.84 76.22 standing 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.23 76.39 here 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.40 76.47 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.48 76.71 front 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.72 76.81 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.82 76.88 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 76.89 77.57 chancellery 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 77.58 77.98 behind 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 77.99 78.19 me 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.38 78.55 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.56 78.72 she 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.73 78.97 will 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 78.98 79.15 be 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.16 79.55 meeting 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.56 79.82 there 0.68 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 79.83 80.01 with 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.02 80.08 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.09 80.34 heads 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.35 80.43 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.44 80.67 all 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.68 80.78 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.79 80.85 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 80.86 81.19 german 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 81.20 81.51 major 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 81.52 82.21 parties 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.22 82.39 as 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.40 82.57 well 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.58 82.69 as 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.70 82.81 with 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.82 82.88 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 82.89 83.12 heads 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.13 83.18 of 0.96 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.19 83.78 parliamentary 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 83.79 84.35 party 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 84.36 85.1 factions 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.11 85.25 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.26 85.88 discuss 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 85.89 87.09 what 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.10 87.27 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.28 87.66 happening 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.67 87.78 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.79 87.93 what 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 87.94 88.02 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.03 88.17 do 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.18 88.4 going 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 88.41 88.95 forward 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.36 89.49 now 0.87 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.50 89.7 these 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 89.71 90.4 negotiations 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.41 90.51 are 0.91 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.52 90.82 often 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 90.83 91.49 described 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.50 91.82 as 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.83 91.91 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 91.92 92.37 psyllid 0.59 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 92.38 92.67 down 0.83 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 92.68 93.24 between 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 93.25 93.76 athens 0.85 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 93.77 94.0 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 94.01 94.58 berlin 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 94.59 95.06 what 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.07 95.37 can 0.44 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.38 95.87 germany 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 95.88 96.28 due 0.59 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.29 96.44 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.45 96.59 tell 0.66 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.60 96.71 him 0.29 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.72 96.98 things 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 96.99 97.25 around 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.26 97.37 at 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.38 97.56 this 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.57 97.77 late 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 97.78 98.26 stage 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 100.96 101.08 well 0.81 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.09 101.17 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.18 101.5 fact 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.51 101.64 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.65 101.83 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.84 101.97 was 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 101.98 102.16 one 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.17 102.27 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.28 102.37 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.38 102.73 reasons 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.74 102.88 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.89 102.95 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 102.96 103.34 chancellor 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.35 103.6 has 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.61 103.71 been 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 103.72 104.1 keeping 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.11 104.17 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.18 104.38 low 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 104.39 105.0 profile 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.01 105.17 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.18 105.52 order 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.53 105.74 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 105.75 106.38 avoid 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 106.39 106.68 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 106.69 107.52 impression 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 107.53 107.92 because 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 107.93 108.04 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.05 108.37 simply 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.38 108.67 doesn 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.68 108.71 't 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 108.72 109.23 reflect 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.24 109.34 a 0.86 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.35 109.89 reality 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.90 109.97 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 109.98 110.31 fact 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.32 110.45 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.46 110.59 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.60 110.68 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 110.69 111.06 german 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 111.07 111.78 position 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 111.79 111.99 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 112.00 112.73 absolutely 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 112.74 113.31 consonant 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.32 113.49 with 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.50 113.77 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 113.78 114.24 of 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.25 114.36 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.37 114.79 creditor 0.94 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 114.80 115.18 group 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.19 115.44 as 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.45 115.51 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 115.52 116.16 whole 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.17 116.39 all 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.40 116.51 of 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.52 116.64 them 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 116.65 117.12 saying 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.13 117.4 look 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.41 117.51 at 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.52 117.58 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.59 117.83 greek 0.88 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 117.84 118.17 numbers 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.18 118.53 have 0.64 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.54 118.69 to 0.94 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.77 118.9 add 0.63 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 118.91 119.32 up 0.68 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.33 119.62 greece 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.63 119.89 has 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.90 119.98 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 119.99 120.2 take 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 120.21 121.28 responsibility 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.29 121.43 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.44 121.67 order 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.68 121.81 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 121.82 122.01 us 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.02 122.09 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.10 122.62 keep 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.63 122.77 a 0.60 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.78 122.98 for 0.94 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 122.99 123.49 providing 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 123.50 124.37 taxpayer 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 124.38 124.83 funded 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 124.84 125.47 support 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 125.84 126.15 ah 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.16 126.36 now 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.37 126.45 the 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.46 126.84 sense 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 126.85 127.1 here 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.11 127.2 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.21 127.73 berlin 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.74 127.91 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 127.92 128.59 apparently 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 128.60 128.82 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 128.83 129.15 other 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.16 129.76 capitals 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.77 129.97 as 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 129.98 130.62 well 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 130.63 130.85 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 130.86 131.11 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.12 131.22 it 0.88 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.23 131.27 's 0.86 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.28 131.43 up 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.44 131.78 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.79 131.96 a 0.64 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 131.97 132.38 greece 0.93 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.39 132.54 at 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.55 132.63 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 132.64 133.06 moment 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.07 133.22 that 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.23 133.3 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.31 133.66 ball 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.67 133.79 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 133.80 134.09 very 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.10 134.41 much 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.42 134.6 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.61 134.84 their 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 134.85 135.43 court 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.44 135.56 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.57 135.71 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.72 135.94 they 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 135.95 136.08 who 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.09 136.38 walked 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.39 136.61 away 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.62 136.76 from 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.77 136.83 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 136.84 137.51 negotiating 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 137.52 138.16 table 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.17 138.32 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.33 138.45 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.46 138.71 they 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.72 138.88 who 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 138.89 139.56 essentially 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 139.57 140.11 shrunk 0.81 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.12 140.18 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.19 140.64 space 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.65 140.85 for 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 140.86 141.78 negotiation 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 141.97 142.18 by 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.19 142.64 saying 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.65 142.77 they 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.78 142.92 would 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 142.93 143.19 hold 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.20 143.25 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.26 143.89 referendum 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 143.90 144.0 and 0.96 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.01 144.12 they 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.13 144.28 would 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.29 144.46 let 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.47 144.55 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.56 144.95 support 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 144.96 145.57 package 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 145.58 145.88 run 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 145.89 146.19 out 0.99 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 146.20 146.38 on 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 146.39 147.12 tuesday 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.13 147.52 so 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.53 147.6 a 0.83 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.61 147.92 sense 0.98 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 147.93 148.12 here 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.13 148.23 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.24 148.93 berlin 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 148.94 149.07 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.08 149.28 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.29 149.43 up 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.44 149.5 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 149.51 150.0 greece 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.01 150.16 but 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.17 150.42 also 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.43 150.46 a 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.47 150.72 very 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 150.73 151.01 clear 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.02 151.47 message 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.48 151.79 from 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 151.80 152.24 all 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.25 152.59 levels 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.60 152.67 of 0.78 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 152.68 153.0 german 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.01 153.59 government 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.60 153.9 we 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 153.91 154.21 do 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.22 154.42 want 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.43 154.48 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.49 154.94 keep 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 154.95 155.46 talking 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 155.63 156.01 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.02 156.24 and 0.97 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.25 156.59 greece 0.87 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.60 156.81 is 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 156.82 157.32 still 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.33 157.69 in 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.70 157.88 the 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 157.89 158.28 euro 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.29 158.41 and 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.42 158.51 we 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.52 158.7 want 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.71 158.76 to 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.77 158.97 keep 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 158.98 159.05 it 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 159.06 159.24 that 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 159.25 159.52 way 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.08 160.47 writer 0.68 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.48 160.75 melinda 0.92 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 160.76 161.03 korean 0.80 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.04 161.29 thank 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.30 161.35 you 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.36 161.56 very 1.00 #
+DW DW-news-EN/a14af67f-00ac-a9e0-83fe-8a8badf02c86 161.57 162.02 much 1.00 #

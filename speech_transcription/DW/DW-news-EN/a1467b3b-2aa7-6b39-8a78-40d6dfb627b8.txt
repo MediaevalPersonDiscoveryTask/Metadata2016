@@ -1,355 +1,355 @@
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.09 4.5 turkish 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.51 4.95 soldiers 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.96 5.05 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.06 5.13 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.14 5.77 southeastern 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.78 6.17 province 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.18 6.26 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.27 6.65 grb 0.72
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.66 6.97 care 0.63
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.98 7.13 are 0.88
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.14 7.24 on 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.25 7.56 high 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.57 8.05 alert 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 8.45 8.92 earlier 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 8.93 9.0 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.01 9.38 car 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.39 9.65 bomb 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.66 9.86 hit 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.87 9.92 a 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.93 10.36 military 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 10.37 11.2 convoy 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.21 11.54 killing 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.55 11.8 two 0.76
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.81 12.38 soldiers 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.39 12.55 and 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.56 12.96 injuring 0.62
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.97 13.38 several 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 13.39 14.42 others 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.43 14.69 know 0.71
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.70 14.94 once 0.91
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.95 15.26 claimed 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 15.27 16.35 responsibility 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.36 16.5 but 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.51 16.6 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.61 17.08 turkish 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.09 17.56 governments 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.57 17.82 made 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.83 17.94 it 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.95 18.44 clear 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 18.45 18.67 it 0.84
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 18.68 19.08 thinks 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.09 19.26 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.27 19.73 outlawed 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.74 20.17 kurdish 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.18 20.51 worker 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.52 20.59 's 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.60 21.07 party 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 21.08 21.24 or 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 21.25 22.13 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.14 22.3 is 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.31 22.4 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.41 22.87 blame 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 25.84 25.98 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 25.99 26.35 attack 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.36 26.64 came 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.65 26.92 after 0.85
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.93 27.03 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.04 27.44 government 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.45 27.82 launched 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.83 28.01 air 0.80
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.02 28.49 strikes 0.80
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.50 28.95 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.96 29.59 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 29.60 30.06 bases 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 30.07 30.16 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 30.17 31.14 iraq 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.15 31.53 turkey 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.54 31.79 has 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.80 32.22 also 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.23 32.56 begun 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.57 32.63 a 0.98
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.64 33.1 military 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 33.11 33.67 campaign 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 33.68 34.07 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.08 34.49 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.50 34.9 state 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.91 35.02 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 35.03 35.37 northern 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 35.38 35.94 syria 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 36.48 37.1 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 37.11 37.57 forces 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 37.58 38.11 themselves 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.12 38.19 to 0.67
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.20 38.7 fighting 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.71 39.18 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.19 39.53 state 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.54 39.73 from 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.74 39.95 this 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.96 40.5 mountainous 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 40.51 40.88 region 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 40.89 41.0 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.01 41.07 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.08 41.42 north 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.43 41.51 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.52 42.46 iraq 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 42.47 42.65 and 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 42.66 43.07 kurdish 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.08 43.52 forces 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.53 43.62 are 0.86
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.63 43.97 playing 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.98 44.02 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.03 44.43 major 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.44 44.81 part 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.82 44.94 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.95 45.02 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.03 45.37 battle 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.38 45.86 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.87 46.44 iss 0.56
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 46.97 47.07 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.08 47.69 pkk 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.70 47.89 says 0.97
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.90 47.97 it 0.66
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.98 48.05 's 0.47
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.06 48.34 three 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.35 48.55 years 0.60
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.56 49.09 ceasefire 0.82
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.10 49.22 with 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.23 49.31 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.32 49.76 turkish 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.77 50.1 government 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.11 50.33 has 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.34 50.65 now 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.66 50.92 been 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.93 51.28 rendered 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 51.29 52.02 meaningless 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 52.64 52.95 turkey 0.95
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 52.96 53.04 's 0.94
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.05 53.52 decision 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.53 53.63 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.64 53.94 join 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.95 54.02 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 54.03 54.43 military 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 54.44 55.0 campaign 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.01 55.47 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.48 55.86 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.87 56.42 state 0.98
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.43 56.62 has 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.63 56.88 been 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.89 57.36 welcomed 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 57.37 57.92 abroad 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.18 60.51 but 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.52 60.64 there 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.65 60.77 's 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.78 61.22 also 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 61.23 61.47 been 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 61.48 62.1 criticism 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.11 62.24 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.25 62.32 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.33 62.88 decision 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.89 63.02 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.03 63.45 target 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.46 63.55 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.56 64.4 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.41 64.55 at 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.56 64.64 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.65 65.01 same 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 65.02 67.1 time 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.11 67.51 gemini 0.87
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.52 67.57 's 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.58 68.03 defense 0.66
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.04 68.55 minister 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.56 68.83 had 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.84 69.05 this 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 69.06 69.16 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 69.17 69.59 say 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 72.06 72.65 when 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 72.66 73.17 turkey 0.59
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.18 73.41 's 0.52
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.42 73.73 right 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.74 73.85 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.86 74.28 defend 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 74.29 74.71 itself 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 74.72 75.19 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.20 75.64 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.65 75.95 state 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.96 76.36 terror 0.95
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.37 76.73 cannot 0.83
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.74 76.87 be 0.92
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.88 77.52 disputed 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.53 77.67 has 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.68 77.81 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.82 77.98 be 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.99 78.05 it 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.06 78.18 but 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.19 78.26 it 0.92
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.27 78.37 's 0.92
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.38 78.85 also 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.86 79.16 clear 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.17 79.3 that 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.31 79.39 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.40 79.99 process 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 80.00 80.13 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 80.14 81.17 reconciliation 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.18 81.3 with 0.94
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.31 81.39 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.40 82.06 kurdistan 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 82.07 82.46 workers 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 82.47 83.2 party 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.21 83.52 which 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.53 83.92 began 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.93 84.04 at 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.05 84.12 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.13 84.55 beginning 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.56 84.67 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.68 84.8 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.81 84.97 year 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.98 85.31 must 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 85.32 85.97 continue 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.28 91.7 germany 0.81
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.71 91.88 is 0.45
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.89 92.53 opposition 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 92.54 92.99 also 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.00 93.29 weighed 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.30 93.88 in 0.97
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.89 94.09 they 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.10 94.27 had 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.28 94.61 sharp 0.98
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.62 94.85 words 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.86 94.94 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.95 95.56 criticism 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 95.57 95.67 for 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 95.68 96.1 turkeys 0.52
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 96.11 96.3 laid 0.83
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 96.31 96.47 out 0.58
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.74 98.88 on 0.73
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.89 98.98 how 0.83
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.99 99.1 to 0.88
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.11 99.24 get 0.83
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.25 99.38 to 0.75
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.39 99.68 begins 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.69 100.23 when 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.24 100.51 one 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.52 100.8 came 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.81 101.04 into 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.05 101.5 office 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.51 101.81 he 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.82 102.12 began 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.13 102.2 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.21 102.54 peace 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.55 103.05 process 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.06 103.19 with 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.20 103.29 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.30 104.11 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.32 104.5 as 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.51 104.6 well 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.61 104.72 as 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.73 104.78 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.79 105.28 series 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 105.29 105.43 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 105.44 105.99 reforms 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.00 106.57 relating 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.58 106.71 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.72 106.81 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.82 107.23 kurdish 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 107.24 108.64 issues 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 108.65 109.01 current 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.02 109.37 events 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.38 109.93 indicate 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.94 110.19 that 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 110.20 110.55 peace 0.95
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 110.56 111.13 process 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.14 111.4 now 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.41 111.77 lies 0.81
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.78 111.93 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.94 113.01 ruins 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.02 113.11 it 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.12 113.46 seems 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.47 113.63 that 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.64 114.03 turkey 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.04 114.19 is 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.20 114.41 now 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.42 114.89 using 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.90 115.0 the 0.92
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.01 115.54 legitimate 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.55 115.92 fight 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.93 116.27 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 116.28 116.73 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 116.74 117.17 states 0.40
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.18 117.36 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.37 117.84 talk 0.98
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.85 118.3 because 0.78
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.38 119.51 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.52 119.85 northern 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.86 120.25 iraq 0.98
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.26 120.64 hundreds 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.65 120.73 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.74 121.13 kurds 0.78
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.14 121.33 took 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.34 121.45 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.46 121.54 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.55 121.96 streets 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.97 122.07 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.08 122.64 protest 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.65 122.72 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.73 123.19 government 0.78
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.20 123.69 attacks 0.87
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.70 123.8 on 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.81 123.89 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.90 125.23 pkk 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.24 125.44 they 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.45 125.89 accused 0.68
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.90 125.97 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.98 126.41 government 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 126.42 126.55 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 126.56 127.4 opportunism 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 128.73 132.24 thank 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.35 132.42 but 0.80
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.43 132.55 they 0.59
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.56 132.77 were 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.78 133.15 also 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 133.16 134.01 demonstrations 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.02 134.16 in 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.17 134.23 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.24 134.7 capital 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.71 135.77 ankara 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 135.78 135.89 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 135.90 136.48 protests 0.77
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 136.49 136.81 turn 0.75
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 136.82 137.54 violent 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 137.55 137.73 with 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 137.74 138.17 police 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.18 138.5 using 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.51 138.84 water 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.85 139.21 cannon 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.22 139.4 and 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.41 139.66 tear 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.67 139.95 gas 0.96
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.96 140.05 to 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 140.06 140.54 contain 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 140.55 141.4 them 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.41 141.52 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.53 141.9 sign 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.91 142.07 of 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.08 142.38 just 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.39 142.53 how 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.54 142.87 much 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.88 143.24 turkey 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.25 143.41 is 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.42 143.87 risking 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.88 144.04 by 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.05 144.56 launching 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.57 144.62 a 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.63 145.5 simmultaneously 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 145.51 145.87 military 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 145.88 146.63 campaign 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 146.64 147.16 against 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 147.17 147.63 islamic 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 147.64 148.07 state 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 148.67 148.89 as 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 148.90 149.1 well 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.11 149.25 as 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.26 149.35 the 1.00
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.36 149.66 terror 0.97
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.67 150.02 groups 0.99
-DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 150.03 150.62 enemies 1.00
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.09 4.5 turkish 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.51 4.95 soldiers 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 4.96 5.05 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.06 5.13 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.14 5.77 southeastern 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 5.78 6.17 province 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.18 6.26 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.27 6.65 grb 0.72 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.66 6.97 care 0.63 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 6.98 7.13 are 0.88 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.14 7.24 on 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.25 7.56 high 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 7.57 8.05 alert 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 8.45 8.92 earlier 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 8.93 9.0 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.01 9.38 car 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.39 9.65 bomb 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.66 9.86 hit 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.87 9.92 a 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 9.93 10.36 military 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 10.37 11.2 convoy 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.21 11.54 killing 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.55 11.8 two 0.76 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 11.81 12.38 soldiers 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.39 12.55 and 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.56 12.96 injuring 0.62 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 12.97 13.38 several 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 13.39 14.42 others 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.43 14.69 know 0.71 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.70 14.94 once 0.91 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 14.95 15.26 claimed 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 15.27 16.35 responsibility 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.36 16.5 but 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.51 16.6 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 16.61 17.08 turkish 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.09 17.56 governments 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.57 17.82 made 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.83 17.94 it 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 17.95 18.44 clear 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 18.45 18.67 it 0.84 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 18.68 19.08 thinks 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.09 19.26 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.27 19.73 outlawed 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 19.74 20.17 kurdish 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.18 20.51 worker 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.52 20.59 's 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 20.60 21.07 party 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 21.08 21.24 or 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 21.25 22.13 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.14 22.3 is 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.31 22.4 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 22.41 22.87 blame 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 25.84 25.98 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 25.99 26.35 attack 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.36 26.64 came 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.65 26.92 after 0.85 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 26.93 27.03 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.04 27.44 government 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.45 27.82 launched 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 27.83 28.01 air 0.80 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.02 28.49 strikes 0.80 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.50 28.95 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 28.96 29.59 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 29.60 30.06 bases 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 30.07 30.16 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 30.17 31.14 iraq 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.15 31.53 turkey 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.54 31.79 has 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 31.80 32.22 also 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.23 32.56 begun 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.57 32.63 a 0.98 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 32.64 33.1 military 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 33.11 33.67 campaign 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 33.68 34.07 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.08 34.49 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.50 34.9 state 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 34.91 35.02 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 35.03 35.37 northern 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 35.38 35.94 syria 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 36.48 37.1 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 37.11 37.57 forces 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 37.58 38.11 themselves 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.12 38.19 to 0.67 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.20 38.7 fighting 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 38.71 39.18 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.19 39.53 state 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.54 39.73 from 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.74 39.95 this 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 39.96 40.5 mountainous 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 40.51 40.88 region 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 40.89 41.0 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.01 41.07 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.08 41.42 north 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.43 41.51 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 41.52 42.46 iraq 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 42.47 42.65 and 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 42.66 43.07 kurdish 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.08 43.52 forces 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.53 43.62 are 0.86 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.63 43.97 playing 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 43.98 44.02 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.03 44.43 major 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.44 44.81 part 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.82 44.94 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 44.95 45.02 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.03 45.37 battle 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.38 45.86 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 45.87 46.44 iss 0.56 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 46.97 47.07 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.08 47.69 pkk 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.70 47.89 says 0.97 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.90 47.97 it 0.66 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 47.98 48.05 's 0.47 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.06 48.34 three 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.35 48.55 years 0.60 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 48.56 49.09 ceasefire 0.82 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.10 49.22 with 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.23 49.31 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.32 49.76 turkish 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 49.77 50.1 government 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.11 50.33 has 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.34 50.65 now 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.66 50.92 been 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 50.93 51.28 rendered 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 51.29 52.02 meaningless 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 52.64 52.95 turkey 0.95 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 52.96 53.04 's 0.94 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.05 53.52 decision 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.53 53.63 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.64 53.94 join 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 53.95 54.02 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 54.03 54.43 military 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 54.44 55.0 campaign 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.01 55.47 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.48 55.86 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 55.87 56.42 state 0.98 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.43 56.62 has 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.63 56.88 been 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 56.89 57.36 welcomed 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 57.37 57.92 abroad 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.18 60.51 but 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.52 60.64 there 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.65 60.77 's 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 60.78 61.22 also 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 61.23 61.47 been 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 61.48 62.1 criticism 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.11 62.24 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.25 62.32 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.33 62.88 decision 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 62.89 63.02 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.03 63.45 target 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.46 63.55 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 63.56 64.4 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.41 64.55 at 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.56 64.64 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 64.65 65.01 same 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 65.02 67.1 time 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.11 67.51 gemini 0.87 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.52 67.57 's 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 67.58 68.03 defense 0.66 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.04 68.55 minister 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.56 68.83 had 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 68.84 69.05 this 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 69.06 69.16 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 69.17 69.59 say 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 72.06 72.65 when 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 72.66 73.17 turkey 0.59 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.18 73.41 's 0.52 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.42 73.73 right 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.74 73.85 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 73.86 74.28 defend 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 74.29 74.71 itself 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 74.72 75.19 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.20 75.64 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.65 75.95 state 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 75.96 76.36 terror 0.95 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.37 76.73 cannot 0.83 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.74 76.87 be 0.92 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 76.88 77.52 disputed 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.53 77.67 has 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.68 77.81 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.82 77.98 be 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 77.99 78.05 it 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.06 78.18 but 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.19 78.26 it 0.92 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.27 78.37 's 0.92 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.38 78.85 also 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 78.86 79.16 clear 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.17 79.3 that 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.31 79.39 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 79.40 79.99 process 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 80.00 80.13 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 80.14 81.17 reconciliation 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.18 81.3 with 0.94 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.31 81.39 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 81.40 82.06 kurdistan 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 82.07 82.46 workers 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 82.47 83.2 party 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.21 83.52 which 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.53 83.92 began 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 83.93 84.04 at 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.05 84.12 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.13 84.55 beginning 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.56 84.67 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.68 84.8 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.81 84.97 year 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 84.98 85.31 must 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 85.32 85.97 continue 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.28 91.7 germany 0.81 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.71 91.88 is 0.45 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 91.89 92.53 opposition 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 92.54 92.99 also 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.00 93.29 weighed 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.30 93.88 in 0.97 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 93.89 94.09 they 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.10 94.27 had 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.28 94.61 sharp 0.98 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.62 94.85 words 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.86 94.94 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 94.95 95.56 criticism 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 95.57 95.67 for 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 95.68 96.1 turkeys 0.52 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 96.11 96.3 laid 0.83 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 96.31 96.47 out 0.58 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.74 98.88 on 0.73 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.89 98.98 how 0.83 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 98.99 99.1 to 0.88 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.11 99.24 get 0.83 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.25 99.38 to 0.75 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.39 99.68 begins 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 99.69 100.23 when 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.24 100.51 one 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.52 100.8 came 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 100.81 101.04 into 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.05 101.5 office 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.51 101.81 he 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 101.82 102.12 began 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.13 102.2 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.21 102.54 peace 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 102.55 103.05 process 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.06 103.19 with 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.20 103.29 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 103.30 104.11 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.32 104.5 as 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.51 104.6 well 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.61 104.72 as 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.73 104.78 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 104.79 105.28 series 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 105.29 105.43 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 105.44 105.99 reforms 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.00 106.57 relating 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.58 106.71 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.72 106.81 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 106.82 107.23 kurdish 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 107.24 108.64 issues 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 108.65 109.01 current 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.02 109.37 events 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.38 109.93 indicate 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 109.94 110.19 that 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 110.20 110.55 peace 0.95 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 110.56 111.13 process 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.14 111.4 now 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.41 111.77 lies 0.81 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.78 111.93 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 111.94 113.01 ruins 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.02 113.11 it 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.12 113.46 seems 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.47 113.63 that 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 113.64 114.03 turkey 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.04 114.19 is 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.20 114.41 now 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.42 114.89 using 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 114.90 115.0 the 0.92 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.01 115.54 legitimate 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.55 115.92 fight 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 115.93 116.27 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 116.28 116.73 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 116.74 117.17 states 0.40 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.18 117.36 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.37 117.84 talk 0.98 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 117.85 118.3 because 0.78 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.38 119.51 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.52 119.85 northern 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 119.86 120.25 iraq 0.98 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.26 120.64 hundreds 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.65 120.73 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 120.74 121.13 kurds 0.78 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.14 121.33 took 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.34 121.45 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.46 121.54 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.55 121.96 streets 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 121.97 122.07 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.08 122.64 protest 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.65 122.72 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 122.73 123.19 government 0.78 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.20 123.69 attacks 0.87 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.70 123.8 on 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.81 123.89 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 123.90 125.23 pkk 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.24 125.44 they 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.45 125.89 accused 0.68 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.90 125.97 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 125.98 126.41 government 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 126.42 126.55 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 126.56 127.4 opportunism 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 128.73 132.24 thank 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.35 132.42 but 0.80 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.43 132.55 they 0.59 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.56 132.77 were 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 132.78 133.15 also 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 133.16 134.01 demonstrations 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.02 134.16 in 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.17 134.23 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.24 134.7 capital 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 134.71 135.77 ankara 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 135.78 135.89 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 135.90 136.48 protests 0.77 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 136.49 136.81 turn 0.75 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 136.82 137.54 violent 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 137.55 137.73 with 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 137.74 138.17 police 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.18 138.5 using 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.51 138.84 water 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 138.85 139.21 cannon 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.22 139.4 and 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.41 139.66 tear 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.67 139.95 gas 0.96 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 139.96 140.05 to 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 140.06 140.54 contain 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 140.55 141.4 them 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.41 141.52 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.53 141.9 sign 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 141.91 142.07 of 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.08 142.38 just 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.39 142.53 how 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.54 142.87 much 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 142.88 143.24 turkey 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.25 143.41 is 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.42 143.87 risking 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 143.88 144.04 by 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.05 144.56 launching 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.57 144.62 a 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 144.63 145.5 simmultaneously 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 145.51 145.87 military 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 145.88 146.63 campaign 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 146.64 147.16 against 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 147.17 147.63 islamic 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 147.64 148.07 state 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 148.67 148.89 as 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 148.90 149.1 well 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.11 149.25 as 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.26 149.35 the 1.00 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.36 149.66 terror 0.97 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 149.67 150.02 groups 0.99 #
+DW DW-news-EN/a1467b3b-2aa7-6b39-8a78-40d6dfb627b8 150.03 150.62 enemies 1.00 #

@@ -1,263 +1,263 @@
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 6.60 6.8 es 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 6.81 7.09 gilt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.10 7.29 als 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.30 7.65 eines 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.66 7.82 der 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.83 8.22 besten 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.23 8.73 orchester 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.74 8.86 der 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.87 9.59 welt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 9.60 9.76 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 9.77 10.12 berliner 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 10.13 10.8 philharmoniker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 10.81 11.06 hier 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.07 11.24 mit 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.25 11.51 ihrem 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.52 12.05 derzeitigen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 12.06 12.87 chefdirigenten 0.66
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 12.88 13.53 susanne 0.67
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 13.54 13.86 rettet 0.21
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.19 16.37 ein 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.38 16.92 orchester 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.93 17.13 mit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 17.14 17.41 langer 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 17.42 20.33 tradition 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 20.34 20.74 achtzen 0.62
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 20.75 21.75 hundertzweiundachtzig 0.93
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 21.76 21.99 gilt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.00 22.17 als 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.18 22.3 das 0.89
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.31 23.53 gründungsjahr 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 23.54 24.04 dirigent 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.05 24.25 hans 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.26 24.47 von 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.48 24.8 bülow 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.81 25.09 reißt 0.58
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.10 25.23 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.24 25.65 musiker 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.66 25.81 aus 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.82 26.01 ihrer 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 26.02 27.24 mittelmäßigkeit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.25 27.44 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.45 27.68 schafft 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.69 27.81 so 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.82 27.89 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.90 28.46 grundlage 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.47 28.63 für 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.64 28.72 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.73 29.19 spätere 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.20 29.76 berühmtheit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.77 29.93 des 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.94 30.58 orchesters 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 32.90 32.97 ein 0.43
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.12 34.51 unter 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.52 34.82 ihm 0.96
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.83 35.24 erleben 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 35.25 35.35 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 35.36 36.01 philharmoniker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.02 36.18 ihrer 0.62
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.19 36.34 wohl 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.35 36.81 dunkelste 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.82 37.57 zeit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 37.58 37.97 wilhelm 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 37.98 38.53 furtwängler 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 38.54 38.86 bittet 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 38.87 40.2 neunzehnhundertdreiunddreißig 0.95
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 40.21 40.35 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 40.36 41.54 nationalsozialisten 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 41.55 41.7 um 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 41.71 42.23 finanzielle 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 42.24 43.42 unterstützung 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 43.43 43.92 fortan 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 43.93 44.41 firmieren 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 44.42 44.59 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 44.60 45.28 philharmoniker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.29 45.49 als 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.50 45.93 reich 0.45
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.94 46.34 ist 0.54
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.32 52.53 eine 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.54 52.83 neue 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.84 53.16 ära 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.17 53.56 beginnt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.57 53.74 mit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.75 54.07 herbert 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 54.08 54.25 von 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 54.26 55.92 karajan 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 55.93 56.12 er 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 56.13 56.78 vermarktet 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 56.79 57.04 bild 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.05 57.2 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.21 57.44 ton 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.45 58.13 aufzeichnungen 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 58.14 58.24 der 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 58.25 59.43 konzerte 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 59.44 59.93 karajan 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 59.94 60.36 versteht 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.37 60.56 es 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.57 60.96 klassik 0.91
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.97 61.11 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.12 61.57 kommerz 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.58 61.74 zu 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.75 62.81 verknüpfen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 62.82 63.5 vierunddreißig 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.51 63.75 jahre 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.76 63.97 lang 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.98 64.34 lenkte 0.87
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 64.35 65.0 österreicher 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.01 65.12 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.13 65.55 geschicke 0.87
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.56 65.74 des 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.75 66.69 orchesters 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 66.70 66.93 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 66.94 67.38 trägt 0.84
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 67.39 67.56 es 0.97
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 67.57 68.26 nachhaltig 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 72.58 73.02 der 0.78
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.03 73.5 gerade 0.67
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.51 73.79 dann 0.43
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.80 74.09 war 0.86
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 74.10 74.58 irgendwann 0.74
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 76.55 77.2 ganz 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 77.21 77.57 einig 0.52
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 77.58 78.6 durchsichtiger 0.75
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 78.61 78.81 aber 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 78.82 79.32 trotzdem 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 79.33 81.25 voluminöser 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 81.26 83.98 luxuriöser 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 83.99 84.31 auch 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 84.32 86.25 gelacht 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.26 86.55 aber 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.56 86.83 eben 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.84 87.11 auch 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 87.12 87.69 ungemein 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 87.70 88.66 harmonisch 0.63
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 88.67 88.83 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 88.84 89.5 schöner 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 89.51 89.77 klar 0.74
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 92.97 93.29 so 0.60
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.30 93.58 sei 0.94
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.59 93.72 man 0.96
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.73 94.06 rettet 0.96
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.07 94.48 schließlich 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.49 94.73 stimmt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.74 94.87 das 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.88 95.34 orchester 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.35 95.49 auf 0.97
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.50 95.65 das 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.66 96.4 einundzwanzigste 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 96.41 96.95 jahrhundert 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 96.96 97.23 ein 0.98
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 100.49 101.25 musikfans 0.77
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 101.26 101.82 weltweit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 101.83 102.09 können 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.10 102.2 die 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.21 102.7 konzerte 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.71 102.9 nun 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.91 103.16 leicht 0.82
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.17 103.29 im 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.30 103.71 internet 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.72 104.76 erleben 0.88
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 104.77 105.14 vettel 0.25
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.15 105.33 will 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.34 105.45 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.46 105.82 klassik 0.68
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.83 105.98 aus 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.99 106.23 ihrer 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 106.24 106.79 elitären 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 106.80 107.02 ecke 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.03 107.67 holen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.68 107.8 in 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.81 108.32 zahlreichen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 108.33 108.85 projekten 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 108.86 109.1 sollen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.11 109.34 etwa 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.35 109.62 kinder 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.63 109.76 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.77 110.3 jugendliche 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.31 110.48 für 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.49 110.7 diese 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.71 111.01 musik 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 111.02 111.49 begeistert 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 111.50 111.79 werden 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 114.64 114.86 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 114.87 115.46 nun 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.47 115.79 suchen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.80 115.9 die 0.94
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.91 116.07 ein 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 116.08 116.96 hundertvierundzwanzig 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 116.97 117.38 musiker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.39 117.59 einen 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.60 117.86 neuen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.87 118.46 chef 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 118.47 118.67 als 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 118.68 119.21 einziges 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.22 119.64 orchester 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.65 119.76 der 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.77 120.13 welt 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.14 120.43 dürfen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.44 120.59 sie 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.60 121.06 allein 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 121.07 121.41 darüber 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 121.42 126.98 abstimmen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 126.99 127.17 es 0.64
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.18 127.4 ist 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.41 127.57 ein 0.84
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.60 128.61 einzigartiges 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 128.62 129.68 privileg 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 129.69 130.54 für 0.93
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 130.55 130.87 diese 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 130.88 131.43 wahl 0.89
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 131.44 132.56 durchzuführen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 132.57 132.8 für 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 132.81 133.06 unser 0.96
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 133.07 133.64 orchester 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 133.65 134.12 insofern 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.13 134.35 ist 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.36 134.66 auch 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.67 134.96 dieser 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.97 135.36 tag 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 135.37 136.15 natürlich 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.16 136.49 eigentlich 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.50 136.64 ein 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.65 137.53 feiertag 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 137.54 138.1 unserer 0.63
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 138.11 138.74 orchester 0.91
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 138.75 139.37 demokratie 0.91
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 140.70 142.09 selbstbestimmung 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.10 142.36 ein 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.37 142.79 merkmal 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.80 142.92 der 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.93 143.27 berliner 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 143.28 146.03 philharmonie 0.87
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.04 146.17 die 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.18 146.66 musiker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.67 147.17 entscheiden 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.18 147.46 auch 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.47 147.61 wer 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.62 147.74 bei 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.75 147.94 ihnen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.95 148.46 mitspielen 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 148.47 148.82 darf 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 148.83 149.06 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.07 149.24 an 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.25 149.61 welchen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.62 149.99 orten 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.00 150.5 außerhalb 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.51 150.91 berlins 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.92 151.01 sie 0.77
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 151.02 153.29 auftreten 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.30 153.58 nun 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.59 153.9 müssen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.91 154.06 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 154.07 154.78 philharmoniker 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 154.79 155.06 ihren 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 155.07 155.54 künftigen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 155.55 156.44 chefdirigenten 0.96
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 156.45 157.66 festlegen 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 157.67 157.81 und 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 157.82 158.05 damit 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.06 158.15 die 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.16 158.81 ausrichtung 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.82 159.06 ihres 1.00
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 159.07 159.74 orchesters 0.99
-DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 169.92 169.99 er 0.57
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 6.60 6.8 es 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 6.81 7.09 gilt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.10 7.29 als 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.30 7.65 eines 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.66 7.82 der 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 7.83 8.22 besten 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.23 8.73 orchester 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.74 8.86 der 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 8.87 9.59 welt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 9.60 9.76 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 9.77 10.12 berliner 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 10.13 10.8 philharmoniker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 10.81 11.06 hier 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.07 11.24 mit 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.25 11.51 ihrem 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 11.52 12.05 derzeitigen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 12.06 12.87 chefdirigenten 0.66 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 12.88 13.53 susanne 0.67 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 13.54 13.86 rettet 0.21 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.19 16.37 ein 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.38 16.92 orchester 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 16.93 17.13 mit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 17.14 17.41 langer 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 17.42 20.33 tradition 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 20.34 20.74 achtzen 0.62 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 20.75 21.75 hundertzweiundachtzig 0.93 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 21.76 21.99 gilt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.00 22.17 als 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.18 22.3 das 0.89 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 22.31 23.53 gründungsjahr 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 23.54 24.04 dirigent 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.05 24.25 hans 1.00 hans_von_bülow
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.26 24.47 von 1.00 hans_von_bülow
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.48 24.8 bülow 1.00 hans_von_bülow
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 24.81 25.09 reißt 0.58 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.10 25.23 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.24 25.65 musiker 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.66 25.81 aus 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 25.82 26.01 ihrer 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 26.02 27.24 mittelmäßigkeit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.25 27.44 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.45 27.68 schafft 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.69 27.81 so 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.82 27.89 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 27.90 28.46 grundlage 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.47 28.63 für 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.64 28.72 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 28.73 29.19 spätere 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.20 29.76 berühmtheit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.77 29.93 des 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 29.94 30.58 orchesters 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 32.90 32.97 ein 0.43 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.12 34.51 unter 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.52 34.82 ihm 0.96 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 34.83 35.24 erleben 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 35.25 35.35 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 35.36 36.01 philharmoniker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.02 36.18 ihrer 0.62 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.19 36.34 wohl 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.35 36.81 dunkelste 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 36.82 37.57 zeit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 37.58 37.97 wilhelm 1.00 wilhelm_furtwängler
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 37.98 38.53 furtwängler 1.00 wilhelm_furtwängler
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 38.54 38.86 bittet 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 38.87 40.2 neunzehnhundertdreiunddreißig 0.95 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 40.21 40.35 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 40.36 41.54 nationalsozialisten 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 41.55 41.7 um 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 41.71 42.23 finanzielle 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 42.24 43.42 unterstützung 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 43.43 43.92 fortan 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 43.93 44.41 firmieren 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 44.42 44.59 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 44.60 45.28 philharmoniker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.29 45.49 als 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.50 45.93 reich 0.45 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 45.94 46.34 ist 0.54 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.32 52.53 eine 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.54 52.83 neue 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 52.84 53.16 ära 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.17 53.56 beginnt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.57 53.74 mit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 53.75 54.07 herbert 1.00 herbert_von_karajan
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 54.08 54.25 von 1.00 herbert_von_karajan
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 54.26 55.92 karajan 1.00 herbert_von_karajan
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 55.93 56.12 er 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 56.13 56.78 vermarktet 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 56.79 57.04 bild 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.05 57.2 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.21 57.44 ton 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 57.45 58.13 aufzeichnungen 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 58.14 58.24 der 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 58.25 59.43 konzerte 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 59.44 59.93 karajan 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 59.94 60.36 versteht 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.37 60.56 es 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.57 60.96 klassik 0.91 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 60.97 61.11 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.12 61.57 kommerz 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.58 61.74 zu 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 61.75 62.81 verknüpfen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 62.82 63.5 vierunddreißig 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.51 63.75 jahre 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.76 63.97 lang 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 63.98 64.34 lenkte 0.87 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 64.35 65.0 österreicher 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.01 65.12 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.13 65.55 geschicke 0.87 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.56 65.74 des 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 65.75 66.69 orchesters 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 66.70 66.93 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 66.94 67.38 trägt 0.84 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 67.39 67.56 es 0.97 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 67.57 68.26 nachhaltig 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 72.58 73.02 der 0.78 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.03 73.5 gerade 0.67 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.51 73.79 dann 0.43 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 73.80 74.09 war 0.86 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 74.10 74.58 irgendwann 0.74 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 76.55 77.2 ganz 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 77.21 77.57 einig 0.52 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 77.58 78.6 durchsichtiger 0.75 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 78.61 78.81 aber 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 78.82 79.32 trotzdem 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 79.33 81.25 voluminöser 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 81.26 83.98 luxuriöser 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 83.99 84.31 auch 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 84.32 86.25 gelacht 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.26 86.55 aber 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.56 86.83 eben 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 86.84 87.11 auch 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 87.12 87.69 ungemein 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 87.70 88.66 harmonisch 0.63 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 88.67 88.83 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 88.84 89.5 schöner 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 89.51 89.77 klar 0.74 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 92.97 93.29 so 0.60 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.30 93.58 sei 0.94 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.59 93.72 man 0.96 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 93.73 94.06 rettet 0.96 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.07 94.48 schließlich 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.49 94.73 stimmt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.74 94.87 das 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 94.88 95.34 orchester 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.35 95.49 auf 0.97 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.50 95.65 das 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 95.66 96.4 einundzwanzigste 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 96.41 96.95 jahrhundert 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 96.96 97.23 ein 0.98 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 100.49 101.25 musikfans 0.77 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 101.26 101.82 weltweit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 101.83 102.09 können 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.10 102.2 die 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.21 102.7 konzerte 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.71 102.9 nun 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 102.91 103.16 leicht 0.82 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.17 103.29 im 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.30 103.71 internet 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 103.72 104.76 erleben 0.88 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 104.77 105.14 vettel 0.25 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.15 105.33 will 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.34 105.45 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.46 105.82 klassik 0.68 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.83 105.98 aus 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 105.99 106.23 ihrer 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 106.24 106.79 elitären 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 106.80 107.02 ecke 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.03 107.67 holen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.68 107.8 in 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 107.81 108.32 zahlreichen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 108.33 108.85 projekten 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 108.86 109.1 sollen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.11 109.34 etwa 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.35 109.62 kinder 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.63 109.76 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 109.77 110.3 jugendliche 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.31 110.48 für 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.49 110.7 diese 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 110.71 111.01 musik 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 111.02 111.49 begeistert 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 111.50 111.79 werden 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 114.64 114.86 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 114.87 115.46 nun 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.47 115.79 suchen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.80 115.9 die 0.94 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 115.91 116.07 ein 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 116.08 116.96 hundertvierundzwanzig 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 116.97 117.38 musiker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.39 117.59 einen 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.60 117.86 neuen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 117.87 118.46 chef 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 118.47 118.67 als 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 118.68 119.21 einziges 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.22 119.64 orchester 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.65 119.76 der 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 119.77 120.13 welt 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.14 120.43 dürfen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.44 120.59 sie 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 120.60 121.06 allein 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 121.07 121.41 darüber 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 121.42 126.98 abstimmen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 126.99 127.17 es 0.64 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.18 127.4 ist 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.41 127.57 ein 0.84 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 127.60 128.61 einzigartiges 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 128.62 129.68 privileg 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 129.69 130.54 für 0.93 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 130.55 130.87 diese 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 130.88 131.43 wahl 0.89 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 131.44 132.56 durchzuführen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 132.57 132.8 für 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 132.81 133.06 unser 0.96 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 133.07 133.64 orchester 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 133.65 134.12 insofern 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.13 134.35 ist 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.36 134.66 auch 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.67 134.96 dieser 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 134.97 135.36 tag 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 135.37 136.15 natürlich 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.16 136.49 eigentlich 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.50 136.64 ein 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 136.65 137.53 feiertag 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 137.54 138.1 unserer 0.63 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 138.11 138.74 orchester 0.91 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 138.75 139.37 demokratie 0.91 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 140.70 142.09 selbstbestimmung 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.10 142.36 ein 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.37 142.79 merkmal 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.80 142.92 der 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 142.93 143.27 berliner 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 143.28 146.03 philharmonie 0.87 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.04 146.17 die 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.18 146.66 musiker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 146.67 147.17 entscheiden 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.18 147.46 auch 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.47 147.61 wer 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.62 147.74 bei 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.75 147.94 ihnen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 147.95 148.46 mitspielen 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 148.47 148.82 darf 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 148.83 149.06 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.07 149.24 an 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.25 149.61 welchen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 149.62 149.99 orten 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.00 150.5 außerhalb 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.51 150.91 berlins 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 150.92 151.01 sie 0.77 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 151.02 153.29 auftreten 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.30 153.58 nun 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.59 153.9 müssen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 153.91 154.06 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 154.07 154.78 philharmoniker 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 154.79 155.06 ihren 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 155.07 155.54 künftigen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 155.55 156.44 chefdirigenten 0.96 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 156.45 157.66 festlegen 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 157.67 157.81 und 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 157.82 158.05 damit 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.06 158.15 die 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.16 158.81 ausrichtung 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 158.82 159.06 ihres 1.00 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 159.07 159.74 orchesters 0.99 #
+DW DW-news-DE/594e920f-ab6d-e93c-2aa8-66323ef18696 169.92 169.99 er 0.57 #

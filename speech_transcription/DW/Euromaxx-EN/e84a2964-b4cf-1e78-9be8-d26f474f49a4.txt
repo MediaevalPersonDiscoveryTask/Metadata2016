@@ -1,408 +1,408 @@
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 4.77 7.3 a 0.86
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 7.31 8.3 place 0.53
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.31 8.45 that 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.46 8.88 enhance 0.66
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.89 10.25 cityscapes 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.26 10.46 the 0.48
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.47 10.81 street 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.82 11.16 artist 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.17 11.39 nice 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.45 11.78 booms 0.37
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.79 12.1 fresh 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 12.11 13.08 idea 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.09 13.36 many 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.37 13.47 of 0.91
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.48 13.6 her 0.84
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.61 14.14 patterns 0.66
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.15 14.49 already 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.50 14.98 embellish 0.85
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.99 15.07 the 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.08 15.44 streets 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.45 15.54 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.55 15.7 her 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.71 16.22 hometown 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 16.23 16.42 war 0.80
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 16.43 16.73 sun 0.69
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 20.18 21.71 thank 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.21 27.35 and 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.36 27.62 that's 0.55
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.63 27.96 much 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.97 28.06 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 28.07 28.19 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 28.20 28.67 residents 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 32.90 33.13 sort 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.14 33.59 of 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.60 33.93 looks 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.94 34.32 like 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.33 34.45 one 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.46 34.53 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.54 34.77 those 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.78 35.26 christmas 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 35.27 36.78 blankets 0.75
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 36.79 37.06 thought 0.92
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.07 37.15 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.16 37.72 installation 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.73 37.98 really 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.99 38.31 worked 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 38.32 39.32 well 0.90
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.33 39.45 but 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.46 39.55 it 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.56 40.77 was 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 40.78 40.89 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 40.90 41.47 keywords 0.52
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 41.48 41.82 from 0.63
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 41.83 42.0 them 0.93
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.01 42.09 and 0.51
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.10 42.25 that 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.26 42.36 it 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.37 42.78 reminds 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.79 42.9 me 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.91 42.95 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.96 43.18 little 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 43.19 45.38 bit 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.39 45.54 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.55 45.82 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.83 46.48 tablecloth 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 49.39 50.89 the 0.49
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 50.90 51.52 victors 0.33
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.53 51.7 of 0.38
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.71 51.76 a 0.68
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.77 52.27 good 0.64
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.28 52.57 that 0.44
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.58 52.79 i 0.83
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.80 53.15 really 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 53.16 53.69 respect 0.72
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 53.70 54.04 people 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.05 54.24 with 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.25 54.76 such 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.77 57.08 talents 0.79
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.09 57.26 i 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.27 57.53 could 0.60
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.54 57.74 do 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.75 59.14 it 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.15 59.3 but 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.31 59.39 i 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.40 59.62 like 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.63 59.68 it 0.94
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.69 59.76 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.77 60.28 lot 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.02 64.34 until 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.35 64.65 five 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.66 64.89 years 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.90 65.23 ago 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.24 65.39 the 0.81
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.40 65.69 thirty 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.70 65.88 eight 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.89 66.05 year 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.06 66.23 old 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.24 66.64 artist 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.65 66.97 worked 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.98 67.2 for 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 67.21 67.72 citizens 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 67.73 68.89 initiative 0.75
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 68.90 69.05 but 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.06 69.28 then 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.29 69.45 she 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.46 69.97 discovered 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.98 70.73 lace 0.71
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 70.74 70.97 called 0.73
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 70.98 71.4 herself 0.83
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 71.41 71.48 a 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 71.49 72.34 nice 0.87
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 72.35 72.81 her 0.62
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 72.82 73.36 patterns 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.37 73.48 to 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.49 73.67 new 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.68 74.15 material 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 81.53 81.74 i 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 81.75 84.28 love 0.93
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 84.29 84.65 and 0.83
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 84.66 86.74 that 0.70
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 86.75 88.73 like 0.62
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 88.74 89.43 higher 0.24
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 89.44 91.29 among 0.54
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 91.30 95.19 about 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 95.20 96.77 why 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 96.78 97.51 the 0.58
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 97.52 97.65 good 0.82
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 101.50 101.69 they 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 101.70 102.02 spawn 0.43
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 102.03 102.4 finds 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 102.41 103.17 inspiration 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.18 103.29 in 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.30 103.32 the 0.49
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.33 103.6 little 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.61 103.99 shops 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.00 104.18 like 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.19 104.38 this 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.39 105.1 one 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.11 105.37 only 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.38 105.42 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.43 105.64 few 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.65 106.04 stories 0.57
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.05 106.15 in 0.94
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.16 106.62 warsaw 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.63 106.97 still 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.98 107.36 sell 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 107.37 107.92 traditional 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 107.93 108.69 handicrafts 0.76
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.36 109.61 she 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.62 109.9 often 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.91 110.37 browsers 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 110.38 110.93 around 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 110.94 111.41 searching 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.42 111.55 for 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.56 111.74 new 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.75 112.34 patterns 0.73
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.35 112.46 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.47 112.64 use 0.84
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.65 112.77 in 0.83
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.78 112.97 her 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.98 113.21 own 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 113.22 117.38 design 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 117.39 117.42 a 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 125.70 126.14 position 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 126.15 126.34 of 0.90
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 126.35 128.82 place 0.83
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 128.83 129.37 the 0.73
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 129.38 129.83 charlotte 0.35
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 129.84 130.15 small 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.16 130.59 village 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.60 130.89 in 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.90 131.78 among 0.27
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 131.79 132.24 it's 0.42
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 132.25 132.63 cognac 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 132.64 133.41 wolf 0.31
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 133.42 134.68 and 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 134.69 134.9 they 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 134.91 135.51 make 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 135.52 135.75 one 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 135.76 136.03 kind 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.04 136.14 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.15 136.25 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.26 137.61 late 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.62 137.72 i 0.84
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.73 137.87 can 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.88 138.18 show 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 138.19 138.43 is 0.49
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 142.84 143.35 and 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.36 143.56 they 0.62
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.57 143.8 very 0.88
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.81 145.23 day 0.55
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 145.24 146.47 and 0.91
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 146.48 148.03 a 0.93
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.04 148.3 very 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.31 148.76 difficult 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.77 148.87 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.88 149.12 make 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.19 152.28 the 0.92
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.29 152.74 crochet 0.73
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.75 153.28 technique 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 153.29 153.91 originated 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 153.92 154.03 in 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.04 154.11 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.12 154.62 nineteenth 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.63 155.95 century 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 155.96 156.39 with 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.40 156.79 lace 0.75
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.80 156.98 was 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.99 157.17 no 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 157.18 157.52 longer 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 157.53 158.27 exclusively 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.28 158.59 used 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.60 158.69 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.70 159.13 embellish 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 159.14 160.17 clothes 0.62
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.18 160.31 but 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.32 160.6 also 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.61 160.99 quickly 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.00 161.31 found 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.32 161.46 its 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.47 161.66 way 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.67 161.88 into 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.89 162.4 homes 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 162.41 162.57 as 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 162.58 164.73 decoration 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 164.74 164.92 but 0.51
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 164.93 165.06 a 0.45
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.07 165.4 laugh 0.64
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.54 165.65 the 0.87
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.66 166.19 laces 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 166.20 167.17 that 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 167.18 167.29 the 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 167.30 168.17 patents 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 168.18 169.9 are 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 169.91 170.53 organic 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.54 170.8 yes 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.81 170.88 you 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.89 170.91 've 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.92 172.58 done 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 172.59 173.18 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 173.19 173.37 hard 0.56
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 173.38 174.36 around 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.37 174.66 and 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.67 174.86 they 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.87 175.82 are 0.71
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 175.83 176.02 one 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.03 176.37 hundred 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.38 176.8 percent 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.81 176.94 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 177.87 180.08 like 0.46
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.09 180.51 today 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.52 180.8 native 0.47
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.81 181.06 blue 0.19
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.07 181.22 can 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.23 181.43 make 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.44 181.5 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.51 181.87 living 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.88 182.06 from 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.07 182.22 her 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.23 182.65 heart 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.66 182.83 and 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.84 182.96 she 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.97 183.65 showcases 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 183.66 183.75 it 0.46
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 183.76 184.04 around 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.05 184.14 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.15 184.61 world 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.62 185.05 to 0.52
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.06 185.38 hear 0.67
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.39 185.5 on 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.51 185.56 a 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.57 185.93 fishing 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.94 186.14 boat 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.15 186.27 in 0.90
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.28 186.54 goa 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.55 186.58 in 0.49
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.59 187.0 india 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 190.62 190.73 the 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 190.74 191.39 ceramic 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.40 191.82 decorates 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.83 191.98 a 0.40
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.99 192.34 color 0.58
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 192.35 192.43 in 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 192.44 194.05 mumbai 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.06 194.22 but 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.23 194.33 she 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.34 194.43 's 0.54
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.44 194.65 left 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.66 194.77 her 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.78 195.07 mark 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 195.08 195.19 in 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 195.20 196.58 europe 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 196.59 196.7 for 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 196.71 197.14 example 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.15 197.7 here 0.79
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.71 197.82 at 0.87
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.83 197.88 a 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.89 198.16 street 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.17 198.33 art 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.34 198.76 festival 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.77 198.87 in 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.88 199.21 italy 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.04 203.6 gallery 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.61 203.91 sell 0.93
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.92 204.06 her 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.07 204.81 installations 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.82 204.97 for 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.98 205.41 anywhere 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.42 205.63 from 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.64 205.96 seven 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.97 206.38 hundred 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.39 206.52 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.53 206.71 two 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.72 207.16 thousand 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 207.17 208.16 euro 0.65
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 208.17 208.55 still 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 208.56 209.14 nascent 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.15 209.5 refers 0.75
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.51 209.61 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.62 209.85 show 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.86 210.0 her 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.01 210.31 work 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.32 210.45 on 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.46 210.53 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.54 210.91 street 0.90
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 218.15 220.6 a 0.67
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 220.61 221.0 because 0.87
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 221.01 225.63 i 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 225.64 226.45 value 0.45
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 226.46 226.66 it 0.55
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.01 230.55 first 0.82
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.56 230.71 she 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.72 231.15 applies 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.16 231.25 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.26 231.5 lace 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.51 231.86 pattern 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.87 231.98 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.99 232.1 this 0.78
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 232.11 232.99 claim 0.86
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.00 233.21 she 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.22 233.73 creates 0.82
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.74 233.95 all 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.96 234.06 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.07 234.56 details 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.57 234.93 work 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.94 235.09 with 0.85
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 235.10 235.33 wooden 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 235.34 236.05 spatulas 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.30 248.47 it 0.85
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.48 248.8 takes 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.81 249.08 nearly 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.09 249.36 two 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.37 249.81 hours 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.82 249.93 to 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.94 250.37 complete 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.38 250.47 the 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.48 250.84 small 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.85 252.12 ceramic 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 252.13 252.65 artistic 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 252.66 253.18 facades 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.19 253.34 are 0.93
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.35 253.86 strictly 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.87 254.75 legal 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 254.76 254.94 but 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 254.95 255.22 whenever 0.51
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.23 255.32 the 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.33 255.75 police 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.76 256.02 ask 0.73
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.03 256.09 you 0.34
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.10 256.18 to 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.19 256.52 start 0.47
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.53 256.87 working 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.88 256.98 in 0.74
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.99 257.19 one 0.51
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 257.20 257.96 place 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 257.97 258.15 she 0.96
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.16 258.53 simply 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.54 258.95 start 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.96 259.16 over 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 259.17 259.46 some 0.35
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 259.47 259.83 places 0.42
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 265.68 267.68 pain 0.88
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 267.69 273.78 and 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 273.79 274.15 things 0.99
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 275.63 279.29 i 0.57
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 279.30 279.48 won 0.35
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 284.53 288.39 you 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 288.40 288.42 are 0.87
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 289.32 289.66 and 0.80
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 289.67 290.32 we 0.60
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 290.33 290.67 don't 0.50
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 290.68 291.01 sets 0.74
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.02 291.22 off 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.23 291.91 again 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.92 292.06 her 0.60
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.07 292.39 next 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.40 292.84 project 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.85 293.7 awaits 0.98
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 293.71 293.78 a 0.97
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 293.79 294.16 huge 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 294.17 294.4 light 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 294.41 295.52 installation 0.86
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.53 295.73 with 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.74 295.85 an 0.89
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.86 296.63 ornate 0.95
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 296.64 297.22 pattern 0.65
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 297.23 297.37 of 1.00
-DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 297.38 297.9 course 1.00
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 4.77 7.3 a 0.86 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 7.31 8.3 place 0.53 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.31 8.45 that 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.46 8.88 enhance 0.66 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 8.89 10.25 cityscapes 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.26 10.46 the 0.48 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.47 10.81 street 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 10.82 11.16 artist 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.17 11.39 nice 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.45 11.78 booms 0.37 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 11.79 12.1 fresh 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 12.11 13.08 idea 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.09 13.36 many 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.37 13.47 of 0.91 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.48 13.6 her 0.84 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 13.61 14.14 patterns 0.66 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.15 14.49 already 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.50 14.98 embellish 0.85 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 14.99 15.07 the 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.08 15.44 streets 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.45 15.54 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.55 15.7 her 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 15.71 16.22 hometown 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 16.23 16.42 war 0.80 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 16.43 16.73 sun 0.69 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 20.18 21.71 thank 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.21 27.35 and 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.36 27.62 that's 0.55 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.63 27.96 much 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 27.97 28.06 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 28.07 28.19 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 28.20 28.67 residents 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 32.90 33.13 sort 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.14 33.59 of 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.60 33.93 looks 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 33.94 34.32 like 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.33 34.45 one 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.46 34.53 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.54 34.77 those 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 34.78 35.26 christmas 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 35.27 36.78 blankets 0.75 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 36.79 37.06 thought 0.92 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.07 37.15 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.16 37.72 installation 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.73 37.98 really 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 37.99 38.31 worked 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 38.32 39.32 well 0.90 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.33 39.45 but 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.46 39.55 it 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 39.56 40.77 was 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 40.78 40.89 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 40.90 41.47 keywords 0.52 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 41.48 41.82 from 0.63 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 41.83 42.0 them 0.93 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.01 42.09 and 0.51 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.10 42.25 that 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.26 42.36 it 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.37 42.78 reminds 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.79 42.9 me 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.91 42.95 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 42.96 43.18 little 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 43.19 45.38 bit 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.39 45.54 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.55 45.82 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 45.83 46.48 tablecloth 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 49.39 50.89 the 0.49 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 50.90 51.52 victors 0.33 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.53 51.7 of 0.38 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.71 51.76 a 0.68 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 51.77 52.27 good 0.64 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.28 52.57 that 0.44 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.58 52.79 i 0.83 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 52.80 53.15 really 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 53.16 53.69 respect 0.72 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 53.70 54.04 people 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.05 54.24 with 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.25 54.76 such 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 54.77 57.08 talents 0.79 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.09 57.26 i 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.27 57.53 could 0.60 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.54 57.74 do 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 57.75 59.14 it 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.15 59.3 but 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.31 59.39 i 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.40 59.62 like 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.63 59.68 it 0.94 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.69 59.76 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 59.77 60.28 lot 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.02 64.34 until 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.35 64.65 five 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.66 64.89 years 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 64.90 65.23 ago 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.24 65.39 the 0.81 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.40 65.69 thirty 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.70 65.88 eight 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 65.89 66.05 year 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.06 66.23 old 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.24 66.64 artist 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.65 66.97 worked 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 66.98 67.2 for 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 67.21 67.72 citizens 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 67.73 68.89 initiative 0.75 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 68.90 69.05 but 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.06 69.28 then 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.29 69.45 she 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.46 69.97 discovered 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 69.98 70.73 lace 0.71 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 70.74 70.97 called 0.73 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 70.98 71.4 herself 0.83 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 71.41 71.48 a 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 71.49 72.34 nice 0.87 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 72.35 72.81 her 0.62 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 72.82 73.36 patterns 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.37 73.48 to 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.49 73.67 new 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 73.68 74.15 material 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 81.53 81.74 i 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 81.75 84.28 love 0.93 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 84.29 84.65 and 0.83 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 84.66 86.74 that 0.70 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 86.75 88.73 like 0.62 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 88.74 89.43 higher 0.24 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 89.44 91.29 among 0.54 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 91.30 95.19 about 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 95.20 96.77 why 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 96.78 97.51 the 0.58 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 97.52 97.65 good 0.82 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 101.50 101.69 they 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 101.70 102.02 spawn 0.43 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 102.03 102.4 finds 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 102.41 103.17 inspiration 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.18 103.29 in 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.30 103.32 the 0.49 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.33 103.6 little 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 103.61 103.99 shops 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.00 104.18 like 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.19 104.38 this 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 104.39 105.1 one 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.11 105.37 only 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.38 105.42 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.43 105.64 few 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 105.65 106.04 stories 0.57 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.05 106.15 in 0.94 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.16 106.62 warsaw 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.63 106.97 still 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 106.98 107.36 sell 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 107.37 107.92 traditional 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 107.93 108.69 handicrafts 0.76 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.36 109.61 she 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.62 109.9 often 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 109.91 110.37 browsers 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 110.38 110.93 around 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 110.94 111.41 searching 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.42 111.55 for 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.56 111.74 new 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 111.75 112.34 patterns 0.73 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.35 112.46 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.47 112.64 use 0.84 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.65 112.77 in 0.83 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.78 112.97 her 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 112.98 113.21 own 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 113.22 117.38 design 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 117.39 117.42 a 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 125.70 126.14 position 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 126.15 126.34 of 0.90 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 126.35 128.82 place 0.83 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 128.83 129.37 the 0.73 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 129.38 129.83 charlotte 0.35 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 129.84 130.15 small 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.16 130.59 village 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.60 130.89 in 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 130.90 131.78 among 0.27 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 131.79 132.24 it's 0.42 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 132.25 132.63 cognac 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 132.64 133.41 wolf 0.31 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 133.42 134.68 and 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 134.69 134.9 they 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 134.91 135.51 make 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 135.52 135.75 one 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 135.76 136.03 kind 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.04 136.14 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.15 136.25 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 136.26 137.61 late 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.62 137.72 i 0.84 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.73 137.87 can 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 137.88 138.18 show 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 138.19 138.43 is 0.49 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 142.84 143.35 and 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.36 143.56 they 0.62 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.57 143.8 very 0.88 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 143.81 145.23 day 0.55 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 145.24 146.47 and 0.91 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 146.48 148.03 a 0.93 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.04 148.3 very 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.31 148.76 difficult 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.77 148.87 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 148.88 149.12 make 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.19 152.28 the 0.92 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.29 152.74 crochet 0.73 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 152.75 153.28 technique 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 153.29 153.91 originated 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 153.92 154.03 in 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.04 154.11 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.12 154.62 nineteenth 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 154.63 155.95 century 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 155.96 156.39 with 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.40 156.79 lace 0.75 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.80 156.98 was 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 156.99 157.17 no 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 157.18 157.52 longer 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 157.53 158.27 exclusively 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.28 158.59 used 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.60 158.69 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 158.70 159.13 embellish 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 159.14 160.17 clothes 0.62 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.18 160.31 but 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.32 160.6 also 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 160.61 160.99 quickly 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.00 161.31 found 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.32 161.46 its 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.47 161.66 way 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.67 161.88 into 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 161.89 162.4 homes 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 162.41 162.57 as 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 162.58 164.73 decoration 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 164.74 164.92 but 0.51 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 164.93 165.06 a 0.45 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.07 165.4 laugh 0.64 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.54 165.65 the 0.87 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 165.66 166.19 laces 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 166.20 167.17 that 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 167.18 167.29 the 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 167.30 168.17 patents 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 168.18 169.9 are 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 169.91 170.53 organic 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.54 170.8 yes 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.81 170.88 you 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.89 170.91 've 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 170.92 172.58 done 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 172.59 173.18 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 173.19 173.37 hard 0.56 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 173.38 174.36 around 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.37 174.66 and 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.67 174.86 they 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 174.87 175.82 are 0.71 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 175.83 176.02 one 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.03 176.37 hundred 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.38 176.8 percent 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 176.81 176.94 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 177.87 180.08 like 0.46 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.09 180.51 today 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.52 180.8 native 0.47 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 180.81 181.06 blue 0.19 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.07 181.22 can 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.23 181.43 make 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.44 181.5 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.51 181.87 living 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 181.88 182.06 from 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.07 182.22 her 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.23 182.65 heart 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.66 182.83 and 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.84 182.96 she 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 182.97 183.65 showcases 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 183.66 183.75 it 0.46 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 183.76 184.04 around 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.05 184.14 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.15 184.61 world 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 184.62 185.05 to 0.52 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.06 185.38 hear 0.67 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.39 185.5 on 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.51 185.56 a 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.57 185.93 fishing 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 185.94 186.14 boat 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.15 186.27 in 0.90 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.28 186.54 goa 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.55 186.58 in 0.49 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 186.59 187.0 india 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 190.62 190.73 the 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 190.74 191.39 ceramic 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.40 191.82 decorates 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.83 191.98 a 0.40 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 191.99 192.34 color 0.58 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 192.35 192.43 in 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 192.44 194.05 mumbai 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.06 194.22 but 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.23 194.33 she 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.34 194.43 's 0.54 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.44 194.65 left 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.66 194.77 her 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 194.78 195.07 mark 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 195.08 195.19 in 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 195.20 196.58 europe 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 196.59 196.7 for 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 196.71 197.14 example 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.15 197.7 here 0.79 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.71 197.82 at 0.87 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.83 197.88 a 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 197.89 198.16 street 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.17 198.33 art 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.34 198.76 festival 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.77 198.87 in 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 198.88 199.21 italy 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.04 203.6 gallery 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.61 203.91 sell 0.93 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 203.92 204.06 her 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.07 204.81 installations 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.82 204.97 for 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 204.98 205.41 anywhere 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.42 205.63 from 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.64 205.96 seven 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 205.97 206.38 hundred 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.39 206.52 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.53 206.71 two 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 206.72 207.16 thousand 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 207.17 208.16 euro 0.65 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 208.17 208.55 still 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 208.56 209.14 nascent 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.15 209.5 refers 0.75 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.51 209.61 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.62 209.85 show 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 209.86 210.0 her 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.01 210.31 work 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.32 210.45 on 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.46 210.53 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 210.54 210.91 street 0.90 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 218.15 220.6 a 0.67 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 220.61 221.0 because 0.87 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 221.01 225.63 i 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 225.64 226.45 value 0.45 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 226.46 226.66 it 0.55 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.01 230.55 first 0.82 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.56 230.71 she 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 230.72 231.15 applies 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.16 231.25 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.26 231.5 lace 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.51 231.86 pattern 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.87 231.98 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 231.99 232.1 this 0.78 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 232.11 232.99 claim 0.86 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.00 233.21 she 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.22 233.73 creates 0.82 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.74 233.95 all 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 233.96 234.06 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.07 234.56 details 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.57 234.93 work 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 234.94 235.09 with 0.85 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 235.10 235.33 wooden 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 235.34 236.05 spatulas 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.30 248.47 it 0.85 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.48 248.8 takes 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 248.81 249.08 nearly 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.09 249.36 two 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.37 249.81 hours 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.82 249.93 to 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 249.94 250.37 complete 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.38 250.47 the 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.48 250.84 small 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 250.85 252.12 ceramic 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 252.13 252.65 artistic 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 252.66 253.18 facades 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.19 253.34 are 0.93 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.35 253.86 strictly 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 253.87 254.75 legal 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 254.76 254.94 but 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 254.95 255.22 whenever 0.51 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.23 255.32 the 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.33 255.75 police 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 255.76 256.02 ask 0.73 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.03 256.09 you 0.34 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.10 256.18 to 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.19 256.52 start 0.47 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.53 256.87 working 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.88 256.98 in 0.74 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 256.99 257.19 one 0.51 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 257.20 257.96 place 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 257.97 258.15 she 0.96 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.16 258.53 simply 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.54 258.95 start 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 258.96 259.16 over 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 259.17 259.46 some 0.35 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 259.47 259.83 places 0.42 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 265.68 267.68 pain 0.88 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 267.69 273.78 and 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 273.79 274.15 things 0.99 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 275.63 279.29 i 0.57 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 279.30 279.48 won 0.35 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 284.53 288.39 you 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 288.40 288.42 are 0.87 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 289.32 289.66 and 0.80 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 289.67 290.32 we 0.60 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 290.33 290.67 don't 0.50 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 290.68 291.01 sets 0.74 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.02 291.22 off 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.23 291.91 again 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 291.92 292.06 her 0.60 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.07 292.39 next 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.40 292.84 project 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 292.85 293.7 awaits 0.98 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 293.71 293.78 a 0.97 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 293.79 294.16 huge 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 294.17 294.4 light 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 294.41 295.52 installation 0.86 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.53 295.73 with 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.74 295.85 an 0.89 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 295.86 296.63 ornate 0.95 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 296.64 297.22 pattern 0.65 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 297.23 297.37 of 1.00 #
+DW Euromaxx-EN/e84a2964-b4cf-1e78-9be8-d26f474f49a4 297.38 297.9 course 1.00 #

@@ -1,358 +1,358 @@
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 3.46 3.69 this 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 3.70 4.17 berlin 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 4.18 4.45 car 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 4.46 5.0 dealership 0.70
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.01 5.08 at 0.68
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.09 5.18 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.19 5.45 sale 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.51 5.74 someone 0.32
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.75 5.96 is 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.97 6.28 using 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.29 6.58 every 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.59 6.84 trick 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.85 6.95 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.96 7.02 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.03 7.26 book 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.27 7.38 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.39 7.61 win 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.62 7.8 over 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.81 8.02 his 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 8.03 9.26 customer 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.27 9.55 how 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.56 9.95 easy 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.96 10.09 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.10 10.23 is 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.24 10.33 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.34 10.56 get 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.57 10.85 into 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.86 11.22 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.23 11.47 how 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.48 11.87 roomy 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.88 12.01 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.02 12.52 is 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.53 12.62 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.63 13.01 natural 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.02 13.64 materials 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.65 13.76 it 0.80
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.77 13.84 's 0.96
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.85 14.13 made 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.14 14.52 of 0.68
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.53 14.8 it 0.50
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.81 14.95 is 0.47
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.96 15.09 an 0.89
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 15.10 15.58 electric 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 15.59 16.28 car 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 16.29 17.02 bmw 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 17.03 17.25 i 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 17.26 18.04 three 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.31 18.41 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.42 18.7 car 0.73
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.71 19.03 's 0.37
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.04 19.38 first 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.39 19.86 electric 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.87 20.19 powered 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.20 20.5 model 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.51 20.64 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.65 20.89 mass 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.90 21.52 production 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.26 24.3 i 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.31 24.69 think 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.70 24.78 i 0.94
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.79 24.85 'm 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.86 24.9 a 0.97
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.91 25.37 typical 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 25.38 25.85 electric 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 25.86 26.15 car 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.16 26.55 drivers 0.97
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.56 26.68 she 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.69 27.48 says 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 27.49 27.78 dr 0.95
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 27.79 28.1 eleven 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.11 28.67 kilometers 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.68 28.82 in 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.83 29.04 one 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.05 29.49 direction 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.50 29.58 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.59 29.65 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.66 29.99 morning 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.00 30.18 and 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.19 30.53 eleven 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.54 31.06 kilometers 0.84
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.07 31.29 back 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.30 31.38 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.39 31.47 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.48 32.41 evening 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 32.42 32.91 luckily 0.84
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 32.92 33.07 i 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.08 33.35 can 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.36 33.93 recharge 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.94 34.01 it 0.87
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.02 34.13 at 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.14 34.85 home 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.86 35.05 on 0.74
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.06 35.5 certainly 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.51 35.88 thinking 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.89 36.36 seriously 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.37 36.66 about 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.67 36.78 's 0.31
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.79 37.18 nothing 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.56 38.73 but 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.74 38.91 when 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.92 39.03 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.04 39.34 comes 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.35 39.49 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.50 40.04 actually 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.05 40.57 buying 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.58 40.69 the 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.70 41.18 customer 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 41.19 42.44 books 0.96
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.45 42.83 what 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.84 42.95 if 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.96 43.03 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.04 43.54 battery 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.55 43.84 runs 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.85 44.05 out 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.06 44.22 and 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.23 44.49 leaves 0.58
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.50 44.64 has 0.72
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.65 45.74 stranded 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 46.98 47.24 that 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.25 47.34 's 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.35 47.45 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.46 47.68 way 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.69 48.0 lots 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.01 48.08 of 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.09 48.49 drivers 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.50 48.72 think 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.73 48.84 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.85 50.32 germany 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.33 50.68 last 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.69 50.89 year 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.90 51.14 only 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.15 51.39 eighty 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.40 51.63 five 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.64 51.99 hundred 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.00 52.14 new 0.97
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.15 52.57 electric 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.58 52.91 cars 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.92 53.02 were 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.03 53.53 registered 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.54 53.65 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.66 54.22 germany 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.66 54.82 there 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.83 54.87 are 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.88 55.24 now 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.25 55.51 about 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.52 55.84 twenty 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.85 56.15 five 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.16 56.65 thousand 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.66 56.78 of 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.79 56.96 them 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.97 57.13 on 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 57.14 57.53 german 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 57.54 58.09 roads 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 58.66 58.9 out 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 58.91 59.03 of 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.04 59.24 more 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.25 59.38 than 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.39 60.02 sixteen 0.75
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.03 60.56 million 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.57 60.9 cars 0.90
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.91 61.06 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 61.07 61.62 total 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 62.81 63.3 schaefer 0.30
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 63.31 63.73 knows 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 63.74 64.37 why 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 64.38 64.51 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 64.52 65.04 automotive 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.05 65.53 engineer 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.54 65.89 goes 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.90 66.01 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.02 66.09 a 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.10 66.43 test 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.44 66.67 drive 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.68 66.84 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.85 66.9 a 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.91 67.56 vw 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 67.57 68.03 golf 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.04 68.57 electric 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.58 68.68 of 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.69 69.31 course 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.32 69.56 on 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.57 69.64 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.65 70.09 market 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.10 70.28 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.29 70.58 about 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.59 70.68 a 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.69 71.0 year 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 71.01 71.4 now 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 72.51 72.69 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 72.70 73.15 costs 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.16 73.48 about 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.49 73.82 thirty 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.83 74.08 five 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 74.09 74.54 thousand 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 74.55 75.22 euros 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.23 75.53 much 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.54 75.96 more 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.97 76.1 than 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.11 76.2 a 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.21 76.57 normal 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.58 77.89 golf 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 77.90 78.2 that 0.86
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.21 78.31 's 0.81
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.32 78.77 another 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.78 79.12 hurdle 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.13 79.31 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.32 79.55 would 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.56 79.73 be 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.74 80.89 buyers 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 80.90 81.43 another 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.44 81.57 is 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.58 81.7 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.71 82.37 recharging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 82.38 83.27 problem 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 83.28 83.69 needed 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 83.70 84.01 every 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.02 84.24 one 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.25 84.51 hundred 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.52 84.58 and 0.66
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.59 84.92 ninety 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.93 85.86 kilometers 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 85.87 86.33 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.34 86.51 it 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.52 86.9 takes 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.91 87.34 time 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 92.28 92.55 of 0.40
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 92.56 92.99 these 0.66
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.00 93.34 nuclei 0.73
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.35 93.59 dang 0.49
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.60 93.8 thing 0.74
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.81 93.94 we 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.95 94.08 can 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.09 94.57 expect 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.58 94.85 much 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.86 95.48 improvement 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 95.49 95.62 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 95.63 96.08 charging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.09 96.45 times 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.46 96.57 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.58 96.67 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.68 96.92 next 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.93 97.25 five 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.26 97.38 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.39 97.61 ten 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.62 98.34 years 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.35 98.48 will 0.99
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.49 98.66 have 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.67 98.76 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.77 98.96 get 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.97 99.27 used 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.28 99.37 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.38 99.71 about 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.72 100.01 half 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.02 100.12 an 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.13 100.38 hour 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.39 100.56 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.57 101.14 fast 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 101.15 102.33 charging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 102.34 102.87 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 102.88 103.13 for 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.14 103.17 a 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.18 103.65 normal 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.66 104.69 charge 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 104.70 105.06 six 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.07 105.42 hours 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.43 105.58 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.59 105.88 up 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 106.47 106.99 it's 0.50
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 107.00 107.27 of 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 107.28 108.55 belts 0.72
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 108.56 108.84 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 108.85 109.23 across 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.24 109.32 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.33 109.77 country 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.78 109.99 there 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.00 110.3 aren't 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.31 110.56 enough 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.57 111.04 charging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 111.05 112.17 stations 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.18 112.43 big 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.44 112.8 cities 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.81 113.02 like 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.03 113.48 berlin 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.49 113.58 are 0.45
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.59 114.01 trying 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.02 114.13 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.14 114.59 change 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.60 115.59 that 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 115.60 115.95 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 115.96 116.06 are 0.65
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.07 116.53 trying 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.54 116.7 out 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.71 117.01 new 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 117.02 117.85 ideas 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 117.86 118.15 like 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 118.16 118.92 recharging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 118.93 119.14 from 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 119.15 120.48 streetlights 0.88
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 120.49 120.68 in 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 120.69 121.05 berlin 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.06 121.46 alone 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.47 121.73 some 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.74 122.06 five 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 122.07 122.47 thousand 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 122.48 123.12 streetlights 0.83
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.13 123.32 could 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.33 123.72 become 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.73 124.17 charging 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 124.18 124.9 stations 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 128.38 128.76 and 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 128.77 129.0 he 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.01 129.41 cast 0.93
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.42 129.82 currently 0.97
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.83 130.11 have 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.12 130.55 another 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.56 130.98 rival 0.92
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.99 131.86 to 0.80
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 131.87 132.27 low 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 132.28 132.67 fuel 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 132.68 133.67 costs 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.68 133.88 at 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.89 133.95 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.96 134.33 moment 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.34 134.39 a 0.97
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.40 134.89 driver 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.90 135.02 would 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.03 135.2 have 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.21 135.31 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.32 135.69 spend 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.70 135.77 a 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.78 136.06 lot 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.07 136.19 of 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.20 136.5 time 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.51 136.85 behind 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.86 136.92 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.93 137.2 wheel 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.21 137.38 to 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.39 137.78 recoup 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.79 137.89 the 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.90 139.57 investment 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.58 139.73 but 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.74 139.84 of 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.85 140.14 course 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 140.15 140.67 electric 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 140.68 141.01 cars 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.02 141.23 do 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.24 141.41 have 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.42 141.69 one 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.70 141.97 huge 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.98 142.51 advantage 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.52 142.61 of 0.50
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.62 142.73 a 0.50
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.74 143.12 diesel 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.13 143.24 and 0.98
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.25 143.77 gasoline 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.78 144.76 vehicles 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 144.77 145.5 zero 1.00
-DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 145.51 146.19 emissions 1.00
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 3.46 3.69 this 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 3.70 4.17 berlin 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 4.18 4.45 car 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 4.46 5.0 dealership 0.70 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.01 5.08 at 0.68 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.09 5.18 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.19 5.45 sale 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.51 5.74 someone 0.32 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.75 5.96 is 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 5.97 6.28 using 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.29 6.58 every 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.59 6.84 trick 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.85 6.95 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 6.96 7.02 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.03 7.26 book 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.27 7.38 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.39 7.61 win 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.62 7.8 over 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 7.81 8.02 his 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 8.03 9.26 customer 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.27 9.55 how 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.56 9.95 easy 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 9.96 10.09 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.10 10.23 is 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.24 10.33 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.34 10.56 get 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.57 10.85 into 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 10.86 11.22 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.23 11.47 how 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.48 11.87 roomy 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 11.88 12.01 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.02 12.52 is 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.53 12.62 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 12.63 13.01 natural 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.02 13.64 materials 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.65 13.76 it 0.80 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.77 13.84 's 0.96 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 13.85 14.13 made 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.14 14.52 of 0.68 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.53 14.8 it 0.50 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.81 14.95 is 0.47 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 14.96 15.09 an 0.89 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 15.10 15.58 electric 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 15.59 16.28 car 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 16.29 17.02 bmw 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 17.03 17.25 i 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 17.26 18.04 three 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.31 18.41 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.42 18.7 car 0.73 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 18.71 19.03 's 0.37 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.04 19.38 first 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.39 19.86 electric 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 19.87 20.19 powered 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.20 20.5 model 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.51 20.64 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.65 20.89 mass 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 20.90 21.52 production 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.26 24.3 i 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.31 24.69 think 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.70 24.78 i 0.94 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.79 24.85 'm 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.86 24.9 a 0.97 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 24.91 25.37 typical 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 25.38 25.85 electric 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 25.86 26.15 car 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.16 26.55 drivers 0.97 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.56 26.68 she 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 26.69 27.48 says 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 27.49 27.78 dr 0.95 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 27.79 28.1 eleven 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.11 28.67 kilometers 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.68 28.82 in 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 28.83 29.04 one 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.05 29.49 direction 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.50 29.58 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.59 29.65 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 29.66 29.99 morning 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.00 30.18 and 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.19 30.53 eleven 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 30.54 31.06 kilometers 0.84 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.07 31.29 back 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.30 31.38 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.39 31.47 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 31.48 32.41 evening 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 32.42 32.91 luckily 0.84 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 32.92 33.07 i 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.08 33.35 can 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.36 33.93 recharge 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 33.94 34.01 it 0.87 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.02 34.13 at 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.14 34.85 home 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 34.86 35.05 on 0.74 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.06 35.5 certainly 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.51 35.88 thinking 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 35.89 36.36 seriously 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.37 36.66 about 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.67 36.78 's 0.31 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 36.79 37.18 nothing 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.56 38.73 but 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.74 38.91 when 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 38.92 39.03 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.04 39.34 comes 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.35 39.49 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 39.50 40.04 actually 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.05 40.57 buying 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.58 40.69 the 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 40.70 41.18 customer 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 41.19 42.44 books 0.96 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.45 42.83 what 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.84 42.95 if 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 42.96 43.03 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.04 43.54 battery 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.55 43.84 runs 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 43.85 44.05 out 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.06 44.22 and 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.23 44.49 leaves 0.58 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.50 44.64 has 0.72 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 44.65 45.74 stranded 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 46.98 47.24 that 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.25 47.34 's 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.35 47.45 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.46 47.68 way 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 47.69 48.0 lots 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.01 48.08 of 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.09 48.49 drivers 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.50 48.72 think 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.73 48.84 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 48.85 50.32 germany 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.33 50.68 last 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.69 50.89 year 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 50.90 51.14 only 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.15 51.39 eighty 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.40 51.63 five 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 51.64 51.99 hundred 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.00 52.14 new 0.97 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.15 52.57 electric 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.58 52.91 cars 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 52.92 53.02 were 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.03 53.53 registered 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.54 53.65 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 53.66 54.22 germany 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.66 54.82 there 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.83 54.87 are 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 54.88 55.24 now 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.25 55.51 about 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.52 55.84 twenty 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 55.85 56.15 five 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.16 56.65 thousand 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.66 56.78 of 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.79 56.96 them 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 56.97 57.13 on 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 57.14 57.53 german 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 57.54 58.09 roads 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 58.66 58.9 out 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 58.91 59.03 of 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.04 59.24 more 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.25 59.38 than 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 59.39 60.02 sixteen 0.75 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.03 60.56 million 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.57 60.9 cars 0.90 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 60.91 61.06 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 61.07 61.62 total 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 62.81 63.3 schaefer 0.30 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 63.31 63.73 knows 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 63.74 64.37 why 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 64.38 64.51 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 64.52 65.04 automotive 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.05 65.53 engineer 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.54 65.89 goes 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 65.90 66.01 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.02 66.09 a 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.10 66.43 test 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.44 66.67 drive 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.68 66.84 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.85 66.9 a 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 66.91 67.56 vw 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 67.57 68.03 golf 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.04 68.57 electric 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.58 68.68 of 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 68.69 69.31 course 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.32 69.56 on 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.57 69.64 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 69.65 70.09 market 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.10 70.28 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.29 70.58 about 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.59 70.68 a 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 70.69 71.0 year 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 71.01 71.4 now 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 72.51 72.69 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 72.70 73.15 costs 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.16 73.48 about 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.49 73.82 thirty 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 73.83 74.08 five 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 74.09 74.54 thousand 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 74.55 75.22 euros 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.23 75.53 much 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.54 75.96 more 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 75.97 76.1 than 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.11 76.2 a 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.21 76.57 normal 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 76.58 77.89 golf 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 77.90 78.2 that 0.86 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.21 78.31 's 0.81 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.32 78.77 another 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 78.78 79.12 hurdle 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.13 79.31 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.32 79.55 would 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.56 79.73 be 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 79.74 80.89 buyers 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 80.90 81.43 another 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.44 81.57 is 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.58 81.7 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 81.71 82.37 recharging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 82.38 83.27 problem 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 83.28 83.69 needed 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 83.70 84.01 every 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.02 84.24 one 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.25 84.51 hundred 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.52 84.58 and 0.66 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.59 84.92 ninety 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 84.93 85.86 kilometers 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 85.87 86.33 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.34 86.51 it 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.52 86.9 takes 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 86.91 87.34 time 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 92.28 92.55 of 0.40 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 92.56 92.99 these 0.66 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.00 93.34 nuclei 0.73 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.35 93.59 dang 0.49 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.60 93.8 thing 0.74 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.81 93.94 we 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 93.95 94.08 can 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.09 94.57 expect 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.58 94.85 much 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 94.86 95.48 improvement 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 95.49 95.62 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 95.63 96.08 charging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.09 96.45 times 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.46 96.57 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.58 96.67 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.68 96.92 next 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 96.93 97.25 five 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.26 97.38 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.39 97.61 ten 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 97.62 98.34 years 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.35 98.48 will 0.99 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.49 98.66 have 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.67 98.76 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.77 98.96 get 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 98.97 99.27 used 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.28 99.37 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.38 99.71 about 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 99.72 100.01 half 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.02 100.12 an 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.13 100.38 hour 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.39 100.56 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 100.57 101.14 fast 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 101.15 102.33 charging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 102.34 102.87 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 102.88 103.13 for 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.14 103.17 a 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.18 103.65 normal 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 103.66 104.69 charge 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 104.70 105.06 six 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.07 105.42 hours 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.43 105.58 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 105.59 105.88 up 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 106.47 106.99 it's 0.50 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 107.00 107.27 of 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 107.28 108.55 belts 0.72 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 108.56 108.84 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 108.85 109.23 across 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.24 109.32 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.33 109.77 country 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 109.78 109.99 there 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.00 110.3 aren't 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.31 110.56 enough 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 110.57 111.04 charging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 111.05 112.17 stations 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.18 112.43 big 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.44 112.8 cities 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 112.81 113.02 like 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.03 113.48 berlin 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.49 113.58 are 0.45 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 113.59 114.01 trying 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.02 114.13 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.14 114.59 change 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 114.60 115.59 that 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 115.60 115.95 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 115.96 116.06 are 0.65 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.07 116.53 trying 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.54 116.7 out 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 116.71 117.01 new 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 117.02 117.85 ideas 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 117.86 118.15 like 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 118.16 118.92 recharging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 118.93 119.14 from 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 119.15 120.48 streetlights 0.88 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 120.49 120.68 in 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 120.69 121.05 berlin 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.06 121.46 alone 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.47 121.73 some 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 121.74 122.06 five 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 122.07 122.47 thousand 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 122.48 123.12 streetlights 0.83 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.13 123.32 could 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.33 123.72 become 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 123.73 124.17 charging 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 124.18 124.9 stations 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 128.38 128.76 and 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 128.77 129.0 he 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.01 129.41 cast 0.93 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.42 129.82 currently 0.97 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 129.83 130.11 have 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.12 130.55 another 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.56 130.98 rival 0.92 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 130.99 131.86 to 0.80 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 131.87 132.27 low 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 132.28 132.67 fuel 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 132.68 133.67 costs 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.68 133.88 at 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.89 133.95 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 133.96 134.33 moment 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.34 134.39 a 0.97 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.40 134.89 driver 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 134.90 135.02 would 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.03 135.2 have 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.21 135.31 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.32 135.69 spend 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.70 135.77 a 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 135.78 136.06 lot 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.07 136.19 of 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.20 136.5 time 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.51 136.85 behind 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.86 136.92 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 136.93 137.2 wheel 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.21 137.38 to 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.39 137.78 recoup 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.79 137.89 the 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 137.90 139.57 investment 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.58 139.73 but 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.74 139.84 of 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 139.85 140.14 course 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 140.15 140.67 electric 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 140.68 141.01 cars 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.02 141.23 do 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.24 141.41 have 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.42 141.69 one 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.70 141.97 huge 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 141.98 142.51 advantage 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.52 142.61 of 0.50 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.62 142.73 a 0.50 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 142.74 143.12 diesel 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.13 143.24 and 0.98 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.25 143.77 gasoline 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 143.78 144.76 vehicles 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 144.77 145.5 zero 1.00 #
+DW DW-news-EN/c34bb972-5ffc-e43c-2648-61cd42be01be 145.51 146.19 emissions 1.00 #
