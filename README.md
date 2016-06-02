@@ -29,6 +29,8 @@
 
   Each shot is therefore uniquely identified by its tuple `(corpus_id, video_id, shot_id)`.
 
+  `/shots/all.shot` contains the concatenation of all those files.
+
 ##### `/face_tracking` (face tracking)
 
   This directory contains one `{corpus_id}/{video_id}.txt` file per video.
