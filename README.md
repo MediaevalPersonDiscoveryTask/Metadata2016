@@ -98,6 +98,16 @@
   * `confidence` is a recognition confidence score between 0 and 1 (when available)
   * `entity` is the detected named entity (or `#` when no entity is detected)
 
+##### `/baseline` (baseline fusion)
+
+  This directory contains Python code and submission/evidence files for three baseline fusions
+  * `baseline1` is the propagation of written names onto speaker diarization clusters.
+  * `baseline2` is the propagation of written names onto face track clusters.
+  * `baseline3` is the intersection of `baseline1` and `baseline2`
+
+  Subdirectory `/baseline/src` contains the Python source code for the three fusion approaches.
+  Use ```pip install -r requirements.txt``` in order to install the needed libraries.
+
 ##### `/metadata` (for contrastive runs only)
 
   This directory contains manual metadata provided by INA and DW for their respective datasets.
