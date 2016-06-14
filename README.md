@@ -15,6 +15,8 @@
   `test.txt` contains all videos that need to be processed (`3-24` + `DW` + `INA.test`), using the following convention:  
   `{corpus_id} {video_id}`
 
+  `test.evidence.txt` contains all videos in which evidences maybe be fetched (`3-24` + `DW` + `INA`).
+  This is a superset of `test.txt` (as we encourage cross-show name propagation).
 
 ##### `/shots` (segmentation into shots)
 
@@ -29,7 +31,8 @@
 
   Each shot is therefore uniquely identified by its tuple `(corpus_id, video_id, shot_id)`.
 
-  `/shots/all.shot` contains the concatenation of all those files.
+  `all.shot` contains the concatenation of all those files.  
+  `test.shot` contains the list of shots that must be processed. This is a subset of `all.shot`.
 
 ##### `/face_tracking` (face tracking)
 
