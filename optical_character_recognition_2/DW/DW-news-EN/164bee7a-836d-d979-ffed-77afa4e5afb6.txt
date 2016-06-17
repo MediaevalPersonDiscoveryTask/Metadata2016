@@ -1,0 +1,10 @@
+7.440 11.280 186 282 lens_thurau_in_berlin 61.083
+24.240 27.840 606 696 president_of_german_parliament 65.258
+24.240 27.840 606 696 norbert_lammert_cdu 59.666
+84.480 88.080 2112 2202 president_of_german_parliament 53.258
+84.480 88.080 2112 2202 norbert_lammert_cdu 56.666
+84.480 88.080 2112 2202 news 8.263
+136.320 140.160 3408 3504 president_of_german_parliament 59.258
+136.320 140.160 3408 3504 norbert_lammert_cdu 52.666
+191.520 195.360 4788 4884 president_of_german_parliament 56.258
+191.520 195.360 4788 4884 norbert_lammert_cdu 59.666

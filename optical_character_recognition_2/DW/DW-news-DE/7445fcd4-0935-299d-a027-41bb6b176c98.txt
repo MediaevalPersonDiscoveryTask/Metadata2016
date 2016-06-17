@@ -1,0 +1,13 @@
+5.760 7.200 144 180 bericht_oliver_sallet 20.856
+6.000 7.440 150 186 nachrichten 11.981
+41.760 45.360 1044 1134 nachrichten 17.959
+42.000 45.360 1050 1134 uberlebender_des_massakers_von_srcbrenica 32.278
+41.760 45.360 1044 1134 elias_pilav 28.540
+81.840 86.400 2046 2160 uberlebender_des_massakers_von_srebrenica 47.316
+81.840 86.640 2046 2166 elias_pilav 51.540
+81.840 86.640 2046 2166 nachrichten 32.945
+100.320 107.040 2508 2676 nachrichten 36.860
+156.960 162.960 3924 4074 nachrichten 39.002
+168.720 174.240 4218 4356 uberlebender_des_massakers_von_srebrenica 59.316
+168.720 174.240 4218 4356 w_nachrichten 24.206
+168.720 174.240 4218 4356 elias_pilav 57.540

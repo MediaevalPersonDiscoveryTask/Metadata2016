@@ -1,0 +1,12 @@
+6.000 9.600 150 240 thomas_aders 59.348
+6.000 9.840 150 246 journal_report_by 30.288
+30.720 35.520 768 888 journal_harun_heke 37.864
+30.720 35.520 768 888 malian_migrant 69.553
+84.480 88.560 2112 2214 military_commander 59.665
+84.480 88.560 2112 2214 journal_tarek_alsheerah 45.023
+160.560 164.400 4014 4110 journal_jonathan_irga 22.803
+160.320 164.400 4008 4110 eritrean_migrant 61.969
+167.520 173.040 4188 4326 journal_marla_mohammad 52.941
+167.520 173.040 4188 4326 somalian_migrant 70.672
+181.440 186.960 4536 4674 eritrean_migrant 80.969
+181.440 186.960 4536 4674 journal_dauel_toleran 32.674

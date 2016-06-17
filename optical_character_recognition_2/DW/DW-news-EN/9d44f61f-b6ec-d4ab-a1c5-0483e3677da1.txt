@@ -1,0 +1,14 @@
+10.800 13.680 270 342 journal_dagmar_engel 31.968
+10.560 13.680 264 342 dw_chief_political_editor 47.633
+27.360 31.920 684 798 journal_angela_merkel 50.212
+27.360 31.920 684 798 german_chancellor 57.818
+70.560 75.840 1764 1896 journal_angela_merkel 35.212
+70.800 75.840 1770 1896 german_chancellor 72.818
+133.440 137.520 3336 3438 journal_dagmar_engel 25.968
+133.200 137.520 3330 3438 dw_chief_political_editor 46.633
+150.720 155.520 3768 3888 journal_angela_merkel 50.212
+150.480 155.520 3762 3888 german_chancellor 49.818
+224.160 228.720 5604 5718 journal_angela_merkel 58.212
+223.920 228.720 5598 5718 german_chancellor 63.818
+295.680 300.480 7392 7512 journal_angela_merkel 51.212
+295.680 300.480 7392 7512 german_chancellor 69.818

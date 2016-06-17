@@ -1,0 +1,13 @@
+6.000 12.480 150 312 dagmar_zindel 61.341
+6.240 12.720 156 318 brief 13.393
+5.520 12.720 138 318 business_report_by 16.361
+34.320 39.120 858 978 siemens_innovative_mobility_solutions 73.808
+33.840 39.360 846 984 business_marcus_zwlck 47.349
+34.080 39.360 852 984 brief 22.393
+87.840 99.600 2196 2490 siemens_innovative_mobility_solutions 161.808
+87.120 99.840 2178 2496 business_marcus_zwick 37.604
+87.360 99.840 2184 2496 brief 19.393
+129.600 136.800 3240 3420 siemens_hardware_developer 92.472
+129.120 137.040 3228 3426 business_florian_poprawa 57.907
+129.600 137.040 3240 3426 brief 4.393
+142.320 145.440 3558 3636 tram 14.090

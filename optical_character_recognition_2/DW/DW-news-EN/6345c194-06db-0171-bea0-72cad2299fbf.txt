@@ -1,0 +1,17 @@
+31.440 40.320 786 1008 worziuro 24.427
+31.200 40.560 780 1014 otmar_issing 122.552
+31.440 40.560 786 1014 former_bcb_chief_economist 83.058
+42.240 59.040 1056 1476 greece_votes_no 217.004
+42.240 59.040 1056 1476 where_does_the_eurozone_go_from_here 100.951
+60.480 70.080 1512 1752 worziuro 36.427
+60.720 70.320 1518 1758 otmar_issing 123.552
+60.720 70.320 1518 1758 former_bcb_chief_economist 81.058
+72.000 131.520 1800 3288 greece_votes_no 750.004
+72.000 131.520 1800 3288 where_does_the_burozone_go_from_here 166.084
+112.800 131.520 2820 3288 where_does_the_eurozone_go_from_here 104.951
+132.960 138.720 3324 3468 wuriburg 33.470
+133.200 139.200 3330 3480 former_bcb_chief_economist 60.058
+133.200 139.200 3330 3480 otmar_issing 76.552
+140.880 173.760 3522 4344 greece_votes_no 409.004
+140.640 173.760 3516 4344 where_does_the_eurozone_go_from_here 134.951
+188.160 188.200 4704 4705 owo_dew 1.808

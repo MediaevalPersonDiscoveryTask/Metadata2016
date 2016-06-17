@@ -1,0 +1,5 @@
+49.440 115.920 1236 2898 markus_hilgert 218.546
+48.960 116.400 1224 2910 museum_of_the_ancient_near_east_berlin 593.405
+116.880 122.640 2922 3066 journal 73.892
+124.320 146.400 3108 3660 markus_hilgert 89.564
+124.080 146.640 3102 3666 museum_of_the_ancient_near_east_berlin 220.405

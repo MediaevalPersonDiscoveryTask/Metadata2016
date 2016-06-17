@@ -1,0 +1,11 @@
+5.040 10.080 126 252 wirtschaft_bericht 31.184
+5.280 10.080 132 252 jana_wochnik 48.902
+31.680 36.480 792 912 vorstand_durkopp_adler 69.673
+31.680 36.480 792 912 wirtschaft_dietrich_eickhoff 25.249
+87.600 92.400 2190 2310 mitarbeiter_durkopp_adler 72.207
+87.600 92.400 2190 2310 wirtschaft_jorg_bunte 20.588
+94.080 97.440 2352 2436 yeans 9.608
+98.640 101.040 2466 2526 yeans 10.608
+102.720 104.640 2568 2616 adler 28.920
+124.080 129.120 3102 3228 wnrtschaft_martin_theben 26.077
+124.320 129.120 3108 3228 pricewaterhousecoopers_ag 52.147

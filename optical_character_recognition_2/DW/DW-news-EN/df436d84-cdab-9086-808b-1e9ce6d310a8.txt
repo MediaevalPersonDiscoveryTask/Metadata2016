@@ -1,0 +1,12 @@
+4.560 20.640 114 516 int 8.840
+23.280 26.160 582 654 member_of_german_parliament 32.896
+23.280 26.160 582 654 news 13.263
+23.280 26.160 582 654 klauspeter_willsch_cdu 30.347
+30.480 55.920 762 1398 banks_stay_closed_and_capital_controls_imposed 114.631
+52.800 82.080 1320 2052 banks_stay_closed_and_capital_controls_imposed 85.631
+81.840 175.920 2046 4398 banks_stay_closed_and_capital_controls_imposed 104.631
+30.480 175.920 762 4398 news 667.263
+30.480 175.920 762 4398 greek_debt_crisis 1746.220
+118.320 175.920 2958 4398 banks_stay_closed_and_capital_controls_imposed 91.631
+153.120 175.920 3828 4398 banks_stay_closed_and_capital_controls_imposed 66.631
+189.600 190.160 4740 4754 owo_dew 1.808

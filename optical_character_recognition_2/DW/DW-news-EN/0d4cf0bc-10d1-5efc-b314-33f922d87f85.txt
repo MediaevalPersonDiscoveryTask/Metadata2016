@@ -1,0 +1,9 @@
+3.840 5.280 96 132 inc_as 4.114
+6.000 9.360 150 234 claudia_laszczak 37.425
+5.280 9.840 132 246 business_report_by 36.361
+69.600 74.880 1740 1872 business_johannes_priesemann 32.904
+69.840 74.880 1746 1872 brief 8.393
+103.680 108.720 2592 2718 business_johannes_priesemann 40.904
+132.000 136.320 3300 3408 european_central_bank 61.794
+131.760 136.560 3294 3414 business_christine_graeff 48.928
+131.760 136.560 3294 3414 brief 18.393

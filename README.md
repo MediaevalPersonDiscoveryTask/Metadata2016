@@ -71,7 +71,23 @@
   * `person_name` is the normalized person name
   * `confidence` is a detection confidence score between 0 and 1
 
-  Note that empty files indicate that no names were detected.
+  Note that empty files indicate that no names were detected.  
+  Thanks to Ramon Morros for providing those files.
+
+##### `/optical_character_recognition_2` (OCR)
+
+This directory contains one `{corpus_id}/{video_id}.txt` file per video.
+Each file contains one line per detected text, using the following convention:
+`start_time end_time start_frame end_frame text confidence`  
+* `start_time` is the elapsed time since the beginning of the video when text appears
+* `end_time` is the elapsed time since the beginning of the video when text disappears
+* `start_frame` is the video frame index when text appears
+* `end_frame` is the video frame index when text disappears
+* `text` is the text content
+* `confidence` is a detection confidence score between 0 and 1
+
+Note that no name filtering was applied so this file contains raw text.    
+Thanks to Nam Le for providing those files.
 
 
 ##### `/speaker_diarization` (speaker diarization)
@@ -88,6 +104,8 @@
 
   Within a video, two speech turns with the same speaker identifier indicates that the same speaker uttered the corresponding speech. However, two speech turns with the same speaker identifier in two different videos does not mean anything as speaker diarization was applied video per video.
 
+  Thanks to Sylvain Meignier for providing those files.
+
 ##### `/speech_transcription` (automatic speech recognition and named entity detection)
 
   This directory contains one `{corpus_id}/{video_id}.txt` file per video.  
@@ -100,6 +118,9 @@
   * `word` is the actual recognized word
   * `confidence` is a recognition confidence score between 0 and 1 (when available)
   * `entity` is the detected named entity (or `#` when no entity is detected)
+
+  Thanks to Yannick Estève and Javier Hernando for providing those files.
+
 
 ##### `/baseline` (baseline fusion)
 

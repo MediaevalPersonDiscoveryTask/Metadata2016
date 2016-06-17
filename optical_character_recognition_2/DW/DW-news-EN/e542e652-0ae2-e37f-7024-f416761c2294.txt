@@ -1,0 +1,15 @@
+19.920 28.080 498 702 spd_finance_expert 96.644
+19.920 28.080 498 702 carsten_schneider 79.060
+29.760 61.680 744 1542 greece_votes__no 227.004
+29.760 61.680 744 1542 germany_responds_to_referendum_result 233.134
+55.200 61.680 1380 1542 germany_responds_to_referendum_result 73.094
+62.880 75.120 1572 1878 spd_finance_expert 120.644
+63.120 75.120 1578 1878 carsten_schneider 114.050
+76.800 107.040 1920 2676 germany_responds_to_referendum_result 217.134
+101.040 132.720 2526 3318 germany_responds_to_referendum_result 226.134
+76.560 132.720 1914 3318 greece_votes__no 332.004
+126.000 132.720 3150 3318 germany_responds_to_referendum_result 81.134
+19.920 144.000 498 3600 gan_news 182.064
+134.160 144.000 3354 3600 spd_finance_expert 117.644
+134.400 144.000 3360 3600 carsten_schneider 91.060
+110.880 144.000 2772 3600 gan_news 64.031

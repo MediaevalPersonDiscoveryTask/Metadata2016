@@ -1,0 +1,9 @@
+6.960 11.520 174 288 dorothea_topf 46.729
+6.720 12.000 168 300 wirtschaft_bericht 46.184
+23.040 27.600 576 690 bereichsleiter_neue_applikationen 81.889
+22.800 27.840 570 696 wirtschaft_peter_solleder 32.618
+23.040 28.080 576 702 bestimmt 2.656
+26.640 37.920 666 948 und 2.130
+117.360 122.160 2934 3054 bereichsleiter_neue_applikationen 82.889
+117.360 122.400 2934 3060 wirtschaft_peter_solleder 28.618
+118.080 122.400 2952 3060 ltotnpalxt 10.667

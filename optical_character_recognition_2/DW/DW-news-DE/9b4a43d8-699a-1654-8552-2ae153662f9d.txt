@@ -1,0 +1,7 @@
+6.480 10.320 162 258 gab_nachrichten 17.940
+6.480 10.320 162 258 lens_thurau_in_berlin 34.567
+33.360 38.880 834 972 bundestagsabgeordneter 70.230
+68.160 71.760 1704 1794 bundestagsabgeordneter 44.230
+68.160 71.760 1704 1794 nachrichten 37.173
+107.040 110.640 2676 2766 bundestagsabgeordneter 43.230
+107.040 110.640 2676 2766 nachrichten 19.667

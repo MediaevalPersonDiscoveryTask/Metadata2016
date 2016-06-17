@@ -1,0 +1,9 @@
+12.960 15.600 324 390 report_by_andrea_buchberger 46.669
+13.200 15.600 330 390 gan_news 12.064
+30.000 32.880 750 822 former_german_chancellor 46.539
+30.000 32.880 750 822 helmut_kohl 27.921
+57.600 60.240 1440 1506 last_prime_minister_of_the_gdr 40.485
+57.840 60.240 1446 1506 lothar_de_maiziere 33.336
+98.640 103.440 2466 2586 hansdietrich_genscher 66.170
+98.640 103.440 2466 2586 former_foreign_minister 60.344
+98.880 103.440 2472 2586 ga_news 12.049

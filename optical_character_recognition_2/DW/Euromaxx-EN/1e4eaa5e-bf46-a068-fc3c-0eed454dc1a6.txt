@@ -1,0 +1,5 @@
+27.120 33.360 678 834 hotel_imperial_head_concierge 84.187
+27.120 33.360 678 834 manfred_grassauer 88.730
+110.400 114.240 2760 2856 manfred_grassauer 59.730
+110.400 114.240 2760 2856 hotel_imperial_head_concierge 64.187
+248.400 251.520 6210 6288 kirstin_schumann_report_camera_editor 42.714

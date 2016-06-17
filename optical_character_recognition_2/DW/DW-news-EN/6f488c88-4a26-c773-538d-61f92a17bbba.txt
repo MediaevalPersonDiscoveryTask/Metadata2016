@@ -1,0 +1,13 @@
+5.520 11.040 138 276 alexa_meyer 74.938
+6.720 11.280 168 282 business_report_by 20.361
+5.280 11.280 132 282 brief 29.393
+57.360 63.360 1434 1584 bundeswehr_base_weissenfels_technical_director 71.686
+57.120 63.600 1428 1590 business_thomas_rabenalt 39.737
+57.120 63.600 1428 1590 brief 15.393
+102.000 106.560 2550 2664 bundeswehr_base_weissenfels_technical_director 65.686
+101.280 107.040 2532 2676 business_thomas_rabenalt 45.550
+101.520 107.040 2538 2676 brief 25.393
+125.040 126.480 3126 3162 momentanleistuna 13.686
+129.600 135.600 3240 3390 bundeswehr_excellence_center_strausberg 95.993
+128.880 135.840 3222 3396 business_marko_richter 28.046
+129.120 135.840 3228 3396 brief 27.393

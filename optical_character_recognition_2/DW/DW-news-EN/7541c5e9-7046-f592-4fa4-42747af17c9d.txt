@@ -1,0 +1,12 @@
+35.520 79.680 888 1992 eu_foreign_ministers_launch_operation_against_traffickers 193.842
+66.240 80.880 1656 2022 eu_foreign_ministers_launch_operation_against_traffickers 102.842
+35.760 80.880 894 2022 eu_migrant_crisis 332.336
+84.000 88.320 2100 2208 i_one 2.759
+90.240 115.680 2256 2892 eu_migrant_crisis 212.326
+90.000 115.680 2250 2892 eu_foreign_ministers_launch_operation_against_traffickers 159.842
+124.560 152.880 3114 3822 eu_foreign_ministers_launch_operation_against_traffickers 171.842
+124.560 152.880 3114 3822 eu_migrant_crisis 217.326
+27.600 165.360 690 4134 gan_news 206.064
+162.480 165.360 4062 4134 eu_foreign_ministers_launch_operation_against_traffickers 45.842
+162.480 165.360 4062 4134 eu_migrant_crisis 33.336
+182.400 182.560 4560 4564 dwcoiti 1.481

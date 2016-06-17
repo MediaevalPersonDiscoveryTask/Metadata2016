@@ -1,0 +1,13 @@
+19.680 20.880 492 522 iwson 5.434
+31.680 37.200 792 930 dresden 27.292
+31.200 37.440 780 936 iaafar_abdel_karim 45.077
+31.200 37.440 780 936 dw_correspondent 76.874
+39.120 95.040 978 2376 dw_arabic_service_reporter_attacked_at_antiforeigner_demo 429.854
+82.800 114.240 2070 2856 dw_arabic_service_reporter_attacked_at_antiforeigner_demo 333.854
+39.120 114.240 978 2856 pegida_protest 814.089
+115.680 120.240 2892 3006 dresden 20.292
+115.920 120.480 2898 3012 iaafar_abdel_karim 31.077
+115.920 120.480 2898 3012 dw_correspondent 66.874
+31.440 172.080 786 4302 gan_news 194.064
+122.160 172.080 3054 4302 dw_arabic_service_reporter_attacked_at_antiforeigner_demo 509.854
+122.160 172.080 3054 4302 pegida_protest 567.085

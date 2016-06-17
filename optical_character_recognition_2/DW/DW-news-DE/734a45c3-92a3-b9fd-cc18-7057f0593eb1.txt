@@ -1,0 +1,7 @@
+5.760 9.600 144 240 w_nachrichten 17.049
+27.600 31.200 690 780 geschaftsfuhrer_hpc_ukraina 36.954
+27.600 31.200 690 780 heiko_poehlemann 39.994
+27.600 31.200 690 780 w_nachrichten 18.357
+139.680 143.520 3492 3588 nachrichten 14.267
+139.680 143.520 3492 3588 heiko_poehlemann 34.994
+139.680 143.520 3492 3588 geschaftsfuhrer_hpc_ukraina 28.954

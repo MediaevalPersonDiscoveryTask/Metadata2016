@@ -1,0 +1,9 @@
+6.480 9.600 162 240 bericht_oliver_sallet 48.856
+39.120 42.000 978 1050 franz_wasmeier 29.152
+38.880 42.000 972 1050 heimleiter_landkreis_rottalihn 19.675
+108.960 113.280 2724 2832 nachrichten 23.898
+108.960 113.280 2724 2832 franz_wasmeier 55.152
+108.960 113.280 2724 2832 heimleiter_landkreis_rottaliran 27.456
+155.280 158.400 3882 3960 heimleiter_landkreis_rottalinn 21.319
+155.280 158.400 3882 3960 franz_wasmeier 36.152
+155.280 158.400 3882 3960 w_nachrichten 16.107

@@ -1,0 +1,11 @@
+5.280 8.880 132 222 report_by_julian_karl 28.953
+5.280 8.880 132 222 gan_news 11.064
+52.560 55.920 1314 1398 berlin_deputy_interior_minister 46.164
+52.560 55.920 1314 1398 gan_news 15.064
+52.560 55.920 1314 1398 bernd_kremer 30.052
+78.480 82.800 1962 2070 german_evangelical_social_welfare_organization 64.048
+78.240 82.800 1956 2070 martin_matz 60.181
+78.480 82.800 1962 2070 gab_news 10.182
+115.680 120.000 2892 3000 franziska_giffey 41.339
+115.680 120.000 2892 3000 berlin_local_councillor 37.755
+146.880 147.440 3672 3686 owogbow 1.361

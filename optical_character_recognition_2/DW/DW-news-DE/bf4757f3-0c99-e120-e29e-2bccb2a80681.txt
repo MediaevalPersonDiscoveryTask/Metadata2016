@@ -1,0 +1,10 @@
+6.000 10.800 150 270 w_nachrichten 22.079
+5.760 11.040 144 276 bericht_carmen_dautzenberg 53.193
+68.160 72.240 1704 1806 ministare_de_i_inte_rieur 17.776
+73.440 76.320 1836 1908 nachrichten 15.358
+73.200 76.320 1830 1908 bernard_cazeneuve 34.800
+73.200 76.320 1830 1908 innenminister_frankreich 40.263
+73.440 79.440 1836 1986 i_irnocici 1.521
+77.040 79.440 1926 1986 ministore_de_i_inte_rieur 15.776
+152.160 155.040 3804 3876 francois_hollande 31.580
+152.160 155.040 3804 3876 prasident_frankreich 35.099

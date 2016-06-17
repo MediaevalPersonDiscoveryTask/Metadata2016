@@ -1,0 +1,10 @@
+6.000 9.840 150 246 gan_news 15.064
+6.000 9.840 150 246 melinda_crane 56.901
+6.000 9.840 150 246 dw_chief_political_correspondent 63.748
+30.480 35.040 762 876 tunisian_prime_minister 35.632
+30.480 35.040 762 876 habib_essid 42.433
+30.480 35.040 762 876 news 14.263
+66.720 73.440 1668 1836 habib_essid 33.433
+66.960 73.440 1674 1836 tunisian_prime_minister 57.632
+150.720 156.960 3768 3924 tunisian_prime_minister 42.654
+150.720 156.960 3768 3924 habib_essid 52.433

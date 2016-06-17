@@ -1,0 +1,10 @@
+5.760 9.600 144 240 news 8.263
+5.520 9.600 138 240 report_by_christina_reder 41.163
+31.440 35.520 786 888 federation_of_international_mining_and_mineral_resources 66.924
+31.440 35.520 786 888 martin_wedig 42.799
+75.600 83.040 1890 2076 caterpillar_global_mining_europe 73.496
+75.840 83.040 1896 2076 gan_news 17.064
+75.600 83.040 1890 2076 ian_rohwer 99.885
+120.720 126.000 3018 3150 gan_news 23.064
+120.480 126.240 3012 3156 ian_rohwer 77.885
+120.480 126.240 3012 3156 caterpillar_global_mining_europe 50.609

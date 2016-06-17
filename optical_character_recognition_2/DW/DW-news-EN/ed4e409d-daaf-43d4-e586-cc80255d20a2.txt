@@ -1,0 +1,8 @@
+5.280 8.640 132 216 oxana_evdokimova 39.056
+5.520 8.640 138 216 journal_report_by 19.288
+41.520 46.560 1038 1164 daughter_of_boris_nemtsov 67.149
+41.760 46.560 1044 1164 journal_zhanna_nemtsova 43.812
+92.640 98.640 2316 2466 daughter_of_boris_nemtsov 67.149
+92.880 98.640 2322 2466 journal_zhanna_nemtsova 35.812
+124.080 131.040 3102 3276 daughter_of_boris_nemtsov 79.149
+124.080 131.040 3102 3276 journal_zhanna_nemtsova 39.812

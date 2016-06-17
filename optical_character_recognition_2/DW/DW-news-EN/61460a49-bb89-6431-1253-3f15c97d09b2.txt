@@ -1,0 +1,14 @@
+6.000 9.600 150 240 news 13.263
+6.000 9.840 150 246 report_by_oliver_glasenapp 53.428
+49.440 52.800 1236 1320 kltesur_ng_coach 18.866
+49.440 52.800 1236 1320 gan_news 8.064
+49.440 52.800 1236 1320 tim_retzlaff 38.725
+80.160 83.520 2004 2088 federal_association_of_real_estate_and_housing_companies 63.264
+80.160 83.520 2004 2088 gan_news 14.064
+79.920 83.520 1998 2088 hiltrud_sprungala 47.846
+117.120 120.960 2928 3024 tilmann_heuser 28.140
+117.360 120.960 2934 3024 bund_friends_of_the_earth_germany 50.403
+171.120 175.680 4278 4392 elisabeth_meyerrenschhausen 58.391
+171.360 175.680 4284 4392 urban_gardener 45.260
+171.360 175.680 4284 4392 gan_news 19.064
+205.680 205.720 5142 5143 owo_owu 1.307

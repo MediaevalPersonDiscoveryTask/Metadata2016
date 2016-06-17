@@ -1,0 +1,15 @@
+22.800 28.560 570 714 john_berwick 39.751
+22.800 28.560 570 714 dw_religious_correspondent 62.718
+30.240 69.840 756 1746 pope_in_bolivia 501.517
+30.000 69.840 750 1746 francis_focuses_on_poor_in_latin_america 376.659
+71.520 75.360 1788 1884 john_berwick 35.751
+71.280 114.960 1782 2874 francis_focuses_on_poor_in_latin_america 251.659
+106.800 142.800 2670 3570 francis_focuses_on_poor_in_latin_america 312.659
+76.800 144.000 1920 3600 pope_in_bolivia 815.517
+141.600 144.000 3540 3600 francis_focuses_on_poor_in_latin_america 44.659
+145.440 149.760 3636 3744 dw_religious_correspondent 51.718
+145.680 149.760 3642 3744 john_berwick 41.751
+151.200 171.120 3780 4278 francis_focuses_on_poor_in_latin_america 178.659
+23.040 171.360 576 4284 gan_news 179.064
+151.200 171.360 3780 4284 pope_in_bolivia 254.517
+146.400 171.360 3660 4284 gan_news 44.064

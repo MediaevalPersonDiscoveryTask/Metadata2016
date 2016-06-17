@@ -1,0 +1,12 @@
+23.040 30.480 576 762 rechtsexperte_humboldtuniversitat_berlin 77.317
+23.040 30.480 576 762 gerhard_dannemann 82.371
+23.040 30.480 576 762 nachrichten 24.617
+40.800 51.360 1020 1284 tausende_begruben_queen_elizabeth_ll 65.299
+40.800 51.360 1020 1284 queen_in_frankfurt_am_main 130.303
+40.800 51.360 1020 1284 w_nachrichten 27.313
+101.760 111.120 2544 2778 rechtsexperte_humboldtuniversitat_berlin 95.317
+101.760 111.120 2544 2778 nachrichten 31.637
+101.760 111.120 2544 2778 gerhard_dannemann 99.371
+139.200 150.000 3480 3750 nachrichten 40.095
+138.960 150.000 3474 3750 queen_in_frankfurt_am_main 147.353
+139.200 150.000 3480 3750 tausende_begruben_queen_elizabeth_ii 45.755

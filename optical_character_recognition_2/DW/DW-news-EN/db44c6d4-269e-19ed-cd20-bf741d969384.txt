@@ -1,0 +1,5 @@
+7.680 11.280 192 282 w_nachrichten 15.641
+7.680 11.280 192 282 bericht_ania_kueppers 54.039
+86.160 93.120 2154 2328 gan_nachrichten 26.368
+85.920 93.120 2148 2328 fliichtling_aus_syrien 33.408
+85.920 93.120 2148 2328 muhammad_alazaawi 83.736

@@ -1,0 +1,9 @@
+24.000 28.560 600 714 russian_politician 70.738
+23.760 28.800 594 720 journal_llya_yashln 21.938
+56.400 63.840 1410 1596 journal_markus_reher 56.295
+56.160 64.080 1404 1602 reporting_from_moscow 97.562
+89.040 91.440 2226 2286 hemhob 8.410
+97.200 102.720 2430 2568 member_of_regional_parliament 85.779
+97.200 102.720 2430 2568 sergey_balabayev 30.503
+125.760 132.720 3144 3318 member_of_regional_parliament 103.780
+125.760 132.720 3144 3318 journal_andrey_krutlkov 37.957

@@ -1,0 +1,9 @@
+24.240 60.960 606 1524 islamic_state_seizes_palmyra 218.923
+23.760 61.200 594 1530 daniel_gerlach_middle_east_analyst 237.931
+74.400 78.000 1860 1950 journal 46.892
+79.920 150.720 1998 3768 islamic_state_seizes_palmyra 381.251
+144.960 150.720 3624 3768 islamic_state_seizes_palmyra 41.199
+79.440 150.960 1986 3774 daniel_gerlach_middle_east_analyst 406.931
+152.160 158.880 3804 3972 journal 84.892
+160.560 173.520 4014 4338 islamic_state_seizes_palmyra 76.112
+160.320 173.760 4008 4344 daniel_gerlach_middle_east_analyst 83.931

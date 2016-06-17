@@ -1,0 +1,13 @@
+3.600 15.120 90 378 alalo 1.525
+3.600 15.120 90 378 nasdaq 140.724
+83.520 87.600 2088 2190 nasdaq 47.724
+121.920 127.440 3048 3186 nasdaq 64.724
+123.840 127.440 3096 3186 alalo 5.525
+149.280 154.800 3732 3870 new_york 39.286
+149.040 155.040 3726 3876 jose_luis_de_haro 26.081
+149.040 155.040 3726 3876 dw_financial_correspondent 39.192
+156.720 198.240 3918 4956 wall_street_pulls_back_from_historic_losses_doubts_imminent_i_ed_rates_hike 81.601
+156.720 198.240 3918 4956 global_stock_market_rout 366.076
+176.160 198.240 4404 4956 wall_street_pulls_back_from_historic_losses_doubts_imminent_i_ed_rates_hike 86.601
+192.960 198.240 4824 4956 wall_street_pulls_back_from_historic_losses_doubts_imminent_fed_rates_hike 62.197
+201.120 201.680 5028 5042 owqcsoehe 3.180

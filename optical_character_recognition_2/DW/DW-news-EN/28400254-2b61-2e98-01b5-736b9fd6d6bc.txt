@@ -1,0 +1,13 @@
+23.280 30.000 582 750 director_new_applications_karl_storz 93.200
+22.800 30.240 570 756 business_peter_solleder 42.547
+23.040 30.240 576 756 itlil 6.525
+63.840 68.400 1596 1710 director_new_applications_karl_storz 65.200
+63.600 68.880 1590 1722 bnei 4.297
+63.600 68.880 1590 1722 business_peter_solleder 45.547
+117.840 123.360 2946 3084 director_new_applications_karl_storz 65.200
+117.600 123.600 2940 3090 business 6.965
+117.600 123.600 2940 3090 irlci 3.239
+117.840 123.600 2946 3090 business_peter_solleder 39.547
+145.680 150.480 3642 3762 director_new_applications_karl_storz 54.200
+145.200 150.960 3630 3774 business_peter_solleder 34.547
+145.680 150.960 3642 3774 briei 3.797

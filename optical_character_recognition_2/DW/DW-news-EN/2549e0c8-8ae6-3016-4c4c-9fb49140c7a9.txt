@@ -1,0 +1,16 @@
+24.960 31.920 624 798 johannes_hahn 90.691
+25.200 31.920 630 798 eu_enlargement_commissioner 57.017
+25.200 31.920 630 798 news 17.263
+35.280 68.880 882 1722 eu_commissioner_deplores_new__iron_curtain 173.417
+64.560 76.320 1614 1908 eu_commissioner_deplores_new__iron_curtain 56.417
+35.280 76.320 882 1908 european_border_restrictions 456.655
+35.280 76.320 882 1908 gan_news 108.064
+85.200 90.240 2130 2256 eu_enlargement_commissioner 45.017
+85.200 90.240 2130 2256 johannes_hahn 72.691
+93.600 160.320 2340 4008 gan_news 123.064
+93.600 174.240 2340 4356 european_border_restrictions 904.655
+93.600 174.240 2340 4356 eu_commissioner_deplores_new__iron_curtain 142.417
+157.200 174.240 3930 4356 eu_commissioner_deplores_new__iron_curtain 68.417
+124.560 174.240 3114 4356 eu_commissioner_deplores_new__iron_curtain 117.417
+161.760 174.240 4044 4356 gan_news 45.064
+180.960 180.960 4524 4524 owq_owe 1.498

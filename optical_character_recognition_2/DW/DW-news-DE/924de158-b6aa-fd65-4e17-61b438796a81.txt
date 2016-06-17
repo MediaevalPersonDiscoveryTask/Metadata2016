@@ -1,0 +1,15 @@
+33.600 40.320 840 1008 roland_jahn 57.974
+33.600 40.320 840 1008 bundesbeauftragter_fur_die_unterlagen_der_stasi 103.093
+41.760 64.320 1044 1608 dwthemenwoche 277.076
+65.760 72.000 1644 1800 roland_jahn 54.974
+65.760 72.000 1644 1800 bundesbeauftragter_fur_die_unterlagen_der_stasi 102.093
+73.680 110.160 1842 2754 dwthemenwoche 452.076
+111.600 118.560 2790 2964 roland_jahn 57.974
+111.600 118.560 2790 2964 bundesbeauftragter_fur_die_unterlagen_der_stasi 110.093
+120.000 161.280 3000 4032 dwthemenwoche 509.076
+162.720 178.080 4068 4452 bundesbeauftragter_fur_die_unterlagen_der_stasi 200.093
+162.720 178.080 4068 4452 roland_jahn 132.974
+33.600 187.200 840 4680 nachrichten 207.483
+121.200 187.200 3030 4680 nachrichten 249.316
+179.520 187.200 4488 4680 roland_jahn 74.974
+179.520 187.200 4488 4680 bundesbeauftragter_fur_die_unterlagen_der_stasi 116.093

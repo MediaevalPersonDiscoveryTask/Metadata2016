@@ -1,0 +1,11 @@
+6.960 12.000 174 300 wirtschaft_bericht 39.184
+27.840 32.640 696 816 hafenarbeiter 70.227
+28.560 32.640 714 816 w_rtschaft_stratos_kaloritis 22.062
+84.480 89.280 2112 2232 generalsekretar_der_hafenarbeitergewerkschaft 83.461
+84.240 89.520 2106 2238 inom_mit 7.609
+84.480 89.520 2112 2238 wirtschaft_giorgos_gogos 24.005
+129.360 134.160 3234 3354 forschungsinstitut_eliamep 68.564
+129.120 134.400 3228 3360 wirtschaft_george_tzogopoulos 40.693
+129.360 134.640 3234 3366 kam_pakt 9.462
+177.120 181.920 4428 4548 hafenarbeiter 71.227
+177.120 182.160 4428 4554 wirtschaft_stratos_kaloritis 46.501
